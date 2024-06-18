@@ -1,0 +1,1 @@
+{"DATASET": "aaup", "QUERY_TYPE": "simple", "GRAPH_MOD": "property", "SCHEMA": "../data/statements.rdf", "URI_DF": "../data/aaup/complete_dataset.tsv", "LABEL": "label"}

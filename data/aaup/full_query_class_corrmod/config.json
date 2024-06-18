@@ -1,0 +1,1 @@
+{"DATASET": "aaup", "QUERY_TYPE": "full", "GRAPH_MOD": "class_corr", "SCHEMA": "../data/statements.rdf", "URI_DF": "../data/aaup/complete_dataset_corr_feat.tsv", "LABEL": "label"}

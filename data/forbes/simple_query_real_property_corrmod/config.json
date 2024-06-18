@@ -1,0 +1,1 @@
+{"DATASET": "forbes", "QUERY_TYPE": "simple", "GRAPH_MOD": "real_property_corr", "SCHEMA": "../data/statements.rdf", "URI_DF": "../data/forbes/complete_dataset_real_corr_feat.tsv", "LABEL": "label"}

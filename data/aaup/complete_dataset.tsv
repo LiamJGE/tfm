@@ -1,0 +1,934 @@
+uri	Average_salary_full_professors	Average_salary_associate_professors	Average_salary_assistant_professors	Average_salary_all_ranks	Average_compensation_full_professor	Average_compensation_associate_professors	Average_compensation_assistant_professors	Average_compensation_all_ranks	Number_of_full_professors	Number_of_associate_professors	Number_of_assistant_professors	Number_of_instructors	Number_of_faculty_all_ranks	FICE	College_name	State	label_salary	label_comp	label
+http://dbpedia.org/resource/Abilene_Christian_University	424.0	375.0	339.0	376.0	555.0	491.0	418.0	494.0	68.0	42.0	36.0	14.0	160.0	3537.0	Abilene Christian University	TX	medium	medium	IIA
+http://dbpedia.org/resource/Adams_State_College	436.0	356.0	321.0	360.0	527.0	444.0	400.0	444.0	29.0	21.0	40.0	8.0	98.0	1345.0	Adams State College	CO	medium	low	IIA
+http://dbpedia.org/resource/Adrian_College	439.0	365.0	316.0	386.0	559.0	466.0	407.0	493.0	37.0	8.0	14.0	7.0	66.0	2234.0	Adrian College	MI	medium	medium	IIB
+http://dbpedia.org/resource/Agnes_Scott_College	527.0	421.0	356.0	426.0	651.0	528.0	441.0	528.0	19.0	24.0	19.0	4.0	66.0	1542.0	Agnes Scott College	GA	medium	medium	IIB
+http://dbpedia.org/resource/Alaska_Pacific_University	454.0	382.0	362.0	382.0	567.0	485.0	471.0	487.0	6.0	11.0	9.0	4.0	32.0	1061.0	Alaska Pacific University	AK	medium	medium	IIB
+http://dbpedia.org/resource/Albany_State_University	444.0	395.0	335.0	371.0	578.0	519.0	437.0	484.0	38.0	24.0	68.0	8.0	138.0	1544.0	Albany State College	GA	medium	medium	IIB
+http://dbpedia.org/resource/Albertus_Magnus_College	391.0	343.0		340.0	444.0	400.0		393.0	9.0	7.0	5.0	3.0	24.0	1374.0	Albertus Magnus College	CT	low	low	IIB
+http://dbpedia.org/resource/Albion_College	562.0	443.0	346.0	462.0	716.0	573.0	437.0	589.0	47.0	27.0	33.0	2.0	109.0	2235.0	Albion College	MI	medium	medium	IIB
+http://dbpedia.org/resource/Albright_College	488.0	396.0	359.0	430.0	648.0	514.0	451.0	562.0	39.0	21.0	15.0	3.0	79.0	3229.0	Albright College	PA	medium	medium	IIB
+http://dbpedia.org/resource/Alcorn_State_University	419.0	371.0	326.0	320.0	534.0	473.0	414.0	406.0	25.0	35.0	35.0	73.0	168.0	2396.0	Alcorn State University	MS	low	low	IIB
+http://dbpedia.org/resource/Alderson%E2%80%93Broaddus_College	385.0	315.0	272.0	299.0	507.0	402.0	349.0	386.0	9.0	18.0	25.0	11.0	63.0	3806.0	Alderson Broaddus College	WV	low	low	IIB
+http://dbpedia.org/resource/Alfred_University	520.0	427.0	367.0	439.0	641.0	538.0	467.0	548.0	46.0	25.0	36.0	6.0	113.0	2668.0	Alfred University	NY	medium	medium	IIA
+http://dbpedia.org/resource/Allegheny_College	576.0	414.0	332.0	415.0	744.0	537.0	418.0	532.0	36.0	46.0	54.0	8.0	144.0	3230.0	Allegheny College	PA	medium	medium	IIB
+http://dbpedia.org/resource/Alma_College	523.0	408.0	335.0	422.0	645.0	515.0	423.0	527.0	25.0	27.0	21.0	2.0	75.0	2236.0	Alma College	MI	medium	medium	IIB
+http://dbpedia.org/resource/Alvernia_University	402.0	315.0	295.0	303.0	506.0	370.0	347.0	361.0	7.0	12.0	30.0	11.0	60.0	3233.0	Alvernia College	PA	low	low	IIB
+http://dbpedia.org/resource/Alverno_College	438.0	352.0	282.0	314.0	511.0	411.0	332.0	368.0	9.0	31.0	74.0	0.0	114.0	3832.0	Alverno College	WI	low	low	IIB
+http://dbpedia.org/resource/American_University	746.0	520.0	417.0	555.0	897.0	641.0	505.0	673.0	165.0	119.0	125.0	37.0	446.0	1434.0	American University	DC	high	high	I
+http://dbpedia.org/resource/Amherst_College	726.0	516.0	425.0	610.0	917.0	661.0	546.0	774.0	87.0	23.0	43.0	0.0	153.0	2115.0	Amherst College	MA	high	high	IIB
+http://dbpedia.org/resource/Anderson_University_(Indiana)	415.0	340.0	316.0	347.0	532.0	427.0	389.0	437.0	43.0	45.0	36.0	14.0	138.0	1785.0	Anderson University	IN	low	low	IIB
+http://dbpedia.org/resource/Angelo_State_University	485.0	425.0	369.0	398.0	618.0	549.0	484.0	517.0	68.0	27.0	40.0	45.0	180.0	3541.0	Angelo State University	TX	medium	medium	IIB
+http://dbpedia.org/resource/Anna_Maria_College	407.0	364.0	318.0	341.0	499.0	470.0	377.0	416.0	6.0	9.0	14.0	4.0	33.0	2117.0	Anna Maria College	MA	low	low	IIB
+http://dbpedia.org/resource/Antioch_University	441.0	348.0	300.0	316.0	571.0	457.0	398.0	418.0	30.0	15.0	17.0	3.0	162.0	8795.0	Antioch University	OH	low	low	IIA
+http://dbpedia.org/resource/Appalachian_State_University	491.0	413.0	366.0	424.0	598.0	505.0	448.0	518.0	249.0	117.0	113.0	19.0	545.0	2906.0	Appalachian State University	NC	medium	medium	IIA
+http://dbpedia.org/resource/Aquinas_College,_Perth	387.0	313.0	275.0	319.0	491.0	376.0	331.0	392.0	27.0	32.0	27.0	4.0	90.0	2239.0	Aquinas College	MI	low	low	IIB
+http://dbpedia.org/resource/Arcadia_University	496.0	405.0	353.0	381.0	652.0	532.0	462.0	500.0	12.0	20.0	32.0	2.0	68.0	3235.0	Beaver College	PA	medium	medium	IIA
+http://dbpedia.org/resource/Arizona_State_University	603.0	449.0	399.0	489.0	723.0	549.0	489.0	593.0	576.0	445.0	251.0	7.0	1383.0	1081.0	Arizona State University	AZ	medium	medium	I
+http://dbpedia.org/resource/Arkansas_State_University	520.0	433.0	342.0	398.0	646.0	541.0	431.0	498.0	103.0	87.0	141.0	63.0	394.0	1090.0	Arkansas State University	AR	medium	medium	IIA
+http://dbpedia.org/resource/Arkansas_Tech_University	439.0	381.0	337.0	374.0	550.0	479.0	427.0	471.0	44.0	71.0	52.0	13.0	180.0	1089.0	Arkansas Tech University	AR	medium	medium	IIB
+http://dbpedia.org/resource/Art_Academy_of_Cincinnati		286.0		304.0		354.0		371.0	5.0	6.0	5.0	1.0	17.0	3011.0	Art Academy of Cincinnati	OH	low	low	IIB
+http://dbpedia.org/resource/Ashford_University				302.0				373.0	0.0	0.0	0.0	0.0	18.0	1881.0	Mount St. Clare College	IA	low	low	IIA
+http://dbpedia.org/resource/Ashland_University	484.0	418.0	329.0	398.0	624.0	530.0	437.0	515.0	52.0	58.0	58.0	4.0	179.0	3012.0	Ashland University	OH	medium	medium	IIB
+http://dbpedia.org/resource/Assumption_College	479.0	400.0	325.0	385.0	610.0	518.0	413.0	492.0	22.0	42.0	40.0	3.0	107.0	2118.0	Assumption College	MA	medium	medium	IIB
+http://dbpedia.org/resource/Athens_State_University	466.0	394.0	351.0	396.0	558.0	476.0	427.0	478.0	20.0	18.0	30.0	0.0	68.0	1008.0	Athens State College	AL	medium	medium	IIB
+http://dbpedia.org/resource/Auburn_Montgomery	519.0	422.0	343.0	403.0	621.0	507.0	411.0	483.0	56.0	54.0	63.0	28.0	201.0	8310.0	Auburn University at Montgomery	AL	medium	medium	IIA
+http://dbpedia.org/resource/Auburn_University	580.0	437.0	374.0	455.0	692.0	527.0	451.0	546.0	366.0	354.0	301.0	66.0	1109.0	1009.0	Auburn University	AL	medium	medium	I
+http://dbpedia.org/resource/Augsburg_College	432.0	356.0	314.0	357.0	559.0	449.0	387.0	450.0	35.0	29.0	58.0	1.0	123.0	2334.0	Augsburg College	MN	medium	medium	IIB
+http://dbpedia.org/resource/Augusta_State_University	503.0	409.0	336.0	383.0	645.0	520.0	431.0	489.0	40.0	43.0	79.0	21.0	183.0	1552.0	Augusta College	GA	medium	medium	IIA
+http://dbpedia.org/resource/Augustana_College_(Illinois)	480.5	403.5	342.0	391.0	612.0	521.0	439.0	502.0	37.5	25.0	47.5	12.5	122.5	1633.0	Augustana College	IL	medium	medium	IIB
+http://dbpedia.org/resource/Aurora_University	434.0	379.0	339.0	372.0	528.0	461.0	402.0	447.0	18.0	16.0	19.0	16.0	69.0	1634.0	Aurora University	IL	medium	medium	IIB
+http://dbpedia.org/resource/Austin_College	508.0	394.0	320.0	418.0	629.0	500.0	390.0	518.0	37.0	20.0	23.0	4.0	84.0	3543.0	Austin College	TX	medium	medium	IIB
+http://dbpedia.org/resource/Austin_Peay_State_University	482.0	362.0	314.0	374.0	581.0	445.0	390.0	458.0	86.0	47.0	102.0	17.0	252.0	3478.0	Austin Peay State University	TN	medium	medium	IIA
+http://dbpedia.org/resource/Averett_University	372.0	319.0	281.0	328.0	454.0	395.0	342.0	400.0	19.0	15.0	11.0	3.0	48.0	3702.0	Averett College	VA	low	low	IIB
+http://dbpedia.org/resource/Avila_College	379.0	340.0	295.0	317.0	459.0	404.0	349.0	377.0	10.0	13.0	17.0	12.0	52.0	2449.0	Avila College	MO	low	low	IIB
+http://dbpedia.org/resource/Azusa_Pacific_University	430.0	375.0	318.0	368.0	573.0	494.0	428.0	488.0	43.0	62.0	32.0	12.0	156.0	1117.0	Azusa Pacific University	CA	medium	medium	IIA
+http://dbpedia.org/resource/Babson_College	787.0	613.0	557.0	633.0	975.0	769.0	700.0	790.0	31.0	45.0	31.0	3.0	119.0	2121.0	Babson College	MA	high	high	IIB
+http://dbpedia.org/resource/Baker_University	369.0	318.0	288.0	327.0	443.0	396.0	346.0	397.0	18.0	18.0	16.0	0.0	52.0	1903.0	Baker University	KS	low	low	IIB
+http://dbpedia.org/resource/Baldwin%E2%80%93Wallace_College	530.0	431.0	360.0	464.0	662.0	552.0	464.0	587.0	74.0	39.0	35.0	0.0	148.0	3014.0	Baldwin-Wallace College	OH	medium	medium	IIB
+http://dbpedia.org/resource/Ball_State_University	517.0	410.0	332.0	384.0	666.0	537.0	438.0	501.0	297.0	160.0	350.0	155.0	965.0	1786.0	Ball State University	IN	medium	medium	I
+http://dbpedia.org/resource/Barat_College	507.0	405.0	333.0	402.0	599.0	473.0	394.0	474.0	9.0	9.0	14.0	0.0	32.0	1635.0	Barat College	IL	medium	medium	IIB
+http://dbpedia.org/resource/Barber%E2%80%93Scotia_College	352.0	312.0	287.0	297.0	412.0	360.0	335.0	347.0	13.0	12.0	14.0	13.0	52.0	2909.0	Barber-Scotia College	NC	low	low	IIB
+http://dbpedia.org/resource/Bard_College	657.0	460.0	365.0	521.0	860.0	605.0	481.0	683.0	40.0	15.0	29.0	0.0	84.0	2671.0	Bard College	NY	high	high	IIB
+http://dbpedia.org/resource/Barnard_College	733.0	516.0	395.0	508.0	943.0	652.0	509.0	654.0	49.0	19.0	56.0	6.0	154.0	2708.0	Barnard College	NY	high	high	IIB
+http://dbpedia.org/resource/Barry_University	488.0	420.0	350.0	394.0	598.0	508.0	424.0	477.0	39.0	77.0	84.0	15.0	215.0	1466.0	Barry University	FL	medium	medium	IIA
+http://dbpedia.org/resource/Barton_College	348.0	312.0	299.0	311.0	411.0	372.0	349.0	365.0	18.0	25.0	37.0	3.0	84.0	2908.0	Barton College	NC	low	low	IIB
+http://dbpedia.org/resource/Bates_College	671.0	490.0	404.0	518.0	824.0	600.0	494.0	635.0	45.0	31.0	45.0	6.0	127.0	2036.0	Bates College	ME	high	high	IIB
+http://dbpedia.org/resource/Baylor_University	619.0	474.0	397.0	476.0	791.0	610.0	504.0	607.0	226.0	131.0	103.0	7.0	601.0	6967.0	Baylor University	TX	medium	high	I
+http://dbpedia.org/resource/Belhaven_University	364.0	304.0	298.0	314.0	423.0	355.0	348.0	366.0	9.0	8.0	15.0	2.0	34.0	2397.0	Belhaven College	MS	low	low	IIB
+http://dbpedia.org/resource/Bellarmine_College_Preparatory	473.0	385.0	326.0	394.0	583.0	480.0	396.0	482.0	32.0	18.0	27.0	7.0	84.0	1954.0	Bellarmine College	KY	medium	medium	IIA
+http://dbpedia.org/resource/Bellevue_College	379.0	340.0	289.0	317.0	449.0	404.0	346.0	378.0	6.0	12.0	23.0	0.0	41.0	9743.0	Bellevue College	NE	low	low	IIB
+http://dbpedia.org/resource/Belmont_Abbey_College	348.0	316.0	281.0	309.0	434.0	392.0	350.0	384.0	8.0	21.0	17.0	0.0	46.0	2910.0	Belmont Abbey College	NC	low	low	IIB
+http://dbpedia.org/resource/Belmont_University	484.0	372.0	315.0	382.0	573.0	445.0	377.0	455.0	42.0	54.0	45.0	7.0	148.0	3479.0	Belmont University	TN	medium	medium	IIA
+http://dbpedia.org/resource/Beloit_College	521.0	409.0	357.0	453.0	660.0	512.0	428.0	565.0	42.0	15.0	22.0	1.0	80.0	3835.0	Beloit College	WI	medium	medium	IIB
+http://dbpedia.org/resource/Bemidji_State_University	490.0	403.0	341.0	419.0	629.0	520.0	443.0	539.0	91.0	40.0	50.0	11.0	192.0	2336.0	Bemidji State University	MN	medium	medium	IIA
+http://dbpedia.org/resource/Benedict_College	320.0	260.0	241.0	257.0	381.0	311.0	289.0	308.0	21.0	10.0	29.0	18.0	78.0	3420.0	Benedict College	SC	low	low	IIB
+http://dbpedia.org/resource/Benedictine_College	335.0	316.0	278.0	296.0	374.0	368.0	327.0	342.0	11.0	16.0	16.0	7.0	50.0	10256.0	Benedictine College	KS	low	low	IIB
+http://dbpedia.org/resource/Benedictine_University	463.0	395.0	315.0	409.0	576.0	493.0	403.0	511.0	38.0	36.0	17.0	0.0	91.0	1767.0	Illinois Benedictine College	IL	medium	medium	IIA
+http://dbpedia.org/resource/Bennett_College	351.0	377.0	300.0	323.0	418.0	437.0	346.0	375.0	9.0	16.0	16.0	11.0	52.0	2911.0	Bennett College	NC	low	low	IIB
+http://dbpedia.org/resource/Bennington_College				373.0				449.0	0.0	0.0	0.0	0.0	46.0	3682.0	Bennington College	VT	medium	medium	IIB
+http://dbpedia.org/resource/Bentley_University	717.0	566.0	493.0	575.0	894.0	708.0	599.0	712.0	48.0	84.0	56.0	10.0	198.0	2124.0	Bentley College	MA	high	high	IIA
+http://dbpedia.org/resource/Berea_College	552.0	428.0	355.0	436.0	675.0	518.0	421.0	525.0	32.0	43.0	31.0	6.0	112.0	1955.0	Berea College	KY	medium	medium	IIB
+http://dbpedia.org/resource/Berklee_College_of_Music	504.0	402.0	329.0	381.0	605.0	491.0	405.0	466.0	17.0	59.0	61.0	2.0	139.0	2126.0	Berklee College of Music	MA	medium	medium	IIB
+http://dbpedia.org/resource/Berry_College	515.0	403.0	343.0	399.0	650.0	519.0	439.0	509.0	25.0	20.0	38.0	3.0	92.0	1554.0	Berry College	GA	medium	medium	IIB
+http://dbpedia.org/resource/Bethany_College_(Kansas)	366.0	314.0	267.0	310.5	458.0	422.5	333.0	391.5	18.5	7.5	23.5	1.0	50.5	1904.0	Bethany College	KS	low	low	IIB
+http://dbpedia.org/resource/Bethel_College_(Kansas)	347.3333333333333	320.5	280.0	304.25	450.0	410.0	352.5	390.0	18.25	18.75	13.75	4.5	55.25	1787.0	Bethel College	IN	low	low	IIB
+http://dbpedia.org/resource/Biola_University	455.0	369.0	303.0	370.0	582.0	462.0	371.0	464.0	32.0	57.0	31.0	6.0	126.0	1122.0	Biola University	CA	medium	medium	IIA
+http://dbpedia.org/resource/Birmingham%E2%80%93Southern_College	498.0	379.0	322.0	401.0	655.0	501.0	404.0	523.0	34.0	25.0	27.0	3.0	89.0	1012.0	Birmingham Southern College	AL	medium	medium	IIB
+http://dbpedia.org/resource/Black_Hills_State_University	410.0	341.0	303.0	329.0	487.0	409.0	366.0	396.0	24.0	13.0	50.0	11.0	98.0	3459.0	Black Hills State University	SD	low	low	IIB
+http://dbpedia.org/resource/Blackburn_College_(Illinois)				312.0				370.0	0.0	0.0	0.0	0.0	23.0	1639.0	Blackburn University	IL	low	low	IIB
+http://dbpedia.org/resource/Bloomfield_College	476.0	434.0	354.0	406.0	602.0	547.0	443.0	510.0	12.0	13.0	17.0	4.0	46.0	2597.0	Bloomfield College	NJ	medium	medium	IIB
+http://dbpedia.org/resource/Bloomsburg_University_of_Pennsylvania	669.0	538.0	428.0	528.0	856.0	710.0	580.0	696.0	98.0	109.0	131.0	10.0	348.0	3315.0	Bloomsburg University of Penn.	PA	high	high	IIA
+http://dbpedia.org/resource/Bluefield_State_College	409.0	315.0	268.0	310.0	483.0	388.0	341.0	384.0	23.0	22.0	34.0	12.0	91.0	3809.0	Bluefield State College	WV	low	low	IIB
+http://dbpedia.org/resource/Bluffton_University	368.0	309.0	272.0	312.0	466.0	389.0	347.0	399.0	16.0	13.0	19.0	1.0	49.0	3016.0	Bluffton College	OH	low	low	IIB
+http://dbpedia.org/resource/Boise_State_University	448.0	391.0	354.0	391.0	566.0	498.0	453.0	498.0	157.0	111.0	100.0	7.0	427.0	1616.0	Boise State University	ID	medium	medium	IIA
+http://dbpedia.org/resource/Boston_College	784.0	569.0	496.0	614.0	964.0	717.0	604.0	761.0	165.0	245.0	126.0	10.0	556.0	2128.0	Boston College	MA	high	high	I
+http://dbpedia.org/resource/Bowdoin_College	738.0	527.0	418.0	554.0	918.0	651.0	503.0	682.0	41.0	40.0	35.0	4.0	123.0	2038.0	Bowdoin College	ME	high	high	IIB
+http://dbpedia.org/resource/Bowie_State_University	510.0	433.0	349.0	401.0	647.0	554.0	452.0	515.0	31.0	28.0	51.0	14.0	127.0	2062.0	Bowie State University	MD	medium	medium	IIA
+http://dbpedia.org/resource/Bradford_College_(England)	447.0	352.0	310.0	346.0	557.0	450.0	384.0	435.0	9.0	18.0	8.0	6.0	41.0	2132.0	Bradford College	MA	low	low	IIB
+http://dbpedia.org/resource/Bradley_University	570.0	464.0	378.0	442.0	679.0	562.0	449.0	529.0	75.0	88.0	100.0	30.0	295.0	1641.0	Bradley University	IL	medium	medium	IIA
+http://dbpedia.org/resource/Brandeis_University	687.0	493.0	403.0	550.0	859.0	619.0	496.0	686.0	142.0	71.0	40.0	3.0	299.0	2133.0	Brandeis University	MA	high	high	I
+http://dbpedia.org/resource/Brescia_University		322.0	273.0	299.0		390.0	324.0	357.0	4.0	10.0	14.0	4.0	32.0	1958.0	Brescia College	KY	low	low	IIB
+http://dbpedia.org/resource/Briar_Cliff_University	367.0	324.0	286.0	313.0	473.0	412.0	359.0	398.0	16.0	13.0	28.0	3.0	60.0	1846.0	Briar Cliff College	IA	low	low	IIB
+http://dbpedia.org/resource/Bridgewater_College	450.0	390.0	332.0	383.0	563.0	483.0	417.0	479.0	22.0	15.0	21.0	4.0	62.0	3704.0	Bridgewater College	VA	medium	medium	IIB
+http://dbpedia.org/resource/Bridgewater_State_University	517.0	440.0	400.0	468.0	672.0	583.0	542.0	617.0	144.0	53.0	41.0	17.0	255.0	2183.0	Bridgewater State College	MA	medium	high	IIA
+http://dbpedia.org/resource/Brigham_Young_University	661.0	504.0	431.0	543.0	851.0	668.0	577.0	711.0	577.0	382.0	304.0	49.0	1372.0	3670.0	Brigham Young University	UT	high	high	I
+http://dbpedia.org/resource/Brown_University	752.0	515.0	433.0	625.0	956.0	659.0	554.0	797.0	286.0	100.0	111.0	0.0	514.0	3401.0	Brown University	RI	high	high	I
+http://dbpedia.org/resource/Bryant_University	632.0	582.0	502.0	556.0	812.0	746.0	629.0	709.0	40.0	43.0	45.0	0.0	135.0	3402.0	Bryant College	RI	high	high	IIB
+http://dbpedia.org/resource/Bryn_Mawr_College	620.0	466.0	379.0	511.0	767.0	605.0	478.0	639.0	65.0	23.0	20.0	3.0	129.0	3237.0	Bryn Mawr College	PA	high	high	IIA
+http://dbpedia.org/resource/Bucknell_University	658.0	497.0	415.0	528.0	840.0	637.0	542.0	678.0	84.0	85.0	73.0	1.0	243.0	3238.0	Bucknell University	PA	high	high	IIA
+http://dbpedia.org/resource/Buena_Vista_University	484.0	416.0	339.0	382.0	606.0	522.0	440.0	486.0	20.0	12.0	30.0	10.0	72.0	1847.0	Buena Vista College	IA	medium	medium	IIB
+http://dbpedia.org/resource/Buffalo_State_College	536.0	433.0	359.0	444.0	693.0	560.0	464.0	573.0	144.0	157.0	88.0	3.0	424.0	2842.0	SUNY College at Buffalo	NY	medium	medium	IIA
+http://dbpedia.org/resource/Butler_University	521.0	442.0	366.0	439.0	650.0	551.0	447.0	544.0	72.0	66.0	77.0	3.0	220.0	1788.0	Butler University	IN	medium	medium	IIA
+http://dbpedia.org/resource/Cabrini_College	471.0		354.0	398.0	597.0		448.0	503.0	15.0	5.0	18.0	3.0	41.0	3241.0	Cabrini College	PA	medium	medium	IIB
+http://dbpedia.org/resource/California_Institute_of_Technology	970.0	733.0	576.0	866.0	1204.0	909.0	717.0	1075.0	173.0	40.0	44.0	0.0	257.0	1131.0	California Institute of Technology	CA	high	high	I
+http://dbpedia.org/resource/California_State_University,_Bakersfield	597.0	482.0	377.0	499.0	752.0	619.0	495.0	637.0	95.0	48.0	50.0	13.0	206.0	7993.0	California State University-Bakersfield	CA	medium	high	IIA
+http://dbpedia.org/resource/California_State_University,_Chico	604.0	482.0	395.0	558.0	758.0	631.0	518.0	707.0	413.0	86.0	73.0	2.0	574.0	1146.0	California State University-Chico	CA	high	high	IIA
+http://dbpedia.org/resource/California_State_University,_Dominguez_Hills	605.0	472.0	392.0	548.0	759.0	606.0	593.0	705.0	178.0	52.0	37.0	1.0	268.0	1141.0	California State University-Dominguez Hills	CA	high	high	IIA
+http://dbpedia.org/resource/California_State_University,_East_Bay	606.0	491.0	384.0	552.0	762.0	629.0	503.0	699.0	258.0	69.0	49.0	7.0	383.0	1138.0	California State University-Hayward	CA	high	high	IIA
+http://dbpedia.org/resource/California_State_University,_Fresno	603.0	476.0	382.0	553.0	757.0	612.0	500.0	699.0	459.0	109.0	67.0	14.0	649.0	1147.0	California State University-Fresno	CA	high	high	IIA
+http://dbpedia.org/resource/California_State_University,_Fullerton	605.0	493.0	387.0	544.0	760.0	637.0	506.0	690.0	393.0	120.0	105.0	5.0	623.0	1137.0	California State University-Fullerton	CA	high	high	IIA
+http://dbpedia.org/resource/California_State_University,_Long_Beach	600.0	474.0	401.0	542.0	751.0	610.0	521.0	685.0	491.0	171.0	112.0	6.0	780.0	1139.0	California State University-Long Beach	CA	high	high	IIA
+http://dbpedia.org/resource/California_University_of_Pennsylvania	674.0	541.0	436.0	549.0	850.0	700.0	578.0	708.0	112.0	108.0	64.0	25.0	309.0	3316.0	California University of Penn.	PA	high	high	IIA
+http://dbpedia.org/resource/Calvin_College	471.0	410.0	363.0	446.0	604.0	527.0	461.0	571.0	152.0	33.0	20.0	7.0	212.0	2241.0	Calvin College	MI	medium	medium	IIB
+http://dbpedia.org/resource/Cameron_University	426.0	360.0	329.0	345.0	531.0	452.0	415.0	434.0	44.0	35.0	63.0	34.0	177.0	3150.0	Cameron University	OK	low	low	IIB
+http://dbpedia.org/resource/Campbellsville_University	342.0	278.0	252.0	277.0	422.0	350.0	318.0	347.0	12.0	11.0	16.0	7.0	46.0	1959.0	Campbellsville College	KY	low	low	IIB
+http://dbpedia.org/resource/Canisius_College	542.0	480.0	370.0	468.0	679.0	599.0	450.0	582.0	57.0	73.0	51.0	0.0	181.0	2681.0	Canisius College	NY	medium	medium	IIA
+http://dbpedia.org/resource/Capital_University	563.0	405.0	334.0	424.0	704.0	540.0	429.0	543.0	54.0	36.0	57.0	11.0	158.0	3023.0	Capital University	OH	medium	medium	IIA
+http://dbpedia.org/resource/Capitol_College		344.0		352.0		406.0		416.0	5.0	7.0	5.0	0.0	17.0	1436.0	Capitol College	MD	medium	low	IIB
+http://dbpedia.org/resource/Carleton_College	638.0	486.0	394.0	521.0	807.0	604.0	505.0	659.0	68.0	36.0	45.0	4.0	155.0	2340.0	Carleton College	MN	high	high	IIB
+http://dbpedia.org/resource/Carnegie_Mellon_University	829.0	566.0	499.0	678.0	994.0	691.0	617.0	820.0	256.0	138.0	125.0	4.0	523.0	3242.0	Carnegie-Mellon University	PA	high	high	I
+http://dbpedia.org/resource/Carroll_College_(Montana)	394.0	343.0	285.0	326.0	478.0	413.0	344.0	394.0	12.0	23.0	29.0	0.0	64.0	2526.0	Carroll College	MT	low	low	IIB
+http://dbpedia.org/resource/Carson%E2%80%93Newman_College	393.0	334.0	286.0	324.0	475.0	405.0	339.0	390.0	32.0	33.0	41.0	11.0	117.0	3481.0	Carson-Newman College	TN	low	low	IIB
+http://dbpedia.org/resource/Carthage_College	434.0	374.0	319.0	371.0	556.0	485.0	406.0	475.0	28.0	18.0	35.0	0.0	81.0	3839.0	Carthage College	WI	medium	medium	IIB
+http://dbpedia.org/resource/Castleton_State_College	432.0	355.0	302.0	355.0	580.0	484.0	410.0	480.0	26.0	27.0	34.0	3.0	90.0	3683.0	Castleton State College	VT	medium	medium	IIB
+http://dbpedia.org/resource/Catawba_College	395.0	326.0	288.0	342.0	490.0	394.0	345.0	418.0	30.0	12.0	23.0	1.0	66.0	2914.0	Catawba College	NC	low	low	IIB
+http://dbpedia.org/resource/Cazenovia_College	443.0	354.0	295.0	337.0	549.0	445.0	374.0	423.0	8.0	13.0	21.0	3.0	45.0	2685.0	Cazenovia College	NY	low	low	IIB
+http://dbpedia.org/resource/Cedar_Crest_College	475.0	392.0	318.0	375.0	591.0	495.0	392.0	468.0	14.0	17.0	29.0	0.0	60.0	3243.0	Cedar Crest College	PA	medium	medium	IIB
+http://dbpedia.org/resource/Centenary_College_of_Louisiana		305.0	252.0	266.0		371.0	310.0	326.0	1.0	10.0	16.0	9.0	36.0	2599.0	Centenary College	NJ	low	low	IIB
+http://dbpedia.org/resource/Central_College_(Iowa)	464.0	413.0	334.0	395.0	572.0	507.0	405.0	483.0	23.0	36.0	22.0	8.0	89.0	1850.0	Central University of Iowa	IA	medium	medium	IIB
+http://dbpedia.org/resource/Central_Methodist_University	402.0	336.0	252.0	310.0	478.0	403.0	308.0	374.0	11.0	20.0	22.0	3.0	56.0	2453.0	Central Methodist College	MO	low	low	IIB
+http://dbpedia.org/resource/Central_Michigan_University	588.0	460.0	397.0	490.0	768.0	612.0	534.0	648.0	230.0	191.0	137.0	23.0	581.0	2243.0	Central Michigan University	MI	medium	high	IIA
+http://dbpedia.org/resource/Centre_College	521.0	418.0	351.0	431.0	653.0	514.0	423.0	532.0	27.0	21.0	21.0	4.0	73.0	1961.0	Centre College	KY	medium	medium	IIB
+http://dbpedia.org/resource/Chadron_State_College	491.0	404.0	329.0	390.0	593.0	500.0	406.0	476.0	33.0	20.0	19.0	19.0	91.0	2539.0	Chadron State College	NE	medium	medium	IIA
+http://dbpedia.org/resource/Chapman_University	578.0	470.0	420.0	491.0	763.0	627.0	573.0	656.0	38.0	37.0	36.0	0.0	111.0	1164.0	Chapman University	CA	medium	high	IIA
+http://dbpedia.org/resource/Chatham_University	492.0	397.0	323.0	394.0	628.0	503.0	407.0	500.0	13.0	12.0	16.0	2.0	43.0	3244.0	Chatham College	PA	medium	medium	IIB
+http://dbpedia.org/resource/Chestnut_Hill_College		322.0	277.0	311.0		400.0	348.0	391.0	5.0	10.0	18.0	4.0	37.0	3245.0	Chestnut Hill College	PA	low	low	IIB
+http://dbpedia.org/resource/Cheyney_University_of_Pennsylvania	692.0	554.0	379.0	550.0	884.0	732.0	530.0	725.0	35.0	35.0	21.0	7.0	98.0	3317.0	Cheyney University of Penn.	PA	high	high	IIA
+http://dbpedia.org/resource/Chicago_State_University	446.0	369.0	320.0	345.0	509.0	425.0	371.0	399.0	120.0	65.0	77.0	14.0	351.0	1694.0	Chicago State University	IL	low	low	IIA
+http://dbpedia.org/resource/Christendom_College			279.0	320.0			336.0	396.0	1.0	5.0	7.0	0.0	13.0	29261.0	Christendom College	VA	low	low	IIB
+http://dbpedia.org/resource/Claremont_McKenna_College	716.0	516.0	411.0	601.0	892.0	661.0	510.0	751.0	36.0	16.0	12.0	2.0	67.0	1170.0	Claremont McKenna College	CA	high	high	IIB
+http://dbpedia.org/resource/Clarion_University_of_Pennsylvania	649.0	539.0	419.0	517.0	824.0	694.0	549.0	665.0	100.0	92.0	110.0	22.0	324.0	9235.0	Clarion University of Penn.	PA	high	high	IIA
+http://dbpedia.org/resource/Clark_University	664.0	469.0	395.0	522.0	822.0	593.0	488.0	651.0	58.0	64.0	38.0	0.0	160.0	2139.0	Clark University	MA	high	high	IIA
+http://dbpedia.org/resource/Clarke_University	436.0	361.0	312.0	338.0	512.0	445.0	379.0	407.0	11.0	10.0	25.0	8.0	54.0	1852.0	Clarke College	IA	low	low	IIB
+http://dbpedia.org/resource/Clarkson_College		407.0	377.0	368.0		469.0	434.0	425.0	1.0	6.0	8.0	11.0	26.0	9862.0	Clarkson College	NE	medium	low	IIB
+http://dbpedia.org/resource/Clarkson_University	703.0	515.0	475.0	563.0	875.0	658.0	593.0	707.0	55.0	58.0	43.0	5.0	161.0	2699.0	Clarkson University	NY	high	high	I
+http://dbpedia.org/resource/Clemson_University	602.0	441.0	375.0	466.0	728.0	544.0	465.0	571.0	296.0	224.0	191.0	42.0	801.0	3425.0	Clemson University	SC	medium	medium	I
+http://dbpedia.org/resource/Cleveland_State_University	611.0	459.0	390.0	486.0	750.0	575.0	495.0	606.0	166.0	223.0	128.0	14.0	531.0	3032.0	Cleveland State University	OH	medium	high	IIA
+http://dbpedia.org/resource/Coastal_Carolina_University	437.0	377.0	314.0	340.0	535.0	464.0	389.0	419.0	23.0	43.0	49.0	28.0	143.0	3451.0	Coastal Carolina University	SC	low	low	IIB
+http://dbpedia.org/resource/Coe_College	516.0	421.0	340.0	436.0	671.0	541.0	459.0	570.0	30.0	21.0	22.0	0.0	73.0	1854.0	Coe College	IA	medium	medium	IIB
+http://dbpedia.org/resource/Coker_College	425.0	359.0	318.0	358.0	521.0	425.0	378.0	430.0	14.0	9.0	18.0	2.0	43.0	3427.0	Coker College	SC	medium	low	IIB
+http://dbpedia.org/resource/Colby%E2%80%93Sawyer_College	397.0	380.0	277.0	329.0	488.0	468.0	349.0	410.0	9.0	9.0	19.0	1.0	38.0	2572.0	Colby-Sawyer College	NH	low	low	IIB
+http://dbpedia.org/resource/Colby_College	745.0	515.0	383.0	524.0	904.0	622.0	453.0	629.0	43.0	33.0	60.0	4.0	140.0	2039.0	Colby College	ME	high	high	IIB
+http://dbpedia.org/resource/Colgate_University	669.0	505.0	406.0	539.0	848.0	637.0	497.0	677.0	78.0	61.0	56.0	3.0	198.0	2701.0	Colgate University	NY	high	high	IIB
+http://dbpedia.org/resource/College_for_Creative_Studies	401.0	333.0	263.0	360.0	489.0	413.0	331.0	442.0	29.0	11.0	6.0	2.0	48.0	6771.0	Center for Creative Studies	MI	medium	low	IIB
+http://dbpedia.org/resource/College_of_Charleston	475.0	410.0	320.0	374.0	581.0	505.0	399.0	462.0	68.0	102.0	118.0	32.0	320.0	3428.0	College of Charleston	SC	medium	medium	IIA
+http://dbpedia.org/resource/College_of_Idaho	424.0	338.0	266.0	336.0	540.0	430.0	338.0	428.0	16.0	20.0	19.0	1.0	56.0	1617.0	Albertson College of Idaho	ID	low	low	IIB
+http://dbpedia.org/resource/College_of_Mount_Saint_Vincent		388.0	336.0	366.0		476.0	410.0	450.0	5.0	24.0	20.0	7.0	56.0	2703.0	College of Mount St. Vincent	NY	medium	medium	IIB
+http://dbpedia.org/resource/College_of_Mount_St._Joseph	477.0	412.0	339.0	360.0	575.0	482.0	401.0	423.0	10.0	21.0	52.0	17.0	100.0	3033.0	College of Mount St. Joseph	OH	medium	low	IIB
+http://dbpedia.org/resource/College_of_New_Rochelle	539.0	449.0	391.0	447.0	693.0	579.0	499.0	574.0	11.0	38.0	17.0	1.0	67.0	2704.0	College of New Rochelle	NY	medium	medium	IIA
+http://dbpedia.org/resource/College_of_Saint_Benedict_and_Saint_John's_University	493.0	404.0	334.0	381.0	595.0	512.0	405.0	468.0	18.0	50.0	47.0	8.0	125.0	2341.0	College of Saint Benedict	MN	medium	medium	IIB
+http://dbpedia.org/resource/College_of_Saint_Elizabeth	426.0	388.0	322.0	365.0	490.0	437.0	384.0	420.0	9.0	19.0	16.0	3.0	47.0	2600.0	College of Saint Elizabeth	NJ	medium	low	IIB
+http://dbpedia.org/resource/College_of_Wooster	561.0	411.0	346.0	449.0	735.0	518.0	429.0	575.0	52.0	24.0	44.0	2.0	122.0	3037.0	College of Wooster	OH	medium	medium	IIB
+http://dbpedia.org/resource/College_of_the_Holy_Cross	695.0	506.0	406.0	519.0	875.0	627.0	500.0	644.0	44.0	84.0	54.0	4.0	186.0	2141.0	College of the Holy Cross	MA	high	high	IIB
+http://dbpedia.org/resource/College_of_the_Ozarks	446.0	392.0	350.0	393.0	547.0	483.0	425.0	482.0	27.0	25.0	23.0	4.0	79.0	2500.0	College of The Ozarks	MO	medium	medium	IIB
+http://dbpedia.org/resource/Colorado_College	613.0	488.0	398.0	525.0	776.0	621.0	509.0	665.0	63.0	38.0	26.0	1.0	134.0	1347.0	Colorado College	CO	high	high	IIB
+http://dbpedia.org/resource/Colorado_Mesa_University	429.0	353.0	297.0	340.0	508.0	427.0	363.0	410.0	49.0	31.0	37.0	7.0	145.0	1358.0	Mesa State College	CO	low	low	IIB
+http://dbpedia.org/resource/Colorado_State_University	598.0	447.0	403.0	517.0	714.0	534.0	481.0	617.0	483.0	255.0	188.0	0.0	926.0	1350.0	Colorado State University	CO	high	high	I
+http://dbpedia.org/resource/Columbia_College_Chicago	388.5	331.0	301.5	335.3333333333333	476.0	408.0	369.0	417.3333333333333	11.0	12.0	12.333333333333334	4.0	97.66666666666667	1665.0	Columbia College	IL	low	low	IIB
+http://dbpedia.org/resource/Columbia_University	882.0	554.0	452.0	687.0	1136.0	767.0	646.0	915.0	477.0	185.0	199.0	11.0	923.0	2707.0	Columbia University	NY	high	high	I
+http://dbpedia.org/resource/Columbus_College_of_Art_and_Design	456.0	375.0	333.0	396.0	588.0	491.0	437.0	515.0	75.0	50.0	51.0	2.0	178.0	1561.0	Columbus College	GA	medium	medium	IIA
+http://dbpedia.org/resource/Concord_University	400.0	342.0	284.0	325.0	505.0	438.0	372.0	420.0	29.0	18.0	35.0	12.0	94.0	3810.0	Concord College	WV	low	low	IIB
+http://dbpedia.org/resource/Concordia_College_(Moorhead)	405.5	335.25	298.75	338.5	499.5	415.0	379.5	422.0	20.25	17.75	24.0	6.5	68.5	2247.0	Concordia College	MI	low	low	IIB
+http://dbpedia.org/resource/Concordia_University	399.0	351.0	295.0	351.0	487.0	435.0	374.0	435.0	30.0	23.0	24.0	1.0	78.0	1666.0	Concordia University	IL	medium	low	IIB
+http://dbpedia.org/resource/Concordia_University_(Nebraska)	352.0	316.0	282.0	320.0	423.0	390.0	357.0	393.0	22.0	16.0	15.0	1.0	54.0	2541.0	Concordia Teachers College	NE	low	low	IIB
+http://dbpedia.org/resource/Connecticut_College	619.0	461.0	366.0	499.0	810.0	613.0	477.0	654.0	63.0	35.0	30.0	11.0	140.0	1379.0	Connecticut College	CT	medium	high	IIB
+http://dbpedia.org/resource/Converse_College	467.0	384.0	317.0	372.0	582.0	495.0	402.0	473.0	12.0	31.0	23.0	3.0	69.0	3431.0	Converse College	SC	medium	medium	IIB
+http://dbpedia.org/resource/Coppin_State_University	557.0	435.0	366.0	431.0	707.0	559.0	476.0	554.0	26.0	32.0	36.0	4.0	103.0	2068.0	Coppin State College	MD	medium	medium	IIB
+http://dbpedia.org/resource/Corban_University		308.0	252.0	285.0		451.0	340.0	388.0	3.0	7.0	7.0	5.0	22.0	1339.0	Western Baptist College	OR	low	low	IIB
+http://dbpedia.org/resource/Cornell_College	578.0	426.0	368.0	468.0	693.0	534.0	463.0	574.0	31.0	22.0	17.0	5.0	75.0	1856.0	Cornell College	IA	medium	medium	IIB
+http://dbpedia.org/resource/Covenant_College	429.0	371.0	312.0	388.0	519.0	492.0	390.0	484.0	19.0	12.0	6.0	1.0	38.0	3484.0	Covenant College	GA	medium	medium	IIB
+http://dbpedia.org/resource/Creighton_University	649.0	462.0	351.0	437.0	793.0	562.0	418.0	529.0	66.0	119.0	127.0	22.0	342.0	2542.0	Creighton University	NE	medium	medium	IIA
+http://dbpedia.org/resource/Culver%E2%80%93Stockton_College	396.0	348.0	297.0	332.0	463.0	406.0	347.0	388.0	9.0	20.0	22.0	1.0	52.0	2460.0	Culver-Stockton College	MO	low	low	IIB
+http://dbpedia.org/resource/Cumberland_College_(Saskatchewan)	354.0	291.0	272.0	286.0	438.0	362.0	337.0	355.0	17.0	23.0	32.0	20.0	97.0	1962.0	Cumberland College	KY	low	low	IIB
+http://dbpedia.org/resource/D'Youville_College	404.0	385.0	327.0	359.0	485.0	456.0	390.0	427.0	15.0	22.0	32.0	7.0	76.0	2712.0	D'Youville College	NY	medium	low	IIB
+http://dbpedia.org/resource/Dakota_State_University	469.0	357.0	349.0	351.0	554.0	427.0	419.0	420.0	9.0	11.0	24.0	12.0	56.0	3463.0	Dakota State University	SD	medium	low	IIB
+http://dbpedia.org/resource/Dakota_Wesleyan_University		290.0	246.0	257.0		356.0	302.0	317.0	4.0	11.0	13.0	7.0	36.0	3461.0	Dakota Wesleyan University	SD	low	low	IIB
+http://dbpedia.org/resource/Dana_College	338.0	300.0	276.0	300.0	404.0	368.0	336.0	364.0	11.0	11.0	11.0	3.0	36.0	2543.0	Dana College	NE	low	low	IIB
+http://dbpedia.org/resource/Dartmouth_College	785.0	536.0	429.0	610.0	1002.0	686.0	532.0	774.0	163.0	89.0	114.0	5.0	371.0	2573.0	Dartmouth College	NH	high	high	I
+http://dbpedia.org/resource/Davidson_College	626.0	460.0	356.0	506.0	801.0	591.0	440.0	644.0	60.0	34.0	32.0	4.0	130.0	2918.0	Davidson College	NC	high	high	IIB
+http://dbpedia.org/resource/DePaul_University	702.0	543.0	427.0	524.0	857.0	681.0	527.0	648.0	120.0	173.0	152.0	55.0	500.0	1671.0	DePaul University	IL	high	high	IIA
+http://dbpedia.org/resource/DePauw_University	540.0	433.0	361.0	452.0	695.0	570.0	465.0	587.0	51.0	57.0	38.0	0.0	146.0	1792.0	DePauw University	IN	medium	medium	IIB
+http://dbpedia.org/resource/Defiance_College	373.0	333.0	277.0	326.0	438.0	388.0	330.0	382.0	14.0	18.0	11.0	0.0	46.0	3041.0	Defiance College The	OH	low	low	IIB
+http://dbpedia.org/resource/Delaware_State_University	545.0	435.0	359.0	379.0	716.0	583.0	491.0	515.0	29.0	47.0	61.0	34.0	183.0	1428.0	Delaware State University	DE	medium	medium	IIA
+http://dbpedia.org/resource/Delta_State_University	400.0	337.0	314.0	337.0	487.0	413.0	386.0	413.0	60.0	32.0	47.0	36.0	175.0	2403.0	Delta State University	MS	low	low	IIA
+http://dbpedia.org/resource/Denison_University	558.0	414.0	346.0	445.0	757.0	528.0	439.0	584.0	58.0	32.0	55.0	0.0	146.0	3042.0	Denison University	OH	medium	medium	IIB
+http://dbpedia.org/resource/Dickinson_College	622.0	468.0	380.0	466.0	797.0	601.0	478.0	593.0	35.0	47.0	51.0	7.0	144.0	3253.0	Dickinson College	PA	medium	medium	IIB
+http://dbpedia.org/resource/Dickinson_State_University	402.0	342.0	302.0	316.0	506.0	432.0	376.0	397.0	9.0	14.0	33.0	13.0	71.0	2989.0	Dickinson State University	ND	low	low	IIB
+http://dbpedia.org/resource/Dillard_University	494.0	373.0	342.0	350.0	567.0	437.0	398.0	406.0	8.0	15.0	59.0	10.0	96.0	2004.0	Dillard University	LA	medium	low	IIB
+http://dbpedia.org/resource/Doane_College	436.0	392.0	326.0	360.0	521.0	465.0	391.0	431.0	17.0	7.0	28.0	5.0	57.0	2544.0	Doane College	NE	medium	low	IIB
+http://dbpedia.org/resource/Dominican_University_(Illinois)	448.0	378.0	377.0	382.0	543.0	479.0	454.0	468.0	10.0	25.0	34.0	3.0	72.0	1750.0	Rosary College	IL	medium	medium	IIB
+http://dbpedia.org/resource/Dominican_University_College		400.0	354.0	365.0		508.0	438.0	454.0	4.0	10.0	19.0	9.0	42.0	2713.0	Dominican College	NY	medium	medium	IIB
+http://dbpedia.org/resource/Dordt_College	411.0	356.0	308.0	355.0	548.0	470.0	406.0	472.0	30.0	14.0	16.0	12.0	72.0	1859.0	Dordt College	IA	medium	medium	IIB
+http://dbpedia.org/resource/Dowling_College	661.0	596.0	484.0	563.0	891.0	822.0	679.0	776.0	25.0	29.0	36.0	3.0	93.0	2667.0	Dowling College	NY	high	high	IIB
+http://dbpedia.org/resource/Drake_University	601.0	458.0	409.0	481.0	762.0	578.0	496.0	600.0	101.0	61.0	107.0	16.0	285.0	1860.0	Drake University	IA	medium	high	IIA
+http://dbpedia.org/resource/Drew_University	603.0	463.0	386.0	529.0	762.0	580.0	479.0	664.0	61.0	28.0	15.0	4.0	108.0	2603.0	Drew University	NJ	high	high	IIA
+http://dbpedia.org/resource/Drexel_University	674.0	496.0	459.0	568.0	843.0	619.0	570.0	709.0	153.0	114.0	73.0	0.0	341.0	3256.0	Drexel University	PA	high	high	I
+http://dbpedia.org/resource/Drury_University	448.0	394.0	323.0	375.0	546.0	483.0	400.0	460.0	26.0	23.0	31.0	2.0	87.0	2461.0	Drury College	MO	medium	medium	IIB
+http://dbpedia.org/resource/Duke_University	854.0	584.0	459.0	699.0	1055.0	728.0	553.0	862.0	330.0	149.0	141.0	0.0	620.0	2920.0	Duke University	NC	high	high	I
+http://dbpedia.org/resource/Duquesne_University	602.0	469.0	393.0	475.0	753.0	597.0	497.0	601.0	98.0	97.0	113.0	28.0	336.0	3258.0	Duquesne University	PA	medium	high	IIA
+http://dbpedia.org/resource/Earlham_College	514.0	394.0	338.0	445.0	639.0	483.0	414.0	551.0	44.0	13.0	22.0	0.0	79.0	1793.0	Earlham College	IN	medium	medium	IIB
+http://dbpedia.org/resource/East_Carolina_University	554.0	430.0	377.0	415.0	672.0	525.0	462.0	507.0	189.0	187.0	261.0	11.0	792.0	2923.0	East Carolina University	NC	medium	medium	IIA
+http://dbpedia.org/resource/East_Central_University	453.0	407.0	352.0	378.0	538.0	488.0	429.0	456.0	39.0	31.0	64.0	23.0	158.0	3154.0	East Central University	OK	medium	medium	IIB
+http://dbpedia.org/resource/East_Stroudsburg_University_of_Pennsylvania	676.0	531.0	415.0	526.0	858.0	696.0	556.0	686.0	95.0	72.0	85.0	20.0	272.0	3320.0	East Stroudsburg University	PA	high	high	IIA
+http://dbpedia.org/resource/Eastern_Illinois_University	442.0	373.0	333.0	364.0	515.0	438.0	393.0	428.0	190.0	161.0	120.0	87.0	560.0	1674.0	Eastern Illinois University	IL	medium	low	IIA
+http://dbpedia.org/resource/Eastern_Kentucky_University	519.0	439.0	371.0	442.0	648.0	551.0	468.0	555.0	237.0	135.0	185.0	29.0	586.0	1963.0	Eastern Kentucky University	KY	medium	medium	IIA
+http://dbpedia.org/resource/Eastern_Michigan_University	560.0	447.0	389.0	462.0	722.0	590.0	519.0	605.0	318.0	171.0	160.0	17.0	729.0	2259.0	Eastern Michigan University	MI	medium	high	IIA
+http://dbpedia.org/resource/Eastern_Oregon_University	470.0	363.0	309.0	373.0	612.0	482.0	412.0	492.0	20.0	23.0	17.0	5.0	65.0	3193.0	Eastern Oregon State College	OR	medium	medium	IIB
+http://dbpedia.org/resource/Eastern_University_(United_States)	442.0	342.0	329.0	363.0	636.0	413.0	398.0	473.0	19.0	17.0	17.0	4.0	57.0	3259.0	Eastern College	PA	medium	medium	IIA
+http://dbpedia.org/resource/Eckerd_College	534.0	424.0	357.0	436.0	676.0	547.0	472.0	563.0	32.0	18.0	37.0	0.0	87.0	1487.0	Eckerd College	FL	medium	medium	IIB
+http://dbpedia.org/resource/Edinboro_University_of_Pennsylvania	676.0	545.0	424.0	516.0	870.0	714.0	570.0	679.0	111.0	86.0	169.0	26.0	392.0	3321.0	Edinboro University of Penn.	PA	high	high	IIA
+http://dbpedia.org/resource/Elizabethtown_College	552.0	456.0	371.0	448.0	718.0	581.0	465.0	571.0	30.0	39.0	26.0	6.0	105.0	3262.0	Elizabethtown College	PA	medium	medium	IIB
+http://dbpedia.org/resource/Elmira_College	497.0	342.0	306.0	359.0	666.0	449.0	395.0	472.0	13.0	24.0	26.0	0.0	63.0	2718.0	Elmira College	NY	medium	medium	IIB
+http://dbpedia.org/resource/Elon_University	459.0	388.0	331.0	372.0	572.0	482.0	401.0	456.0	30.0	38.0	64.0	6.0	138.0	2927.0	Elon College	NC	medium	medium	IIB
+http://dbpedia.org/resource/Emerson_College	669.0	502.0	386.0	488.0	874.0	652.0	494.0	632.0	21.0	33.0	35.0	3.0	92.0	2146.0	Emerson College	MA	medium	high	IIA
+http://dbpedia.org/resource/Emory_University	796.0	547.0	451.0	608.0	972.0	686.0	567.0	753.0	203.0	177.0	161.0	8.0	549.0	1564.0	Emory University	GA	high	high	I
+http://dbpedia.org/resource/Emory_and_Henry_College	440.0	358.0	296.0	363.0	531.0	439.0	351.0	438.0	18.0	19.0	14.0	3.0	54.0	3709.0	Emory and Henry College	VA	medium	low	IIB
+http://dbpedia.org/resource/Empire_State_College	543.0	437.0	361.0	430.0	706.0	562.0	468.0	554.0	33.0	47.0	35.0	3.0	132.0	10286.0	SUNY Empire State College	NY	medium	medium	IIB
+http://dbpedia.org/resource/Emporia_State_University	435.0	390.0	330.0	367.0	553.0	499.0	427.0	471.0	67.0	67.0	78.0	26.0	238.0	1927.0	Emporia State University	KS	medium	medium	IIA
+http://dbpedia.org/resource/Erskine_College	420.0		297.0	355.0	527.0		366.0	444.0	19.0	5.0	14.0	2.0	40.0	3432.0	Erskine College	SC	medium	low	IIB
+http://dbpedia.org/resource/Eureka_College		370.0	315.0	355.0		458.0	390.0	438.0	5.0	16.0	16.0	0.0	37.0	1678.0	Eureka College	IL	medium	low	IIB
+http://dbpedia.org/resource/Fairfield_University	685.0	545.0	452.0	545.0	894.0	733.0	603.0	721.0	62.0	43.0	81.0	6.0	192.0	1385.0	Fairfield University	CT	high	high	IIA
+http://dbpedia.org/resource/Fairmont_State_University	432.0	362.0	317.0	361.0	526.0	446.0	394.0	445.0	57.0	44.0	45.0	27.0	173.0	3812.0	Fairmont State College	WV	medium	medium	IIB
+http://dbpedia.org/resource/Felician_College		351.0	311.0	320.0		422.0	375.0	385.0	1.0	14.0	24.0	5.0	44.0	2610.0	Felician College	NJ	low	low	IIB
+http://dbpedia.org/resource/Ferris_State_University	546.0	470.0	409.0	467.0	713.0	631.0	566.0	628.0	143.0	160.0	151.0	10.0	477.0	2260.0	Ferris State University	MI	medium	high	IIA
+http://dbpedia.org/resource/Ferrum_College	415.0	342.0	299.0	353.0	508.0	417.0	362.0	431.0	27.0	21.0	16.0	5.0	69.0	3711.0	Ferrum College	VA	medium	low	IIB
+http://dbpedia.org/resource/Fisk_University	383.0	369.0	269.0	319.0	451.0	437.0	314.0	375.0	17.0	19.0	17.0	2.0	65.0	3490.0	Fisk University	TN	low	low	IIB
+http://dbpedia.org/resource/Fitchburg_State_University	512.0	429.0	395.0	444.0	644.0	540.0	501.0	560.0	87.0	56.0	70.0	11.0	224.0	2184.0	Fitchburg State College	MA	medium	medium	IIA
+http://dbpedia.org/resource/Florida_A&M_University	524.0	426.0	359.0	424.0	661.0	543.0	460.0	540.0	103.0	123.0	111.0	27.0	364.0	1480.0	Florida A & M University	FL	medium	medium	IIA
+http://dbpedia.org/resource/Florida_Atlantic_University	580.0	426.0	394.0	461.0	750.0	559.0	517.0	601.0	183.0	147.0	159.0	30.0	528.0	1481.0	Florida Atlantic University	FL	medium	high	IIA
+http://dbpedia.org/resource/Florida_Southern_College	440.0	369.0	331.0	369.0	552.0	473.0	409.0	463.0	30.0	18.0	44.0	4.0	96.0	1488.0	Florida Southern College	FL	medium	medium	IIB
+http://dbpedia.org/resource/Florida_State_University	564.0	399.0	378.0	473.0	729.0	525.0	494.0	616.0	510.0	316.0	192.0	16.0	1038.0	1489.0	Florida State University	FL	medium	high	I
+http://dbpedia.org/resource/Fordham_University	744.0	573.0	444.0	590.0	945.0	729.0	557.0	748.0	166.0	183.0	140.0	9.0	498.0	2722.0	Fordham University	NY	high	high	I
+http://dbpedia.org/resource/Fort_Hays_State_University	446.0	378.0	325.0	377.0	556.0	475.0	412.0	474.0	84.0	56.0	71.0	21.0	232.0	1915.0	Fort Hays State University	KS	medium	medium	IIA
+http://dbpedia.org/resource/Fort_Lewis_College	439.0	385.0	342.0	392.0	516.0	452.0	402.0	460.0	73.0	35.0	52.0	5.0	165.0	1353.0	Fort Lewis College	CO	medium	medium	IIB
+http://dbpedia.org/resource/Fort_Valley_State_University	471.0	382.0	339.0	379.0	596.0	490.0	439.0	487.0	37.0	39.0	49.0	17.0	142.0	1566.0	Fort Valley State College	GA	medium	medium	IIB
+http://dbpedia.org/resource/Francis_Marion_University	476.0	394.0	328.0	387.0	585.0	488.0	410.0	480.0	64.0	37.0	40.0	25.0	166.0	9226.0	Francis Marion University	SC	medium	medium	IIB
+http://dbpedia.org/resource/Franklin_Pierce_University	470.0	382.0	323.0	399.0	605.0	487.0	412.0	510.0	28.0	29.0	17.0	2.0	76.0	2575.0	Franklin Pierce College	NH	medium	medium	IIB
+http://dbpedia.org/resource/Franklin_University				345.0				438.0	0.0	0.0	0.0	0.0	39.0	3046.0	Franklin University	OH	low	low	IIB
+http://dbpedia.org/resource/Freed%E2%80%93Hardeman_University	382.0	326.0	271.0	305.0	454.0	401.0	346.0	374.0	16.0	23.0	20.0	9.0	69.0	3492.0	Freed-Hardeman University	TN	low	low	IIB
+http://dbpedia.org/resource/Frostburg_State_University	498.0	423.0	366.0	416.0	646.0	538.0	468.0	530.0	76.0	56.0	70.0	8.0	228.0	2072.0	Frostburg State University	MD	medium	medium	IIA
+http://dbpedia.org/resource/Furman_University	551.0	414.0	343.0	453.0	719.0	530.0	430.0	583.0	86.0	39.0	54.0	6.0	185.0	3434.0	Furman University	SC	medium	medium	IIB
+http://dbpedia.org/resource/Gallaudet_University	623.0	480.0	399.0	482.0	814.0	638.0	534.0	637.0	86.0	67.0	70.0	35.0	261.0	1443.0	Gallaudet University	DC	medium	high	IIA
+http://dbpedia.org/resource/Gannon_University	453.0	377.0	341.0	365.0	586.0	489.0	434.0	469.0	35.0	54.0	76.0	17.0	182.0	3266.0	Gannon University	PA	medium	medium	IIA
+http://dbpedia.org/resource/Gardner%E2%80%93Webb_University	348.0	305.0	294.0	312.0	414.0	357.0	349.0	371.0	39.0	7.0	26.0	15.0	87.0	2929.0	Gardner-Webb University	NC	low	low	IIB
+http://dbpedia.org/resource/Geneva_College	416.0	366.0	312.0	366.0	527.0	475.0	402.0	469.0	17.0	17.0	16.0	0.0	50.0	3267.0	Geneva College	PA	medium	medium	IIB
+http://dbpedia.org/resource/George_Fox_University	418.0	373.0	302.0	355.0	531.0	468.0	371.0	444.0	20.0	27.0	27.0	3.0	77.0	3194.0	George Fox College	OR	medium	low	IIB
+http://dbpedia.org/resource/George_Mason_University	753.0	524.0	445.0	568.0	909.0	650.0	550.0	696.0	210.0	266.0	156.0	43.0	675.0	3749.0	George Mason University	VA	high	high	I
+http://dbpedia.org/resource/George_Washington_University	729.0	542.0	447.0	610.0	874.0	653.0	536.0	733.0	316.0	175.0	134.0	12.0	637.0	1444.0	George Washington University	DC	high	high	I
+http://dbpedia.org/resource/Georgetown_College_(Kentucky)	398.0	338.0	297.0	343.0	493.0	418.0	352.0	420.0	29.0	18.0	19.0	6.0	72.0	1964.0	Georgetown College	KY	low	low	IIB
+http://dbpedia.org/resource/Georgetown_University	857.0	552.0	427.0	618.0	1080.0	710.0	546.0	785.0	192.0	157.0	154.0	25.0	528.0	1445.0	Georgetown University	DC	high	high	I
+http://dbpedia.org/resource/Georgia_College_&_State_University	447.0	388.0	340.0	373.0	571.0	496.0	440.0	479.0	47.0	41.0	80.0	11.0	179.0	1602.0	Georgia College	GA	medium	medium	IIA
+http://dbpedia.org/resource/Georgia_Institute_of_Technology	684.0	517.0	462.0	558.0	862.0	665.0	594.0	711.0	235.0	206.0	167.0	17.0	626.0	1569.0	Georgia Institute of Technology	GA	high	high	I
+http://dbpedia.org/resource/Georgia_Southern_University	495.0	408.0	328.0	363.0	623.0	509.0	407.0	453.0	105.0	135.0	254.0	109.0	603.0	1572.0	Georgia Southern University	GA	medium	medium	IIA
+http://dbpedia.org/resource/Georgia_State_University	666.0	474.0	390.0	502.0	817.0	594.0	493.0	624.0	258.0	254.0	241.0	40.0	793.0	1574.0	Georgia State University	GA	high	high	I
+http://dbpedia.org/resource/Georgian_Court_University	490.0	425.0	373.0	403.0	592.0	509.0	450.0	487.0	19.0	13.0	30.0	8.0	71.0	2608.0	Georgian Court College	NJ	medium	medium	IIB
+http://dbpedia.org/resource/Gettysburg_College	627.0	475.0	400.0	485.0	820.0	630.0	516.0	637.0	38.0	65.0	28.0	20.0	151.0	3268.0	Gettysburg College	PA	medium	high	IIB
+http://dbpedia.org/resource/Glenville_State_College	396.0	325.0	274.0	298.0	484.0	405.0	341.0	371.0	12.0	17.0	28.0	16.0	75.0	3813.0	Glenville State College	WV	low	low	IIB
+http://dbpedia.org/resource/Goldey%E2%80%93Beacom_College	492.0	405.0		417.0	613.0	511.0		528.0	8.0	14.0	3.0	1.0	26.0	1429.0	Goldey Beacom College	DE	medium	medium	IIB
+http://dbpedia.org/resource/Gonzaga_University	616.0	428.0	345.0	420.0	741.0	527.0	432.0	518.0	49.0	83.0	96.0	23.0	251.0	3778.0	Gonzaga University	WA	medium	medium	IIA
+http://dbpedia.org/resource/Gordon_College_(Massachusetts)	432.0	352.0	319.0	381.0	578.0	467.0	424.0	505.0	35.0	18.0	13.0	5.0	71.0	2153.0	Gordon College	MA	medium	medium	IIB
+http://dbpedia.org/resource/Goshen_College	388.0	341.0	291.0	345.0	479.0	410.0	344.0	418.0	37.0	19.0	28.0	0.0	84.0	1799.0	Goshen College	IN	low	low	IIB
+http://dbpedia.org/resource/Goucher_College	529.0	387.0	358.0	411.0	661.0	489.0	452.0	518.0	21.0	27.0	23.0	4.0	75.0	2073.0	Goucher College	MD	medium	medium	IIB
+http://dbpedia.org/resource/Grace_College	326.0	264.0	228.0	285.0	439.0	372.0	334.0	395.0	14.0	11.0	6.0	0.0	31.0	1800.0	Grace College	IN	low	low	IIB
+http://dbpedia.org/resource/Graceland_University	411.0	331.0	301.0	345.0	490.0	401.0	366.0	418.0	26.0	11.0	29.0	1.0	70.0	1866.0	Graceland College	IA	low	low	IIB
+http://dbpedia.org/resource/Grambling_State_University	442.0	392.0	329.0	349.0	491.0	437.0	369.0	391.0	48.0	48.0	124.0	45.0	265.0	2006.0	Grambling State University	LA	low	low	IIA
+http://dbpedia.org/resource/Grand_Canyon_University	358.0	328.0	274.0	299.0	439.0	395.0	332.0	363.0	20.0	18.0	24.0	12.0	74.0	1074.0	Grand Canyon University	AZ	low	low	IIB
+http://dbpedia.org/resource/Grand_View_University	385.0	320.0	295.0	329.0	481.0	405.0	377.0	416.0	22.0	31.0	20.0	2.0	75.0	1867.0	Grand View College	IA	low	low	IIB
+http://dbpedia.org/resource/Green_Mountain_College	416.0	355.0	309.0	342.0	518.0	448.0	390.0	430.0	9.0	11.0	10.0	5.0	35.0	3687.0	Green Mountain College	VT	low	low	IIB
+http://dbpedia.org/resource/Greensboro_College	377.0	331.0	309.0	333.0	456.0	400.0	367.0	404.0	11.0	21.0	10.0	2.0	44.0	2930.0	Greensboro College	NC	low	low	IIB
+http://dbpedia.org/resource/Greenville_College	374.0	331.0	292.0	336.0	466.0	424.0	370.0	422.0	27.0	11.0	15.0	4.0	57.0	1684.0	Greenville College	IL	low	low	IIB
+http://dbpedia.org/resource/Grinnell_College	642.0	517.0	405.0	513.0	809.0	641.0	496.0	638.0	46.0	36.0	52.0	3.0	139.0	1868.0	Grinnell College	IA	high	high	IIB
+http://dbpedia.org/resource/Guilford_College	492.0	414.0	338.0	410.0	615.0	505.0	407.0	503.0	32.0	22.0	29.0	5.0	90.0	2931.0	Guilford College	NC	medium	medium	IIB
+http://dbpedia.org/resource/Gustavus_Adolphus_College	486.0	402.0	338.0	408.0	625.0	507.0	423.0	518.0	59.0	47.0	44.0	12.0	162.0	2353.0	Gustavus Adolphus College	MN	medium	medium	IIB
+http://dbpedia.org/resource/Gwynedd%E2%80%93Mercy_College	356.0	316.0	269.0	280.0	428.0	383.0	330.0	341.0	13.0	18.0	51.0	16.0	98.0	3270.0	Gwynedd-Mercy College	PA	low	low	IIB
+http://dbpedia.org/resource/Hamilton_College_(Iowa)	631.0	478.0	377.0	478.0	801.0	608.0	475.0	604.0	46.0	37.0	54.0	12.0	149.0	2728.0	Hamilton College	NY	medium	high	IIB
+http://dbpedia.org/resource/Hamline_University	556.0	451.0	342.0	461.0	706.0	575.0	424.0	583.0	58.0	29.0	27.0	8.0	128.0	2354.0	Hamline University	MN	medium	medium	IIA
+http://dbpedia.org/resource/Hampden%E2%80%93Sydney_College	529.0	397.0	338.0	417.0	631.0	481.0	419.0	502.0	28.0	28.0	13.0	0.0	80.0	3713.0	Hampden-Sydney College	VA	medium	medium	IIB
+http://dbpedia.org/resource/Hampton_University	494.0	377.0	323.0	359.0	568.0	440.0	374.0	415.0	45.0	86.0	134.0	13.0	297.0	3714.0	Hampton University	VA	medium	low	IIA
+http://dbpedia.org/resource/Hannibal-LaGrange_University		284.0	248.0	258.0		366.0	308.0	324.0	4.0	8.0	21.0	5.0	38.0	9089.0	Hannibal-LaGrange College	MO	low	low	IIB
+http://dbpedia.org/resource/Hanover_College	555.0	437.0	377.0	432.0	682.0	539.0	455.0	524.0	28.0	16.0	35.0	13.0	92.0	1801.0	Hanover College	IN	medium	medium	IIB
+http://dbpedia.org/resource/Hardin%E2%80%93Simmons_University	378.0	311.0	295.0	330.0	457.0	380.0	357.0	400.0	39.0	11.0	25.0	9.0	84.0	3571.0	Hardin-Simmons University	TX	low	low	IIA
+http://dbpedia.org/resource/Harding_University_High_School	424.0	374.0	335.0	380.0	512.0	461.0	401.0	460.0	80.0	46.0	41.0	8.0	179.0	10311.0	Harding University	AR	medium	medium	IIB
+http://dbpedia.org/resource/Hartwick_College	505.0	423.0	340.0	419.0	628.0	517.0	409.0	513.0	50.0	23.0	36.0	0.0	123.0	2729.0	Hartwick College	NY	medium	medium	IIB
+http://dbpedia.org/resource/Harvard_University	1009.0	559.0	500.0	793.0	1236.0	723.0	653.0	989.0	654.0	149.0	255.0	8.0	1172.0	2155.0	Harvard University	MA	high	high	I
+http://dbpedia.org/resource/Harvey_Mudd_College	771.0	579.0	454.0	638.0	961.0	739.0	588.0	805.0	34.0	14.0	20.0	0.0	68.0	1171.0	Harvey Mudd College	CA	high	high	IIB
+http://dbpedia.org/resource/Hastings_College	426.0	359.0	305.0	353.0	516.0	434.0	369.0	426.0	19.0	19.0	24.0	4.0	66.0	2548.0	Hastings College	NE	medium	low	IIB
+http://dbpedia.org/resource/Haverford_College	653.0	498.0	392.0	521.0	876.0	702.0	551.0	716.0	40.0	19.0	33.0	3.0	95.0	3274.0	Haverford College	PA	high	high	IIB
+http://dbpedia.org/resource/Heidelberg_University_(Ohio)	399.0	334.0	298.0	331.0	491.0	407.0	349.0	397.0	17.0	18.0	24.0	8.0	67.0	3048.0	Heidelberg College	OH	low	low	IIB
+http://dbpedia.org/resource/Henderson_State_University	447.0	375.0	341.0	375.0	561.0	480.0	435.0	477.0	55.0	42.0	33.0	25.0	155.0	1098.0	Henderson State University	AR	medium	medium	IIB
+http://dbpedia.org/resource/Hendrix_College	485.0	399.0	362.0	421.0	664.0	534.0	453.0	562.0	24.0	26.0	14.0	1.0	65.0	1099.0	Hendrix College	AR	medium	medium	IIB
+http://dbpedia.org/resource/Heritage_College,_Perth		359.0	319.0	322.0		437.0	392.0	395.0	4.0	7.0	9.0	8.0	28.0	3777.0	Heritage College	WA	low	low	IIB
+http://dbpedia.org/resource/High_Point_University	475.0	397.0	330.0	349.0	591.0	496.0	407.0	435.0	14.0	25.0	35.0	9.0	94.0	2933.0	High Point University	NC	low	low	IIB
+http://dbpedia.org/resource/Hilbert_College	318.0		261.0	278.0	376.0		315.0	336.0	6.0	3.0	12.0	7.0	28.0	2735.0	Hilbert College	NY	low	low	IIB
+http://dbpedia.org/resource/Hiram_College	468.0	367.0	302.0	373.0	602.0	469.0	379.0	474.0	28.0	22.0	20.0	11.0	81.0	3049.0	Hiram College	OH	medium	medium	IIB
+http://dbpedia.org/resource/Hofstra_University	757.0	550.0	470.0	584.0	956.0	692.0	579.0	731.0	127.0	131.0	141.0	7.0	406.0	2732.0	Hofstra University	NY	high	high	I
+http://dbpedia.org/resource/Hollins_University	498.0	398.0	306.0	388.0	609.0	512.0	374.0	484.0	18.0	27.0	23.0	3.0	71.0	3715.0	Hollins College	VA	medium	medium	IIB
+http://dbpedia.org/resource/Holy_Family_University	480.0	395.0	335.0	364.0	599.0	504.0	432.0	465.0	12.0	14.0	33.0	16.0	75.0	3275.0	Holy Family College	PA	medium	medium	IIB
+http://dbpedia.org/resource/Holy_Names_University	484.0	394.0	275.0	368.0	542.0	443.0	311.0	413.0	10.0	22.0	18.0	1.0	51.0	1183.0	Holy Names College	CA	medium	low	IIB
+http://dbpedia.org/resource/Hood_College	516.0	425.0	352.0	402.0	665.0	530.0	434.0	502.0	14.0	21.0	40.0	1.0	76.0	2076.0	Hood College	MD	medium	medium	IIA
+http://dbpedia.org/resource/Hope_College	515.0	420.0	350.0	443.0	681.0	559.0	455.0	585.0	70.0	49.0	38.0	2.0	159.0	2273.0	Hope College	MI	medium	medium	IIB
+http://dbpedia.org/resource/Houghton_College	370.0	323.0	265.0	327.0	487.0	424.0	343.0	428.0	30.0	29.0	17.0	1.0	77.0	2734.0	Houghton College	NY	low	low	IIB
+http://dbpedia.org/resource/Houston_Baptist_University	408.0	363.0	314.0	345.0	507.0	456.0	397.0	434.0	34.0	19.0	43.0	15.0	111.0	3576.0	Houston Baptist University	TX	low	low	IIA
+http://dbpedia.org/resource/Howard_University	656.0	483.0	403.0	481.0	780.0	591.0	494.0	587.0	241.0	282.0	189.0	111.0	891.0	1448.0	Howard University	DC	medium	medium	I
+http://dbpedia.org/resource/Humboldt_State_University	593.0	468.0	387.0	543.0	746.0	603.0	507.0	688.0	213.0	38.0	50.0	0.0	301.0	1149.0	Humboldt State University	CA	high	high	IIA
+http://dbpedia.org/resource/Huntingdon_College	339.0	303.0	287.0	301.0	421.0	371.0	347.0	366.0	8.0	15.0	19.0	2.0	44.0	1019.0	Huntingdon College	AL	low	low	IIB
+http://dbpedia.org/resource/Huntington_University_(Canada)	438.0	367.0	305.0	358.0	544.0	455.0	379.0	444.0	11.0	11.0	13.0	3.0	38.0	1803.0	Huntington College	IN	medium	low	IIB
+http://dbpedia.org/resource/Husson_University	407.0	358.0	302.0	334.0	454.0	401.0	338.0	374.0	12.0	13.0	18.0	6.0	49.0	2043.0	Husson College	ME	low	low	IIB
+http://dbpedia.org/resource/Idaho_State_University	466.0	382.0	337.0	368.0	588.0	487.0	433.0	471.0	128.0	99.0	113.0	120.0	460.0	1620.0	Idaho State University	ID	medium	medium	IIA
+http://dbpedia.org/resource/Illinois_College	522.0	424.0	347.0	424.0	621.0	503.0	410.0	502.0	16.0	18.0	14.0	3.0	51.0	1688.0	Illinois College	IL	medium	medium	IIB
+http://dbpedia.org/resource/Illinois_Institute_of_Technology	680.0	480.0	452.0	512.0	836.0	606.0	558.0	636.0	93.0	81.0	73.0	11.0	287.0	1691.0	Illinois Institute of Technology	IL	high	high	I
+http://dbpedia.org/resource/Illinois_State_University	548.0	436.0	373.0	460.0	638.0	514.0	445.0	541.0	289.0	187.0	244.0	0.0	720.0	1692.0	Illinois State University	IL	medium	medium	I
+http://dbpedia.org/resource/Illinois_Wesleyan_University	570.0	452.0	374.0	445.0	729.0	593.0	477.0	572.0	32.0	42.0	47.0	8.0	129.0	1696.0	Illinois Wesleyan University	IL	medium	medium	IIB
+http://dbpedia.org/resource/Immaculata_University	451.0	406.0	310.0	385.0	572.0	521.0	399.0	492.0	10.0	8.0	8.0	2.0	28.0	3276.0	Immaculata College	PA	medium	medium	IIB
+http://dbpedia.org/resource/Indiana_State_University	500.0	394.0	343.0	423.0	647.0	513.0	438.0	545.0	248.0	133.0	151.0	16.0	548.0	9563.0	Indiana State University	IN	medium	medium	I
+http://dbpedia.org/resource/Indiana_University_Bloomington	674.0	479.0	399.0	540.0	852.0	615.0	507.0	685.0	624.0	344.0	305.0	1.0	1361.0	1809.0	Indiana University of-Bloomington	IN	high	high	I
+http://dbpedia.org/resource/Indiana_University_Kokomo	519.0	432.0	380.0	397.0	665.0	548.0	482.0	504.0	13.0	21.0	29.0	0.0	81.0	1814.0	Indiana University at Kokomo	IN	medium	medium	IIB
+http://dbpedia.org/resource/Indiana_University_South_Bend	544.0	445.0	391.0	420.0	696.0	571.0	495.0	537.0	32.0	56.0	57.0	0.0	175.0	1816.0	Indiana University at South Bend	IN	medium	medium	IIA
+http://dbpedia.org/resource/Indiana_University_of_Pennsylvania	675.0	541.0	425.0	546.0	859.0	708.0	571.0	711.0	243.0	201.0	173.0	41.0	658.0	3277.0	Indiana University of Penn.	PA	high	high	IIA
+http://dbpedia.org/resource/Indiana_Wesleyan_University	396.0	342.0	294.0	335.0	492.0	431.0	367.0	418.0	22.0	23.0	34.0	2.0	81.0	1822.0	Indiana Wesleyan University	IN	low	low	IIB
+http://dbpedia.org/resource/Iona_College_(Queensland)	594.0	462.0	393.0	461.0	756.0	594.0	496.0	587.0	42.0	81.0	59.0	10.0	192.0	2737.0	Iona College	NY	medium	medium	IIA
+http://dbpedia.org/resource/Iowa_State_University	684.0	506.0	404.0	534.0	842.0	635.0	514.0	666.0	467.0	353.0	284.0	84.0	1188.0	1869.0	Iowa State University	IA	high	high	I
+http://dbpedia.org/resource/Ithaca_College	606.0	484.0	366.0	443.0	761.0	605.0	461.0	557.0	70.0	153.0	184.0	21.0	428.0	2739.0	Ithaca College	NY	medium	medium	IIB
+http://dbpedia.org/resource/Jackson_State_University	425.0	391.0	337.0	362.0	511.0	471.0	407.0	436.0	81.0	79.0	114.0	54.0	328.0	2410.0	Jackson State University	MS	medium	low	IIA
+http://dbpedia.org/resource/James_Madison_University	521.0	447.0	366.0	441.0	647.0	560.0	466.0	553.0	187.0	151.0	131.0	39.0	508.0	3721.0	James Madison University	VA	medium	medium	IIA
+http://dbpedia.org/resource/John_Brown_University	372.0	338.0	304.0	341.0	478.0	414.0	375.0	426.0	23.0	22.0	10.0	3.0	58.0	1100.0	John Brown University	AR	low	low	IIB
+http://dbpedia.org/resource/John_Carroll_University	587.0	473.0	389.0	465.0	717.0	586.0	490.0	576.0	59.0	56.0	74.0	14.0	203.0	3050.0	John Carroll University	OH	medium	medium	IIA
+http://dbpedia.org/resource/Johns_Hopkins_University	798.0	542.0	435.0	593.0	972.0	677.0	551.0	734.0	330.0	110.0	160.0	52.0	767.0	2077.0	Johns Hopkins University	MD	high	high	I
+http://dbpedia.org/resource/Johnson_C._Smith_University	408.0	357.0	303.0	327.0	485.0	427.0	367.0	394.0	11.0	27.0	34.0	12.0	84.0	2936.0	Johnson C. Smith University	NC	low	low	IIB
+http://dbpedia.org/resource/Johnson_State_College	423.0	349.0	303.0	342.0	550.0	478.0	429.0	469.0	14.0	21.0	29.0	2.0	66.0	3688.0	Johnson State College	VT	low	medium	IIB
+http://dbpedia.org/resource/Judson_College_(Alabama)	400.0	358.0	305.0	358.0	486.0	445.0	366.0	438.0	10.0	12.0	6.0	1.0	29.0	1700.0	Judson College	IL	medium	low	IIB
+http://dbpedia.org/resource/Juniata_College	488.0	391.0	316.0	419.0	634.0	497.0	427.0	545.0	36.0	20.0	16.0	2.0	74.0	3279.0	Juniata College	PA	medium	medium	IIB
+http://dbpedia.org/resource/Kalamazoo_College	553.0	440.0	352.0	452.0	696.0	569.0	440.0	571.0	36.0	25.0	24.0	7.0	92.0	2275.0	Kalamazoo College	MI	medium	medium	IIB
+http://dbpedia.org/resource/Kansas_State_University	550.0	419.0	368.0	440.0	686.0	530.0	466.0	554.0	305.0	231.0	259.0	63.0	858.0	1928.0	Kansas State University	KS	medium	medium	I
+http://dbpedia.org/resource/Kansas_Wesleyan_University	337.0	290.0	265.0	293.0	394.0	343.0	299.0	340.0	11.0	14.0	10.0	3.0	38.0	1929.0	Kansas Wesleyan University	KS	low	low	IIB
+http://dbpedia.org/resource/Kean_University	640.0	516.0	423.0	525.0	833.0	691.0	582.0	700.0	115.0	107.0	115.0	3.0	340.0	2622.0	Kean College of New Jersey	NJ	high	high	IIA
+http://dbpedia.org/resource/Keene_State_College	494.0	417.0	337.0	426.0	622.0	532.0	439.0	542.0	61.0	46.0	40.0	2.0	149.0	2590.0	Keene State College	NH	medium	medium	IIB
+http://dbpedia.org/resource/Kendall_College		357.0		319.0		423.0		377.0	1.0	11.0	3.0	4.0	19.0	1703.0	Kendall College	IL	low	low	IIB
+http://dbpedia.org/resource/Kentucky_State_University	460.0	403.0	329.0	377.0	576.0	505.0	416.0	474.0	26.0	35.0	52.0	5.0	118.0	1968.0	Kentucky State University	KY	medium	medium	IIB
+http://dbpedia.org/resource/Kentucky_Wesleyan_College	383.0	326.0	292.0	327.0	474.0	404.0	358.0	405.0	17.0	18.0	11.0	5.0	51.0	1969.0	Kentucky Wesleyan College	KY	low	low	IIB
+http://dbpedia.org/resource/Kenyon_College	608.0	439.0	381.0	480.0	777.0	552.0	475.0	608.0	49.0	36.0	38.0	8.0	131.0	3065.0	Kenyon College	OH	medium	high	IIB
+http://dbpedia.org/resource/Keuka_College	403.0	346.0	283.0	338.0	473.0	412.0	335.0	399.0	15.0	8.0	19.0	0.0	42.0	2744.0	Keuka College	NY	low	low	IIB
+http://dbpedia.org/resource/King's_College_London	498.0	427.0	354.0	409.0	641.0	548.0	444.0	520.0	22.0	28.0	45.0	0.0	95.0	3282.0	King's College	PA	medium	medium	IIB
+http://dbpedia.org/resource/Knox_College_(Illinois)	508.0	414.0	342.0	432.0	650.0	518.0	416.0	544.0	35.0	17.0	20.0	5.0	77.0	1704.0	Knox College	IL	medium	medium	IIB
+http://dbpedia.org/resource/Kutztown_University_of_Pennsylvania	669.0	544.0	418.0	528.0	847.0	707.0	558.0	685.0	119.0	117.0	122.0	25.0	383.0	3322.0	Kutztown University of Penn.	PA	high	high	IIA
+http://dbpedia.org/resource/La_Roche_College	433.0	364.0	302.0	351.0	518.0	438.0	355.0	419.0	11.0	12.0	21.0	0.0	44.0	3987.0	La Roche College	PA	medium	low	IIB
+http://dbpedia.org/resource/La_Salle_University	585.0	482.0	426.0	470.0	733.0	616.0	543.0	597.0	30.0	80.0	95.0	4.0	209.0	3287.0	La Salle University	PA	medium	high	IIA
+http://dbpedia.org/resource/Lafayette_College	686.0	517.0	419.0	506.0	873.0	668.0	536.0	647.0	37.0	62.0	71.0	8.0	179.0	3284.0	Lafayette College	PA	high	high	IIB
+http://dbpedia.org/resource/Lake_Forest_College	644.0	475.0	402.0	495.0	843.0	650.0	543.0	662.0	26.0	22.0	24.0	5.0	81.0	1706.0	Lake Forest College	IL	medium	high	IIB
+http://dbpedia.org/resource/Lakeland_College_(Alberta)	406.0		321.0	329.0	489.0		384.0	393.0	11.0	3.0	19.0	8.0	46.0	3854.0	Lakeland College	WI	low	low	IIB
+http://dbpedia.org/resource/Lambuth_University	316.0	288.0	283.0	294.0	405.0	380.0	363.0	379.0	15.0	9.0	16.0	2.0	42.0	3498.0	Lambuth University	TN	low	low	IIB
+http://dbpedia.org/resource/Lander_University	453.0	381.0	343.0	380.0	557.0	472.0	427.0	470.0	34.0	31.0	41.0	4.0	114.0	3435.0	Lander University	SC	medium	medium	IIB
+http://dbpedia.org/resource/Langston_University	459.0	375.0	313.0	342.0	545.0	454.0	383.0	415.0	12.0	31.0	34.0	29.0	108.0	3157.0	Langston University	OK	low	low	IIB
+http://dbpedia.org/resource/Lasell_College		336.0	322.0	320.0		403.0	389.0	387.0	3.0	7.0	13.0	4.0	27.0	2158.0	Lasell College	MA	low	low	IIB
+http://dbpedia.org/resource/Lawrence_University	570.0	425.0	364.0	462.0	691.0	521.0	439.0	561.0	42.0	28.0	31.0	3.0	104.0	3856.0	Lawrence University	WI	medium	medium	IIB
+http://dbpedia.org/resource/LeTourneau_University	404.0	343.0	319.0	349.0	525.0	431.0	428.0	449.0	15.0	18.0	11.0	6.0	50.0	3584.0	LeTourneau University	TX	low	medium	IIB
+http://dbpedia.org/resource/Le_Moyne_College	542.0	455.0	365.0	445.0	684.0	576.0	465.0	564.0	30.0	50.0	36.0	3.0	119.0	2748.0	Le Moyne College	NY	medium	medium	IIB
+http://dbpedia.org/resource/Lebanon_Valley_College	472.0	401.0	362.0	419.0	593.0	512.0	466.0	531.0	28.0	21.0	17.0	1.0	67.0	3288.0	Lebanon Valley College	PA	medium	medium	IIB
+http://dbpedia.org/resource/Lee_College	350.0	320.0	284.0	297.0	431.0	407.0	334.0	360.0	12.0	20.0	29.0	13.0	74.0	3500.0	Lee College	TN	low	low	IIB
+http://dbpedia.org/resource/Lehigh_University	757.0	543.0	448.0	635.0	955.0	700.0	568.0	805.0	216.0	118.0	77.0	4.0	416.0	3289.0	Lehigh University	PA	high	high	I
+http://dbpedia.org/resource/Lewis%E2%80%93Clark_State_College	391.0	329.0	292.0	338.0	499.0	425.0	381.0	436.0	39.0	35.0	35.0	1.0	110.0	1621.0	Lewis-Clark State College	ID	low	low	IIB
+http://dbpedia.org/resource/Lewis_&_Clark_College	601.0	442.0	362.0	477.0	749.0	570.0	440.0	598.0	74.0	36.0	47.0	6.0	171.0	3197.0	Lewis & Clark College	OR	medium	high	IIA
+http://dbpedia.org/resource/Lewis_University	467.0	392.0	330.0	357.0	561.0	481.0	407.0	437.0	37.0	20.0	29.0	52.0	138.0	1707.0	Lewis University	IL	medium	low	IIA
+http://dbpedia.org/resource/Liberty_University	401.0	341.0	279.0	327.0	458.0	389.0	322.0	375.0	44.0	56.0	51.0	17.0	168.0	10392.0	Liberty University	VA	low	low	IIA
+http://dbpedia.org/resource/Limestone_College	277.0	282.0	250.0	264.0	319.0	328.0	287.0	303.0	7.0	8.0	11.0	2.0	28.0	3436.0	Limestone College	SC	low	low	IIB
+http://dbpedia.org/resource/Lincoln_University_(Pennsylvania)	465.0	367.5	315.0	350.5	567.0	452.5	391.5	433.5	22.0	24.0	31.5	21.0	103.0	2479.0	Lincoln University	MO	low	low	IIA
+http://dbpedia.org/resource/Lindenwood_University	416.0	367.0	306.0	340.0	477.0	422.0	354.0	392.0	15.0	27.0	55.0	0.0	97.0	2480.0	Lindenwood College	MO	low	low	IIA
+http://dbpedia.org/resource/Lindsey_Wilson_College		359.0	278.0	294.0		427.0	331.0	349.0	2.0	7.0	11.0	18.0	38.0	1972.0	Lindsey Wilson College	KY	low	low	IIB
+http://dbpedia.org/resource/Linfield_College	481.0	377.0	319.0	397.0	650.0	522.0	448.0	546.0	47.0	47.0	31.0	4.0	129.0	3198.0	Linfield College	OR	medium	medium	IIB
+http://dbpedia.org/resource/Lipscomb_University	453.0	374.0	308.0	365.0	561.0	473.0	374.0	451.0	33.0	22.0	25.0	17.0	97.0	3486.0	David Lipscomb University	TN	medium	medium	IIB
+http://dbpedia.org/resource/Livingstone_College		257.0	263.0	259.0		292.0	298.0	294.0	5.0	12.0	22.0	14.0	53.0	2942.0	Livingstone College	NC	low	low	IIB
+http://dbpedia.org/resource/Lock_Haven_University_of_Pennsylvania	676.0	544.0	417.0	508.0	820.0	675.0	527.0	631.0	46.0	64.0	61.0	26.0	197.0	3323.0	Lock Haven University	PA	high	high	IIB
+http://dbpedia.org/resource/Long_Island_University	631.0	513.0	408.0	531.0	825.0	672.0	520.0	690.0	233.0	175.0	124.0	22.0	561.0	4779.0	Long Island University	NY	high	high	IIA
+http://dbpedia.org/resource/Longwood_University	487.0	420.0	336.0	393.0	611.0	529.0	431.0	497.0	33.0	50.0	50.0	17.0	150.0	3719.0	Longwood College	VA	medium	medium	IIB
+http://dbpedia.org/resource/Loras_College	419.0	363.0	314.0	363.0	531.0	438.0	378.0	445.0	37.0	35.0	31.0	6.0	109.0	1873.0	Loras College	IA	medium	medium	IIB
+http://dbpedia.org/resource/Louisiana_College	375.0	324.0	308.0	338.0	484.0	427.0	401.0	440.0	25.0	13.0	18.0	4.0	60.0	2007.0	Louisiana College	LA	low	low	IIB
+http://dbpedia.org/resource/Louisiana_Tech_University	472.0	408.0	344.0	391.0	549.0	494.0	418.0	467.0	129.0	93.0	131.0	36.0	389.0	2008.0	Louisiana Tech University	LA	medium	medium	IIA
+http://dbpedia.org/resource/Lourdes_University		330.0	283.0	280.0		413.0	371.0	361.0	2.0	8.0	15.0	22.0	47.0	3069.0	Lourdes College	OH	low	low	IIB
+http://dbpedia.org/resource/Loyola_Marymount_University	722.0	558.0	414.0	589.0	911.0	724.0	543.0	754.0	130.0	90.0	83.0	3.0	310.0	11649.0	Loyola Marymount University	CA	high	high	IIA
+http://dbpedia.org/resource/Loyola_University_Chicago	677.0	493.5	413.0	523.0	826.0	612.0	509.0	644.0	120.5	166.5	104.0	4.0	402.0	1710.0	Loyola University	IL	high	high	I
+http://dbpedia.org/resource/Loyola_University_Maryland	632.0	500.0	397.0	482.0	802.0	640.0	511.0	617.0	50.0	76.0	89.0	5.0	222.0	2078.0	Loyola College in Maryland	MD	medium	high	IIA
+http://dbpedia.org/resource/Luther_College_(Iowa)	478.0	399.0	347.0	404.0	630.0	548.0	445.0	531.0	63.0	26.0	50.0	16.0	155.0	1874.0	Luther College	IA	medium	medium	IIB
+http://dbpedia.org/resource/Lycoming_College	502.0	436.0	352.0	395.0	656.0	575.0	442.0	507.0	16.0	26.0	33.0	11.0	86.0	3293.0	Lycoming College	PA	medium	medium	IIB
+http://dbpedia.org/resource/Lynchburg_College	465.0	392.0	317.0	395.0	567.0	484.0	396.0	486.0	49.0	36.0	37.0	3.0	125.0	3720.0	Lynchburg College	VA	medium	medium	IIA
+http://dbpedia.org/resource/Lyndon_State_College	433.0	366.0	293.0	366.0	584.0	501.0	411.0	500.0	18.0	22.0	17.0	0.0	57.0	3689.0	Lyndon State College	VT	medium	medium	IIB
+http://dbpedia.org/resource/Lyon_College	499.0		330.0	399.0	618.0		402.0	488.0	14.0	5.0	21.0	2.0	42.0	1088.0	Arkansas College	AR	medium	medium	IIB
+http://dbpedia.org/resource/MacMurray_College	324.0	263.0	250.0	262.0	393.0	334.0	307.0	318.0	13.0	9.0	16.0	31.0	69.0	1717.0	MacMurray College	IL	low	low	IIB
+http://dbpedia.org/resource/Macalester_College	639.0	492.0	406.0	514.0	807.0	622.0	500.0	645.0	46.0	32.0	36.0	7.0	121.0	2358.0	Macalester College	MN	high	high	IIB
+http://dbpedia.org/resource/Madonna_University	482.0	395.0	352.0	382.0	576.0	465.0	430.0	459.0	19.0	12.0	42.0	11.0	84.0	2282.0	Madonna University	MI	medium	medium	IIB
+http://dbpedia.org/resource/Malone_College_(Northern_Ireland)	410.0	352.0	306.0	343.0	515.0	441.0	383.0	432.0	20.0	18.0	26.0	4.0	70.0	3072.0	Malone College	OH	low	low	IIB
+http://dbpedia.org/resource/Manchester_College_(Indiana)	412.0	340.0	289.0	340.0	527.0	416.0	348.0	420.0	24.0	22.0	17.0	11.0	74.0	1820.0	Manchester College	IN	low	low	IIB
+http://dbpedia.org/resource/Manhattan_College	595.0	500.0	388.0	488.0	767.0	627.0	495.0	621.0	45.0	74.0	50.0	3.0	172.0	2758.0	Manhattan College	NY	medium	high	IIA
+http://dbpedia.org/resource/Mansfield_University_of_Pennsylvania	665.0	532.0	428.0	516.0	839.0	690.0	568.0	670.0	47.0	60.0	58.0	14.0	179.0	3324.0	Mansfield University of Penn.	PA	high	high	IIB
+http://dbpedia.org/resource/Marian_College,_Christchurch	420.0	329.0	303.0	330.0	520.0	411.0	379.0	411.0	15.0	23.0	34.0	5.0	79.0	1821.0	Marian College	IN	low	low	IIB
+http://dbpedia.org/resource/Marietta_College	445.0	366.0	298.0	370.0	569.0	464.0	367.0	470.0	27.0	18.0	19.0	5.0	69.0	3073.0	Marietta College	OH	medium	medium	IIB
+http://dbpedia.org/resource/Marist_College	580.0	485.0	373.0	417.0	741.0	643.0	481.0	542.0	16.0	34.0	91.0	0.0	151.0	2765.0	Marist College	NY	medium	medium	IIB
+http://dbpedia.org/resource/Marquette_University	705.0	521.0	426.0	527.0	884.0	662.0	525.0	662.0	94.0	238.0	151.0	0.0	483.0	3863.0	Marquette University	WI	high	high	I
+http://dbpedia.org/resource/Mars_Hill_College	356.0	308.0	259.0	309.0	426.0	378.0	309.0	372.0	35.0	16.0	18.0	11.0	80.0	2944.0	Mars Hill College	NC	low	low	IIB
+http://dbpedia.org/resource/Marshall_University	477.0	390.0	309.0	390.0	576.0	478.0	384.0	477.0	144.0	121.0	102.0	30.0	397.0	3815.0	Marshall University	WV	medium	medium	IIA
+http://dbpedia.org/resource/Mary_Baldwin_College	457.0	370.0	311.0	362.0	551.0	457.0	380.0	443.0	13.0	31.0	25.0	2.0	71.0	3723.0	Mary Baldwin College	VA	medium	low	IIB
+http://dbpedia.org/resource/Marymount_College,_Tarrytown	426.0	349.0	297.0	357.0	546.0	442.0	383.0	455.0	17.0	24.0	13.0	2.0	56.0	2768.0	Marymount College Tarrytown	NY	medium	medium	IIB
+http://dbpedia.org/resource/Marymount_Manhattan_College		407.0	332.0	382.0		495.0	407.0	464.0	4.0	26.0	19.0	0.0	49.0	2769.0	Marymount Manhattan College	NY	medium	medium	IIB
+http://dbpedia.org/resource/Marymount_University	524.0	418.0	369.0	448.0	616.0	493.0	434.0	528.0	48.0	30.0	34.0	0.0	112.0	3724.0	Marymount University	VA	medium	medium	IIA
+http://dbpedia.org/resource/Maryville_College	429.0	351.0	289.0	338.0	520.0	419.0	348.0	406.0	12.0	14.0	19.0	4.0	49.0	3505.0	Maryville College	TN	low	low	IIB
+http://dbpedia.org/resource/Marywood_University	514.0	429.0	356.0	412.0	635.0	524.0	443.0	508.0	25.0	41.0	52.0	3.0	121.0	3296.0	Marywood College	PA	medium	medium	IIA
+http://dbpedia.org/resource/Massachusetts_College_of_Liberal_Arts	510.0	394.0	361.0	428.0	642.0	507.0	468.0	546.0	34.0	34.0	21.0	2.0	91.0	2187.0	North Adams State College	MA	medium	medium	IIB
+http://dbpedia.org/resource/Massachusetts_Institute_of_Technology	903.0	637.0	528.0	757.0	1124.0	806.0	678.0	951.0	583.0	177.0	164.0	36.0	989.0	2178.0	Massachusetts Institute of Technology	MA	high	high	I
+http://dbpedia.org/resource/Mayville_State_University	415.0		313.0	340.0	519.0		399.0	429.0	9.0	4.0	21.0	3.0	37.0	2993.0	Mayville State University	ND	low	low	IIB
+http://dbpedia.org/resource/McDaniel_College	477.0	379.0	313.0	412.0	612.0	489.0	400.0	530.0	36.0	30.0	10.0	3.0	79.0	2109.0	Western Maryland College	MD	medium	medium	IIB
+http://dbpedia.org/resource/McKendree_University	433.0	397.0	341.0	381.0	539.0	493.0	407.0	467.0	16.0	10.0	16.0	5.0	47.0	1722.0	McKendree College	IL	medium	medium	IIB
+http://dbpedia.org/resource/McNeese_State_University	456.0	374.0	323.0	363.0	554.0	458.0	398.0	446.0	76.0	77.0	104.0	33.0	290.0	2017.0	McNeese State University	LA	medium	medium	IIA
+http://dbpedia.org/resource/McPherson_College	318.0	274.0	254.0	272.0	397.0	353.0	313.0	342.0	7.0	16.0	11.0	3.0	37.0	1933.0	McPherson College	KS	low	low	IIB
+http://dbpedia.org/resource/Medaille_College	435.0	371.0	276.0	349.0	525.0	446.0	322.0	418.0	11.0	16.0	13.0	2.0	43.0	2777.0	Medaille College	NY	low	low	IIB
+http://dbpedia.org/resource/Mercy_College,_Perth	524.0	399.0	341.0	416.0	640.0	493.0	423.0	511.0	53.0	38.0	48.0	6.0	149.0	2772.0	Mercy College	NY	medium	medium	IIB
+http://dbpedia.org/resource/Mercyhurst_University	444.0	390.0	312.0	339.0	592.0	497.0	390.0	429.0	15.0	25.0	46.0	15.0	101.0	3297.0	Mercyhurst College	PA	low	low	IIB
+http://dbpedia.org/resource/Meredith_College	440.0	373.0	328.0	366.0	517.0	442.0	387.0	431.0	26.0	30.0	31.0	16.0	103.0	2945.0	Meredith College	NC	medium	low	IIB
+http://dbpedia.org/resource/Merrimack_College	507.0	393.0	326.0	395.0	652.0	518.0	407.0	510.0	24.0	63.0	38.0	0.0	125.0	2120.0	Merrimack College	MA	medium	medium	IIB
+http://dbpedia.org/resource/Messiah_College	481.0	400.0	351.0	393.0	621.0	514.0	446.0	505.0	34.0	37.0	45.0	15.0	131.0	3298.0	Messiah College	PA	medium	medium	IIB
+http://dbpedia.org/resource/Methodist_College_Belfast	348.0	309.0	295.0	316.0	416.0	371.0	353.0	379.0	21.0	21.0	19.0	1.0	62.0	2946.0	Methodist College	NC	low	low	IIB
+http://dbpedia.org/resource/Miami_University	616.0	474.0	376.0	478.0	797.0	614.0	487.0	619.0	258.0	225.0	219.0	60.0	763.0	7104.0	Miami University	OH	medium	high	I
+http://dbpedia.org/resource/Michigan_State_University	651.0	493.0	413.0	555.0	843.0	663.0	569.0	732.0	949.0	494.0	350.0	47.0	1840.0	2290.0	Michigan State University	MI	high	high	I
+http://dbpedia.org/resource/MidAmerica_Nazarene_University	371.0	305.0	265.0	300.0	457.0	378.0	329.0	372.0	18.0	12.0	24.0	6.0	60.0	7032.0	Mid-America Nazarene College	KS	low	low	IIB
+http://dbpedia.org/resource/Middlebury_College	678.0	469.0	398.0	512.0	878.0	599.0	493.0	651.0	68.0	33.0	56.0	14.0	182.0	3691.0	Middlebury College	VT	high	high	IIB
+http://dbpedia.org/resource/Midland_University	372.0		278.0	301.0	449.0		346.0	371.0	14.0	4.0	25.0	9.0	52.0	2553.0	Midland Lutheran College	NE	low	low	IIB
+http://dbpedia.org/resource/Midwestern_State_University	491.0	418.0	362.0	399.0	613.0	528.0	463.0	505.0	42.0	45.0	54.0	20.0	162.0	3592.0	Midwestern State University	TX	medium	medium	IIA
+http://dbpedia.org/resource/Millersville_University_of_Pennsylvania	660.0	552.0	429.0	549.0	842.0	723.0	576.0	716.0	117.0	97.0	100.0	6.0	320.0	3325.0	Millersville University of Penn.	PA	high	high	IIA
+http://dbpedia.org/resource/Milligan_College	398.0	334.0	291.0	347.0	465.0	404.0	337.0	410.0	21.0	16.0	15.0	0.0	52.0	3511.0	Milligan College	TN	low	low	IIB
+http://dbpedia.org/resource/Millikin_University	478.0	409.0	313.0	386.0	583.0	501.0	383.0	472.0	34.0	38.0	46.0	6.0	124.0	1724.0	Millikin University	IL	medium	medium	IIB
+http://dbpedia.org/resource/Mills_College	593.0	461.0	407.0	492.0	737.0	571.0	507.0	612.0	28.0	16.0	23.0	2.0	70.0	1238.0	Mills College	CA	medium	high	IIA
+http://dbpedia.org/resource/Millsaps_College	498.0	376.0	322.0	387.0	615.0	478.0	381.0	475.0	25.0	27.0	29.0	4.0	85.0	2414.0	Millsaps College	MS	medium	medium	IIB
+http://dbpedia.org/resource/Minnesota_State_University,_Mankato	523.0	441.0	371.0	453.0	662.0	567.0	482.0	580.0	210.0	138.0	125.0	16.0	489.0	2360.0	Mankato State University	MN	medium	medium	IIA
+http://dbpedia.org/resource/Minnesota_State_University_Moorhead	512.0	421.0	353.0	419.0	651.0	544.0	461.0	540.0	131.0	65.0	120.0	29.0	345.0	2367.0	Moorhead State University	MN	medium	medium	IIA
+http://dbpedia.org/resource/Minot_State_University	457.0	383.0	331.0	347.0	563.0	477.0	416.0	436.0	34.0	41.0	68.0	16.0	188.0	2994.0	Minot State University	ND	low	low	IIA
+http://dbpedia.org/resource/Misericordia_University	493.0	425.0	346.0	377.0	578.0	508.0	420.0	455.0	9.0	22.0	48.0	5.0	84.0	3247.0	College Misericordia	PA	medium	medium	IIB
+http://dbpedia.org/resource/Mississippi_State_University	540.0	432.0	389.0	455.0	649.0	521.0	471.0	548.0	278.0	191.0	155.0	40.0	669.0	2423.0	Mississippi State University	MS	medium	medium	I
+http://dbpedia.org/resource/Missouri_Southern_State_University	489.0	406.0	349.0	389.0	592.0	496.0	430.0	476.0	42.0	50.0	67.0	28.0	187.0	2488.0	Missouri Southern State Coll	MO	medium	medium	IIB
+http://dbpedia.org/resource/Missouri_University_of_Science_and_Technology	663.0	508.0	454.0	564.0	802.0	626.0	557.0	686.0	114.0	79.0	56.0	4.0	253.0	2517.0	University of Missouri-Rolla	MO	high	high	I
+http://dbpedia.org/resource/Missouri_Valley_College		318.0	285.0	302.0		379.0	334.0	357.0	4.0	18.0	22.0	3.0	47.0	2489.0	Missouri Valley College	MO	low	low	IIB
+http://dbpedia.org/resource/Missouri_Western_State_University	473.0	393.0	334.0	385.0	580.0	483.0	414.0	474.0	44.0	44.0	64.0	9.0	161.0	2490.0	Missouri Western State College	MO	medium	medium	IIB
+http://dbpedia.org/resource/Molloy_College	541.0	435.0	353.0	381.0	697.0	551.0	463.0	494.0	16.0	20.0	58.0	22.0	116.0	2775.0	Molloy College	NY	medium	medium	IIB
+http://dbpedia.org/resource/Monmouth_College	529.5	424.0	366.5	450.0	663.5	540.0	454.0	566.5	30.5	33.5	20.0	1.0	85.0	1725.0	Monmouth College	IL	high	high	IIA
+http://dbpedia.org/resource/Montana_State_University	497.0	397.0	346.0	407.0	602.0	487.0	427.0	498.0	154.0	146.0	144.0	24.0	468.0	2532.0	Montana State University	MT	medium	medium	I
+http://dbpedia.org/resource/Montana_State_University_Billings	409.0	358.0	292.0	348.0	500.0	440.0	364.0	430.0	47.0	41.0	48.0	5.0	141.0	2530.0	Eastern Montana College	MT	low	low	IIA
+http://dbpedia.org/resource/Montclair_State_University	647.0	521.0	417.0	532.0	802.0	661.0	541.0	672.0	155.0	130.0	125.0	9.0	419.0	2617.0	Montclair State College	NJ	high	high	IIA
+http://dbpedia.org/resource/Moravian_College	490.0	406.0	343.0	423.0	624.0	516.0	430.0	537.0	35.0	29.0	19.0	3.0	86.0	3301.0	Moravian College	PA	medium	medium	IIB
+http://dbpedia.org/resource/Morehead_State_University	478.0	395.0	322.0	373.0	600.0	498.0	410.0	472.0	87.0	89.0	123.0	37.0	336.0	1976.0	Morehead State University	KY	medium	medium	IIA
+http://dbpedia.org/resource/Morgan_State_University	594.0	517.0	439.0	450.0	743.0	651.0	558.0	571.0	26.0	41.0	91.0	42.0	229.0	2083.0	Morgan State University	MD	medium	medium	IIA
+http://dbpedia.org/resource/Morningside_College	389.0	331.0	303.0	341.0	495.0	414.0	365.0	425.0	20.0	29.0	16.0	1.0	66.0	1879.0	Morningside College	IA	low	low	IIB
+http://dbpedia.org/resource/Morris_College		278.0	252.0	269.0		314.0	285.0	303.0	5.0	16.0	21.0	4.0	46.0	3439.0	Morris College	SC	low	low	IIB
+http://dbpedia.org/resource/Mount_Holyoke_College	694.0	505.0	400.0	541.0	866.0	645.0	496.0	678.0	73.0	47.0	51.0	3.0	191.0	2192.0	Mount Holyoke College	MA	high	high	IIB
+http://dbpedia.org/resource/Mount_Mary_College	393.0	327.0	282.0	312.0	493.0	393.0	327.0	371.0	8.0	19.0	19.0	6.0	52.0	3869.0	Mount Mary College	WI	low	low	IIB
+http://dbpedia.org/resource/Mount_Mercy_College,_Cork	379.0	356.0	334.0	337.0	465.0	427.0	396.0	405.0	7.0	20.0	28.0	8.0	63.0	1880.0	Mount Mercy College	IA	low	low	IIB
+http://dbpedia.org/resource/Mount_Saint_Mary_College	514.0	407.0	349.0	395.0	633.0	505.0	424.0	482.0	14.0	8.0	23.0	6.0	51.0	2778.0	Mount Saint Mary College	NY	medium	medium	IIB
+http://dbpedia.org/resource/Muhlenberg_College	589.0	432.0	359.0	449.0	809.0	568.0	463.0	600.0	36.0	31.0	37.0	2.0	115.0	3304.0	Muhlenberg College	PA	medium	high	IIB
+http://dbpedia.org/resource/Murray_State_University	462.0	396.0	342.0	383.0	601.0	520.0	451.0	503.0	95.0	101.0	101.0	7.0	336.0	1977.0	Murray State University	KY	medium	medium	IIA
+http://dbpedia.org/resource/Muskingum_University	446.0	365.0	290.0	353.0	574.0	461.0	378.0	453.0	19.0	19.0	28.0	3.0	69.0	3084.0	Muskingum College	OH	medium	medium	IIB
+http://dbpedia.org/resource/National_Louis_University	490.0	405.0	337.0	348.0	566.0	472.0	394.0	405.0	20.0	51.0	120.0	23.0	253.0	1733.0	National-Louis University	IL	low	low	IIA
+http://dbpedia.org/resource/Nazareth_College_(New_York)	513.0	428.0	343.0	430.0	634.0	533.0	425.0	532.0	37.0	33.0	35.0	0.0	105.0	2779.0	Nazareth College of Rochester	NY	medium	medium	IIB
+http://dbpedia.org/resource/Nebraska_Wesleyan_University	454.0	381.0	327.0	396.0	548.0	468.0	400.0	481.0	37.0	23.0	25.0	2.0	87.0	2555.0	Nebraska Wesleyan University	NE	medium	medium	IIB
+http://dbpedia.org/resource/Neumann_University		328.0	296.0	307.0		457.0	399.0	415.0	5.0	9.0	27.0	3.0	44.0	3988.0	Neumann College	PA	low	low	IIB
+http://dbpedia.org/resource/New_England_College	423.0	329.0	251.0	327.0	551.0	437.0	313.0	423.0	20.0	20.0	23.0	2.0	65.0	2579.0	New England College	NH	low	low	IIB
+http://dbpedia.org/resource/New_Jersey_City_University	649.0	525.0	405.0	520.0	840.0	697.0	558.0	692.0	80.0	66.0	90.0	1.0	237.0	2613.0	Jersey City State College	NJ	high	high	IIB
+http://dbpedia.org/resource/New_Jersey_Institute_of_Technology	771.0	606.0	501.0	615.0	976.0	790.0	670.0	799.0	104.0	98.0	71.0	0.0	303.0	2621.0	New Jersey Institute of Technology	NJ	high	high	IIA
+http://dbpedia.org/resource/New_York_Institute_of_Technology	569.0	492.0	410.0	491.0	726.0	642.0	546.0	639.0	68.0	106.0	43.0	11.0	228.0	4804.0	New York Institute of Technology	NY	medium	high	IIA
+http://dbpedia.org/resource/New_York_University	887.0	591.0	507.0	683.0	1172.0	785.0	674.0	905.0	532.0	337.0	252.0	42.0	1231.0	2785.0	New York University	NY	high	high	I
+http://dbpedia.org/resource/Newberry_College	351.0	290.0	243.0	287.0	411.0	344.0	290.0	339.0	11.0	19.0	11.0	5.0	46.0	3440.0	Newberry College	SC	low	low	IIB
+http://dbpedia.org/resource/Niagara_University	503.0	430.0	376.0	443.0	612.0	524.0	448.0	537.0	39.0	43.0	24.0	2.0	108.0	2788.0	Niagara University	NY	medium	medium	IIA
+http://dbpedia.org/resource/Nicholls_State_University	440.0	361.0	316.0	338.0	535.0	439.0	385.0	412.0	72.0	67.0	82.0	40.0	286.0	2005.0	Nicholls State University	LA	low	low	IIB
+http://dbpedia.org/resource/Norfolk_State_University	492.0	429.0	355.0	406.0	618.0	545.0	456.0	516.0	83.0	88.0	92.0	30.0	297.0	3765.0	Norfolk State University	VA	medium	medium	IIA
+http://dbpedia.org/resource/North_Carolina_Wesleyan_College	384.0	317.0	299.0	320.0	478.0	385.0	360.0	389.0	10.0	13.0	20.0	2.0	45.0	2951.0	North Carolina Wesleyan Coll	NC	low	low	IIB
+http://dbpedia.org/resource/North_Central_College	473.0	399.0	348.0	398.0	588.0	501.0	437.0	497.0	24.0	40.0	28.0	5.0	97.0	1734.0	North Central College	IL	medium	medium	IIB
+http://dbpedia.org/resource/North_Park_University	415.0	337.0	285.0	339.0	540.0	426.0	352.0	431.0	23.0	18.0	18.0	2.0	65.0	1735.0	North Park College	IL	low	low	IIB
+http://dbpedia.org/resource/Northeastern_University	688.0	525.0	460.0	543.0	880.0	689.0	599.0	705.0	236.0	260.0	176.0	0.0	730.0	2199.0	Northeastern University	MA	high	high	I
+http://dbpedia.org/resource/Northern_Arizona_University	511.0	422.0	359.0	412.0	619.0	518.0	446.0	507.0	173.0	192.0	175.0	33.0	608.0	1082.0	Northern Arizona University	AZ	medium	medium	I
+http://dbpedia.org/resource/Northern_Illinois_University	578.0	435.0	375.0	440.0	667.0	509.0	443.0	515.0	314.0	266.0	246.0	112.0	944.0	1737.0	Northern Illinois University	IL	medium	medium	I
+http://dbpedia.org/resource/Northern_Kentucky_University	506.0	427.0	350.0	388.0	623.0	529.0	432.0	478.0	83.0	96.0	90.0	14.0	341.0	9275.0	Northern Kentucky University	KY	medium	medium	IIA
+http://dbpedia.org/resource/Northern_Michigan_University	571.0	459.0	347.0	467.0	749.0	609.0	468.0	619.0	149.0	72.0	61.0	21.0	329.0	2301.0	Northern Michigan University	MI	medium	high	IIA
+http://dbpedia.org/resource/Northern_State_University	417.0	333.0	297.0	337.0	498.0	402.0	362.0	407.0	27.0	30.0	35.0	12.0	104.0	3466.0	Northern State University	SD	low	low	IIA
+http://dbpedia.org/resource/Northland_College_(Kaikohe)	375.0	296.0	271.0	325.0	458.0	354.0	344.0	397.0	19.0	15.0	7.0	2.0	44.0	3875.0	Northland College	WI	low	low	IIB
+http://dbpedia.org/resource/Northwest_Christian_University				292.0				409.0	4.0	5.0	2.0	0.0	11.0	3208.0	Northwest Christian College	OR	low	low	IIB
+http://dbpedia.org/resource/Northwest_Nazarene_University				341.0				448.0	0.0	0.0	0.0	0.0	71.0	1624.0	Northwest Nazarene College	ID	low	medium	IIB
+http://dbpedia.org/resource/Northwestern_College_(Minnesota)	401.5	355.5	312.0	338.5	520.5	465.5	400.0	437.5	11.0	16.0	27.0	3.5	57.5	1883.0	Northwestern College	IA	low	low	IIB
+http://dbpedia.org/resource/Northwestern_University	860.0	596.0	496.0	712.0	1045.0	735.0	602.0	868.0	460.0	209.0	203.0	0.0	872.0	1739.0	Northwestern University	IL	high	high	I
+http://dbpedia.org/resource/Norwich_University	423.0	356.0	297.0	371.0	545.0	468.0	394.0	484.0	62.0	51.0	32.0	1.0	146.0	3692.0	Norwich University	VT	medium	medium	IIA
+http://dbpedia.org/resource/Notre_Dame_College	335.0	296.5	265.0	288.0	393.0	364.5	315.0	344.5	5.5	10.0	14.0	2.0	31.5	2584.0	Notre Dame College	NH	low	low	IIB
+http://dbpedia.org/resource/Notre_Dame_of_Maryland_University	524.0	421.0	374.0	448.0	630.0	503.0	443.0	535.0	25.0	16.0	15.0	3.0	59.0	1179.0	College of Notre Dame	CA	medium	medium	IIB
+http://dbpedia.org/resource/Oakland_City_University		282.0	252.0	269.0		340.0	314.0	328.0	3.0	11.0	10.0	4.0	28.0	1824.0	Oakland City College	IN	low	low	IIB
+http://dbpedia.org/resource/Oakland_University	633.0	518.0	432.0	534.0	831.0	690.0	582.0	710.0	123.0	142.0	85.0	8.0	358.0	2307.0	Oakland University	MI	high	high	IIA
+http://dbpedia.org/resource/Oakwood_University	301.0	290.0	283.0	290.0	375.0	363.0	355.0	362.0	18.0	28.0	28.0	3.0	77.0	1033.0	Oakwood College	AL	low	low	IIB
+http://dbpedia.org/resource/Oberlin_College	588.0	454.0	385.0	507.0	789.0	605.0	491.0	673.0	121.0	69.0	43.0	6.0	239.0	3086.0	Oberlin College	OH	high	high	IIB
+http://dbpedia.org/resource/Occidental_College	624.0	469.0	388.0	490.0	806.0	593.0	482.0	621.0	49.0	42.0	33.0	15.0	139.0	1249.0	Occidental College	CA	medium	high	IIB
+http://dbpedia.org/resource/Oglethorpe_University	516.0	454.0	329.0	450.0	630.0	550.0	390.0	546.0	21.0	9.0	10.0	0.0	44.0	1586.0	Oglethorpe University	GA	medium	medium	IIB
+http://dbpedia.org/resource/Ohio_Dominican_University		321.0	293.0	300.0		395.0	347.0	362.0	5.0	13.0	19.0	6.0	43.0	2540.0	College of Saint Mary	NE	low	low	IIB
+http://dbpedia.org/resource/Ohio_Northern_University	511.0	431.0	371.0	437.0	639.0	546.0	465.0	550.0	55.0	53.0	39.0	8.0	155.0	3089.0	Ohio Northern University	OH	medium	medium	IIB
+http://dbpedia.org/resource/Ohio_Wesleyan_University	541.0	395.0	354.0	453.0	726.0	584.0	500.0	626.0	67.0	25.0	42.0	2.0	136.0	3109.0	Ohio Wesleyan University	OH	medium	high	IIB
+http://dbpedia.org/resource/Oklahoma_Baptist_University	379.0	335.0	282.0	317.0	467.0	420.0	359.0	399.0	22.0	33.0	42.0	5.0	102.0	3164.0	Oklahoma Baptist University	OK	low	low	IIB
+http://dbpedia.org/resource/Oklahoma_State_University_Center_for_Health_Sciences	532.0	409.0	373.0	449.0	655.0	509.0	460.0	555.0	342.0	247.0	181.0	11.0	794.0	3170.0	Oklahoma State University	OK	medium	medium	I
+http://dbpedia.org/resource/Old_Dominion_University	595.0	451.0	370.0	446.0	731.0	564.0	468.0	557.0	165.0	228.0	156.0	52.0	643.0	3728.0	Old Dominion University	VA	medium	medium	I
+http://dbpedia.org/resource/Olivet_College	400.0		306.0	329.0	487.0		357.0	390.0	13.0	4.0	23.0	2.0	44.0	2308.0	Olivet College	MI	low	low	IIB
+http://dbpedia.org/resource/Olivet_Nazarene_University	391.0	335.0	278.0	320.0	476.0	412.0	346.0	395.0	26.0	22.0	36.0	8.0	92.0	1741.0	Olivet Nazarene University	IL	low	low	IIA
+http://dbpedia.org/resource/Oregon_Institute_of_Technology	500.0	441.0	391.0	438.0	648.0	574.0	512.0	572.0	38.0	32.0	32.0	7.0	109.0	3211.0	Oregon Institute of Technology	OR	medium	medium	IIB
+http://dbpedia.org/resource/Oregon_State_University	597.0	473.0	400.0	475.0	762.0	615.0	522.0	615.0	206.0	209.0	133.0	46.0	622.0	3210.0	Oregon State University	OR	medium	high	I
+http://dbpedia.org/resource/Ottawa_University	338.0	292.0	264.0	284.0	410.0	348.0	309.0	338.0	13.0	12.0	22.0	8.0	55.0	1937.0	Ottawa University	KS	low	low	IIB
+http://dbpedia.org/resource/Otterbein_University	459.0	372.0	329.0	363.0	600.0	467.0	399.0	457.0	22.0	42.0	56.0	10.0	130.0	3110.0	Otterbein College	OH	medium	medium	IIB
+http://dbpedia.org/resource/Ouachita_Baptist_University	422.0	355.0	289.0	342.0	529.0	445.0	375.0	435.0	36.0	14.0	28.0	19.0	97.0	1102.0	Ouachita Baptist University	AR	low	low	IIB
+http://dbpedia.org/resource/Our_Lady_of_Holy_Cross_College		306.0	325.0	314.0		378.0	400.0	385.0	1.0	9.0	9.0	6.0	25.0	2023.0	Our Lady of Holy Cross College	LA	low	low	IIB
+http://dbpedia.org/resource/Pace_University	685.0	513.0	436.0	576.0	851.0	643.0	556.0	720.0	187.0	124.0	77.0	3.0	397.0	2791.0	Pace University	NY	high	high	IIA
+http://dbpedia.org/resource/Pacific_Lutheran_University	494.0	409.0	351.0	422.0	617.0	513.0	434.0	527.0	78.0	88.0	63.0	0.0	229.0	3785.0	Pacific Lutheran University	WA	medium	medium	IIA
+http://dbpedia.org/resource/Pacific_Union_College	362.0	333.0	315.0	336.0	441.0	398.0	376.0	403.0	40.0	17.0	41.0	4.0	102.0	1258.0	Pacific Union College	CA	low	low	IIB
+http://dbpedia.org/resource/Pacific_University	441.0	381.0	341.0	370.0	561.0	469.0	421.0	461.0	28.0	32.0	41.0	7.0	108.0	3212.0	Pacific University	OR	medium	medium	IIA
+http://dbpedia.org/resource/Palm_Beach_Atlantic_University	413.0	369.0	333.0	348.0	491.0	451.0	390.0	412.0	11.0	14.0	28.0	13.0	66.0	8849.0	Palm Beach Atlantic College	FL	low	low	IIB
+http://dbpedia.org/resource/Park_College_of_Engineering_and_Technology	341.0	320.0	283.0	299.0	407.0	388.0	336.0	356.0	10.0	8.0	24.0	3.0	45.0	2498.0	Park College	MO	low	low	IIB
+http://dbpedia.org/resource/Pepperdine_University	715.0	561.0	511.0	637.0	930.0	737.0	645.0	829.0	130.0	72.0	22.0	7.0	231.0	1264.0	Pepperdine University	CA	high	high	IIA
+http://dbpedia.org/resource/Peru_State_College	483.0	402.0	308.0	367.0	584.0	493.0	385.0	452.0	14.0	8.0	19.0	9.0	50.0	2559.0	Peru State College	NE	medium	medium	IIB
+http://dbpedia.org/resource/Pfeiffer_University	395.0	322.0	269.0	337.0	471.0	381.0	321.0	401.0	23.0	9.0	15.0	2.0	49.0	2955.0	Pfeiffer College	NC	low	low	IIB
+http://dbpedia.org/resource/Phillips_University	365.0	315.0	273.0	317.0	438.0	381.0	327.0	381.0	16.0	10.0	15.0	1.0	42.0	3175.0	Phillips University	OK	low	low	IIB
+http://dbpedia.org/resource/Pittsburg_State_University	450.0	381.0	331.0	375.0	567.0	484.0	425.0	477.0	103.0	76.0	70.0	4.0	291.0	1926.0	Pittsburg State University	KS	medium	medium	IIA
+http://dbpedia.org/resource/Pitzer_College	652.0	439.0	381.0	547.0	824.0	572.0	482.0	695.0	31.0	10.0	13.0	0.0	54.0	1172.0	Pitzer College	CA	high	high	IIB
+http://dbpedia.org/resource/Point_Loma_Nazarene_University	507.0	393.0	358.0	429.0	637.0	523.0	468.0	549.0	43.0	21.0	23.0	7.0	94.0	1262.0	Point Loma Nazarene College	CA	medium	medium	IIB
+http://dbpedia.org/resource/Point_Park_University	411.0	331.0	290.0	357.0	519.0	430.0	363.0	452.0	33.0	19.0	17.0	1.0	73.0	3357.0	Point Park College	PA	medium	medium	IIB
+http://dbpedia.org/resource/Pomona_College	730.0	525.0	417.0	566.0	909.0	658.0	530.0	708.0	60.0	52.0	40.0	7.0	161.0	1173.0	Pomona College	CA	high	high	IIB
+http://dbpedia.org/resource/Portland_State_University	544.0	437.0	382.0	474.0	693.0	564.0	498.0	609.0	205.0	113.0	77.0	16.0	411.0	3216.0	Portland State University	OR	medium	high	I
+http://dbpedia.org/resource/Prairie_View_A&M_University	485.0	421.0	347.0	369.0	616.0	542.0	455.0	481.0	34.0	58.0	64.0	73.0	232.0	3630.0	Prairie View A&M University	TX	medium	medium	IIA
+http://dbpedia.org/resource/Presbyterian_College	503.0	376.0	316.0	397.0	637.0	478.0	395.0	501.0	26.0	22.0	22.0	5.0	75.0	3445.0	Presbyterian College	SC	medium	medium	IIB
+http://dbpedia.org/resource/Princeton_University	963.0	564.0	437.0	749.0	1154.0	686.0	534.0	901.0	402.0	66.0	179.0	16.0	702.0	2627.0	Princeton University	NJ	high	high	I
+http://dbpedia.org/resource/Principia_College	465.0	400.0	345.0	395.0	572.0	540.0	414.0	490.0	20.0	9.0	13.0	7.0	49.0	1744.0	Principia College	IL	medium	medium	IIB
+http://dbpedia.org/resource/Providence_College	633.0	526.0	418.0	489.0	827.0	712.0	544.0	646.0	43.0	68.0	93.0	15.0	219.0	3406.0	Providence College	RI	medium	high	IIA
+http://dbpedia.org/resource/Purdue_University_Calumet	519.0	413.0	364.0	405.0	677.0	541.0	479.0	530.0	47.0	105.0	74.0	21.0	247.0	1827.0	Purdue University-Calumet	IN	medium	medium	IIA
+http://dbpedia.org/resource/Queens'_College,_Cambridge	427.0	360.0	319.0	350.0	511.0	437.0	384.0	422.0	14.0	21.0	20.0	8.0	63.0	2957.0	Queens College	NC	medium	low	IIB
+http://dbpedia.org/resource/Quincy_University	372.0	371.0	285.0	345.0	459.0	462.0	351.0	427.0	18.0	21.0	14.0	2.0	55.0	1745.0	Quincy University	IL	low	low	IIB
+http://dbpedia.org/resource/Quinnipiac_University	697.0	540.0	412.0	553.0	877.0	686.0	531.0	701.0	82.0	51.0	64.0	10.0	207.0	1402.0	Quinnipiac College	CT	high	high	IIA
+http://dbpedia.org/resource/Radford_University	499.0	393.0	354.0	407.0	613.0	488.0	443.0	505.0	137.0	119.0	92.0	43.0	391.0	3732.0	Radford University	VA	medium	medium	IIA
+http://dbpedia.org/resource/Ramapo_College	645.0	527.0	407.0	532.0	835.0	701.0	563.0	706.0	49.0	40.0	41.0	1.0	131.0	9344.0	Ramapo College of New Jersey	NJ	high	high	IIB
+http://dbpedia.org/resource/Randolph%E2%80%93Macon_College	522.0	395.0	313.0	399.0	632.0	484.0	385.0	488.0	22.0	30.0	21.0	6.0	79.0	3733.0	Randolph-Macon College	VA	medium	medium	IIB
+http://dbpedia.org/resource/Randolph_College	495.0	411.0	337.0	409.0	623.0	512.0	424.0	512.0	17.0	28.0	18.0	2.0	65.0	3734.0	Randolph-Macon Woman's College	VA	medium	medium	IIB
+http://dbpedia.org/resource/Reed_College	596.0	442.0	378.0	495.0	729.0	545.0	463.0	607.0	47.0	20.0	31.0	0.0	98.0	3217.0	Reed College	OR	medium	high	IIB
+http://dbpedia.org/resource/Regis_College	504.0	425.0	345.0	407.0	627.0	542.0	426.0	513.0	9.0	20.0	14.0	1.0	46.0	2206.0	Regis College	MA	medium	medium	IIB
+http://dbpedia.org/resource/Regis_University	489.0	434.0	349.0	424.0	626.0	531.0	428.0	527.0	16.0	26.0	12.0	2.0	56.0	1363.0	Regis University	CO	medium	medium	IIB
+http://dbpedia.org/resource/Rensselaer_Polytechnic_Institute	750.0	548.0	475.0	640.0	922.0	703.0	601.0	799.0	190.0	118.0	61.0	0.0	369.0	2803.0	Rensselaer Polytechnic Institute	NY	high	high	I
+http://dbpedia.org/resource/Rhode_Island_College	518.0	442.0	381.0	453.0	675.0	581.0	504.0	594.0	125.0	101.0	96.0	1.0	323.0	3407.0	Rhode Island College	RI	medium	medium	IIA
+http://dbpedia.org/resource/Rhodes_College	575.0	446.0	353.0	430.0	741.0	566.0	428.0	538.0	23.0	37.0	46.0	4.0	110.0	3519.0	Rhodes College	TN	medium	medium	IIB
+http://dbpedia.org/resource/Rice_University	809.0	548.0	481.0	663.0	992.0	682.0	593.0	816.0	224.0	89.0	91.0	8.0	422.0	3604.0	Rice University	TX	high	high	I
+http://dbpedia.org/resource/Richard_Stockton_College_of_New_Jersey	656.0	496.0	393.0	492.0	790.0	607.0	490.0	603.0	47.0	58.0	65.0	8.0	178.0	9345.0	Stockton State College	NJ	medium	high	IIB
+http://dbpedia.org/resource/Rider_University	636.0	552.0	511.0	564.0	764.0	668.0	604.0	677.0	59.0	103.0	41.0	1.0	208.0	2628.0	Rider College	NJ	high	high	IIA
+http://dbpedia.org/resource/Ripon_College_(Wisconsin)	491.0	380.0	320.0	409.0	619.0	479.0	401.0	515.0	28.0	23.0	17.0	1.0	69.0	3884.0	Ripon College	WI	medium	medium	IIB
+http://dbpedia.org/resource/Rivier_College	449.0	363.0	331.0	365.0	541.0	419.0	392.0	429.0	12.0	29.0	18.0	7.0	66.0	2586.0	Rivier College	NH	medium	low	IIA
+http://dbpedia.org/resource/Roanoke_College	494.0	408.0	338.0	412.0	624.0	523.0	422.0	522.0	27.0	37.0	28.0	0.0	92.0	3736.0	Roanoke College	VA	medium	medium	IIB
+http://dbpedia.org/resource/Robert_Morris_University	575.0	454.0	406.0	438.0	724.0	576.0	513.0	554.0	11.0	43.0	42.0	7.0	103.0	3359.0	Robert Morris College	PA	medium	medium	IIB
+http://dbpedia.org/resource/Rochester_Institute_of_Technology	568.0	476.0	417.0	466.0	710.0	603.0	527.0	587.0	182.0	215.0	179.0	13.0	665.0	2806.0	Rochester Institute of Technology	NY	medium	medium	IIA
+http://dbpedia.org/resource/Rockhurst_University	448.0	380.0	350.0	369.0	548.0	460.0	422.0	448.0	15.0	31.0	33.0	9.0	88.0	2499.0	Rockhurst College	MO	medium	medium	IIB
+http://dbpedia.org/resource/Roger_Williams_University				464.0				605.0	0.0	0.0	0.0	0.0	104.0	4917.0	Roger Williams University	RI	medium	high	IIB
+http://dbpedia.org/resource/Rollins_College	542.0	420.0	321.0	457.0	678.0	519.0	378.0	564.0	78.0	43.0	26.0	7.0	154.0	1515.0	Rollins College	FL	medium	medium	IIA
+http://dbpedia.org/resource/Roosevelt_University	484.0	405.0	359.0	416.0	610.0	517.0	464.0	531.0	50.0	58.0	42.0	2.0	152.0	1749.0	Roosevelt University	IL	medium	medium	IIA
+http://dbpedia.org/resource/Rose%E2%80%93Hulman_Institute_of_Technology	608.0	522.0	447.0	549.0	797.0	679.0	568.0	715.0	51.0	29.0	21.0	0.0	101.0	1830.0	Rose-Hulman Institute of Technology	IN	high	high	IIB
+http://dbpedia.org/resource/Rust_College	341.0	280.0	302.0	285.0	382.0	313.0	337.0	318.0	11.0	8.0	24.0	18.0	61.0	2433.0	Rust College	MS	low	low	IIB
+http://dbpedia.org/resource/Sacred_Heart_University	546.0	444.0	374.0	435.0	686.0	566.0	478.0	553.0	19.0	55.0	30.0	7.0	111.0	1403.0	Sacred Heart University	CT	medium	medium	IIB
+http://dbpedia.org/resource/Saint_Ambrose_University	431.0	374.0	325.0	362.0	541.0	471.0	401.0	450.0	29.0	15.0	44.0	8.0	98.0	1889.0	St. Ambrose University	IA	medium	medium	IIB
+http://dbpedia.org/resource/Saint_Anselm_College	512.0	403.0	338.0	381.0	633.0	508.0	435.0	483.0	16.0	35.0	51.0	7.0	109.0	2587.0	Saint Anselm College	NH	medium	medium	IIB
+http://dbpedia.org/resource/Saint_Francis_University	472.0	363.0	318.0	345.5	573.0	437.0	387.0	418.0	11.5	11.0	22.5	6.5	51.5	1832.0	Saint Francis College	IN	low	low	IIB
+http://dbpedia.org/resource/Saint_Joseph's_College_(Indiana)	434.0	364.3333333333333	314.6666666666667	337.0	535.0	449.0	390.6666666666667	419.6666666666667	9.666666666666666	11.666666666666666	32.666666666666664	3.0	57.0	1833.0	Saint Joseph's College	IN	low	low	IIB
+http://dbpedia.org/resource/Saint_Joseph_College_(Connecticut)	548.0	451.0	360.0	430.0	654.0	544.0	432.0	517.0	8.0	34.0	22.0	1.0	65.0	1409.0	Saint Joseph College	CT	medium	medium	IIA
+http://dbpedia.org/resource/Saint_Louis_University	657.0	475.0	402.0	500.0	783.0	575.0	484.0	600.0	133.0	111.0	120.0	31.0	395.0	2506.0	Saint Louis University	MO	high	high	I
+http://dbpedia.org/resource/Saint_Martin's_University	378.0	347.0	303.0	325.0	441.0	418.0	360.0	386.0	7.0	14.0	28.0	1.0	50.0	3794.0	Saint Martin's College	WA	low	low	IIB
+http://dbpedia.org/resource/Saint_Mary's_College_(Indiana)	524.0	391.0	331.0	388.0	675.0	509.0	435.0	505.0	21.0	43.0	52.0	1.0	117.0	1836.0	Saint Mary's College	IN	medium	medium	IIB
+http://dbpedia.org/resource/Saint_Mary's_College_of_California	614.0	494.0	404.0	500.0	754.0	616.0	497.0	618.0	38.0	55.0	42.0	0.0	135.0	1302.0	Saint Mary's College of California	CA	high	high	IIA
+http://dbpedia.org/resource/Saint_Mary-of-the-Woods_College	307.0	234.0	199.0	232.0	382.0	295.0	246.0	290.0	11.0	11.0	18.0	4.0	44.0	1835.0	Saint Mary-of-the-Woods Coll	IN	low	low	IIB
+http://dbpedia.org/resource/Saint_Michael's_College	501.0	414.0	344.0	404.0	675.0	548.0	457.0	540.0	33.0	38.0	46.0	0.0	122.0	3694.0	Saint Michael's College	VT	medium	medium	IIB
+http://dbpedia.org/resource/Saint_Paul's_College,_Virginia	319.0	309.0	275.0	290.0	399.0	368.0	341.0	357.0	8.0	9.0	8.0	8.0	33.0	3739.0	Saint Paul's College	VA	low	low	IIB
+http://dbpedia.org/resource/Saint_Peter's_College_(New_Jersey)	477.0	391.0	317.0	404.0	600.0	498.0	412.0	514.0	46.0	42.0	21.0	5.0	117.0	2638.0	Saint Peter's College	NJ	medium	medium	IIB
+http://dbpedia.org/resource/Saint_Vincent_College	436.0	399.0	317.0	363.0	603.0	540.0	406.0	481.0	14.0	20.0	20.0	10.0	64.0	3368.0	Saint Vincent College	PA	medium	medium	IIB
+http://dbpedia.org/resource/Saint_Xavier_University	551.0	452.0	388.0	439.0	667.0	548.0	471.0	531.0	22.0	78.0	53.0	6.0	159.0	1768.0	Saint Xavier University	IL	medium	medium	IIA
+http://dbpedia.org/resource/Salem_College	378.0	349.0	283.0	324.0	466.0	451.0	349.0	407.0	9.0	15.0	17.0	3.0	44.0	2960.0	Salem College	NC	low	low	IIB
+http://dbpedia.org/resource/Salem_International_University	422.0	353.0	305.0	306.0	509.0	429.0	368.0	369.0	6.0	11.0	17.0	16.0	50.0	3820.0	Salem-Teikyo University	WV	low	low	IIB
+http://dbpedia.org/resource/Salisbury_University	543.0	445.0	357.0	404.0	679.0	562.0	458.0	513.0	54.0	63.0	78.0	8.0	240.0	2091.0	Salisbury State University	MD	medium	medium	IIA
+http://dbpedia.org/resource/Salve_Regina_University	495.0	397.0	327.0	385.0	620.0	496.0	406.0	481.0	29.0	43.0	37.0	14.0	124.0	3411.0	Salve Regina University	RI	medium	medium	IIA
+http://dbpedia.org/resource/Sam_Houston_State_University	497.0	403.0	341.0	408.0	633.0	523.0	451.0	529.0	147.0	63.0	116.0	10.0	365.0	3606.0	Sam Houston State University	TX	medium	medium	IIA
+http://dbpedia.org/resource/Samford_University	565.0	425.0	363.0	449.0	710.0	556.0	476.0	578.0	83.0	46.0	77.0	9.0	215.0	1036.0	Samford University	AL	medium	medium	IIA
+http://dbpedia.org/resource/San_Diego_State_University	602.0	479.0	403.0	547.0	756.0	615.0	524.0	693.0	576.0	223.0	100.0	10.0	909.0	1151.0	San Diego State University	CA	high	high	IIA
+http://dbpedia.org/resource/San_Jose_State_University	598.0	486.0	404.0	528.0	750.0	623.0	526.0	669.0	431.0	222.0	158.0	8.0	819.0	1155.0	San Jose State University	CA	high	high	IIA
+http://dbpedia.org/resource/Santa_Clara_University	763.0	555.0	487.0	578.0	938.0	704.0	624.0	729.0	85.0	117.0	90.0	0.0	324.0	1326.0	Santa Clara University	CA	high	high	IIA
+http://dbpedia.org/resource/Sarah_Lawrence_College	623.0	478.0	398.0	541.0	779.0	610.0	495.0	677.0	39.0	14.0	13.0	0.0	69.0	2813.0	Sarah Lawrence College	NY	high	high	IIB
+http://dbpedia.org/resource/Schreiner_University	354.0	300.0	257.0	282.0	425.0	363.0	313.0	343.0	12.0	8.0	8.0	12.0	40.0	3610.0	Schreiner College	TX	low	low	IIB
+http://dbpedia.org/resource/Scripps_College	611.0	458.0	372.0	511.0	776.0	588.0	495.0	658.0	28.0	10.0	15.0	1.0	54.0	1174.0	Scripps College	CA	high	high	IIB
+http://dbpedia.org/resource/Seattle_Pacific_University	457.0	388.0	335.0	390.0	563.0	485.0	422.0	485.0	50.0	48.0	34.0	7.0	144.0	3788.0	Seattle Pacific University	WA	medium	medium	IIA
+http://dbpedia.org/resource/Seattle_University	565.0	476.0	408.0	458.0	674.0	572.0	495.0	551.0	53.0	88.0	69.0	14.0	237.0	3790.0	Seattle University	WA	medium	medium	IIA
+http://dbpedia.org/resource/Seton_Hall_University	736.0	557.0	414.0	553.0	894.0	683.0	507.0	675.0	98.0	110.0	101.0	13.0	332.0	2632.0	Seton Hall University	NJ	high	high	IIA
+http://dbpedia.org/resource/Seton_Hill_University	489.0	380.0	329.0	368.0	575.0	479.0	403.0	453.0	7.0	23.0	24.0	1.0	56.0	3362.0	Seton Hill College	PA	medium	medium	IIB
+http://dbpedia.org/resource/Sewanee:_The_University_of_the_South	578.0	427.0	347.0	485.0	759.0	571.0	447.0	636.0	53.0	20.0	18.0	6.0	99.0	3534.0	University of the South	TN	medium	high	IIB
+http://dbpedia.org/resource/Shaw_University		321.0	293.0	292.0		383.0	348.0	345.0	5.0	19.0	43.0	25.0	92.0	2962.0	Shaw University	NC	low	low	IIB
+http://dbpedia.org/resource/Shawnee_State_University	510.0	439.0	368.0	411.0	658.0	563.0	502.0	537.0	15.0	54.0	35.0	15.0	119.0	12748.0	Shawnee State University	OH	medium	medium	IIB
+http://dbpedia.org/resource/Shenandoah_University	463.0	387.0	330.0	392.0	554.0	464.0	394.0	469.0	32.0	26.0	25.0	6.0	89.0	3737.0	Shenandoah University	VA	medium	medium	IIB
+http://dbpedia.org/resource/Shippensburg_University_of_Pennsylvania	673.0	545.0	425.0	573.0	848.0	706.0	567.0	735.0	148.0	67.0	83.0	3.0	301.0	3326.0	Shippensburg University	PA	high	high	IIA
+http://dbpedia.org/resource/Shorter_University	370.0	308.0	294.0	317.0	439.0	368.0	355.0	379.0	16.0	17.0	17.0	5.0	55.0	1591.0	Shorter College	GA	low	low	IIB
+http://dbpedia.org/resource/Siena_College	515.0	429.0	357.0	434.0	667.0	567.0	474.0	570.0	52.0	53.0	49.0	1.0	155.0	2816.0	Siena College	NY	medium	medium	IIB
+http://dbpedia.org/resource/Simmons_College_(Massachusetts)	589.0	471.0	386.0	477.0	724.0	592.0	482.0	593.0	54.0	54.0	53.0	6.0	167.0	2208.0	Simmons College	MA	medium	medium	IIA
+http://dbpedia.org/resource/Simpson_College	491.0	377.0	339.0	394.0	645.0	473.0	434.0	504.0	25.0	11.0	17.0	14.0	67.0	1887.0	Simpson College	IA	medium	medium	IIB
+http://dbpedia.org/resource/Skidmore_College	642.0	492.0	397.0	498.0	831.0	639.0	516.0	646.0	42.0	69.0	48.0	5.0	164.0	2814.0	Skidmore College	NY	medium	high	IIB
+http://dbpedia.org/resource/Slippery_Rock_University_of_Pennsylvania	675.0	532.0	431.0	537.0	836.0	670.0	552.0	676.0	127.0	104.0	138.0	11.0	380.0	3327.0	Slippery Rock University of Penn.	PA	high	high	IIA
+http://dbpedia.org/resource/Smith_College	732.0	514.0	405.0	591.0	932.0	646.0	502.0	747.0	127.0	70.0	59.0	6.0	262.0	2209.0	Smith College	MA	high	high	IIA
+http://dbpedia.org/resource/Sonoma_State_University	602.0	459.0	380.0	553.0	755.0	592.0	497.0	699.0	170.0	34.0	29.0	0.0	233.0	1156.0	Sonoma State University	CA	high	high	IIA
+http://dbpedia.org/resource/South_Carolina_State_University	458.0	379.0	307.0	350.0	561.0	467.0	382.0	432.0	59.0	58.0	77.0	36.0	255.0	3446.0	South Carolina State College	SC	medium	low	IIB
+http://dbpedia.org/resource/Southern_Arkansas_University	461.0	389.0	321.0	362.0	575.0	484.0	402.0	453.0	27.0	31.0	34.0	23.0	115.0	1107.0	Southern Arkansas University	AR	medium	medium	IIA
+http://dbpedia.org/resource/Southern_Oregon_University	460.0	371.0	315.0	393.0	598.0	491.0	417.0	517.0	72.0	49.0	25.0	12.0	161.0	3219.0	Southern Oregon State College	OR	medium	medium	IIA
+http://dbpedia.org/resource/Southern_Utah_University	421.0	349.0	290.0	335.0	546.0	473.0	413.0	459.0	33.0	48.0	55.0	11.0	147.0	3678.0	Southern Utah University	UT	low	medium	IIB
+http://dbpedia.org/resource/Southern_Wesleyan_University	293.0	247.0	214.0	264.0	366.0	311.0	261.0	329.0	20.0	7.0	9.0	0.0	36.0	3422.0	Central Wesleyan College	SC	low	low	IIB
+http://dbpedia.org/resource/Southwest_Minnesota_State_University	525.0	417.0	355.0	459.0	686.0	551.0	466.0	602.0	57.0	40.0	19.0	1.0	117.0	2375.0	Southwest State University	MN	medium	high	IIB
+http://dbpedia.org/resource/Southwestern_College_(Kansas)	340.0	318.0	278.0	311.0	415.0	388.0	341.0	380.0	16.0	10.0	10.0	3.0	39.0	1940.0	Southwestern College	KS	low	low	IIB
+http://dbpedia.org/resource/Southwestern_University	627.0	470.0	373.0	478.0	763.0	581.0	465.0	590.0	22.0	33.0	25.0	3.0	83.0	3620.0	Southwestern University	TX	medium	medium	IIB
+http://dbpedia.org/resource/Spalding_University	359.0	315.0	289.0	313.0	416.0	370.0	333.0	363.0	15.0	22.0	26.0	3.0	66.0	1960.0	Spalding University	KY	low	low	IIB
+http://dbpedia.org/resource/Spring_Arbor_University	368.0	321.0	284.0	320.0	455.0	398.0	370.0	400.0	22.0	15.0	19.0	6.0	62.0	2318.0	Spring Arbor College	MI	low	low	IIB
+http://dbpedia.org/resource/Spring_Hill_College	431.0	352.0	311.0	373.0	518.0	425.0	374.0	449.0	23.0	17.0	14.0	1.0	55.0	1041.0	Spring Hill College	AL	medium	medium	IIB
+http://dbpedia.org/resource/Springfield_College_(Massachusetts)	520.0	404.0	321.0	376.0	643.0	501.0	399.0	467.0	34.0	45.0	78.0	17.0	174.0	2211.0	Springfield College	MA	medium	medium	IIA
+http://dbpedia.org/resource/St._Catherine_University	428.0	369.0	326.0	356.0	515.0	448.0	385.0	427.0	27.0	53.0	54.0	9.0	143.0	2342.0	College of St. Catherine	MN	medium	low	IIB
+http://dbpedia.org/resource/St._Cloud_State_University	518.0	417.0	354.0	441.0	662.0	546.0	464.0	570.0	259.0	143.0	146.0	25.0	573.0	2377.0	St. Cloud State University	MN	medium	medium	IIA
+http://dbpedia.org/resource/St._Edward's_University	469.0	385.0	331.0	380.0	552.0	454.0	392.0	448.0	12.0	45.0	24.0	2.0	83.0	3621.0	St. Edward's University	TX	medium	medium	IIB
+http://dbpedia.org/resource/St._Francis'_College	543.0	466.0	350.0	446.0	689.0	607.0	457.0	573.0	22.0	14.0	14.0	7.0	57.0	2820.0	St. Francis College	NY	medium	medium	IIB
+http://dbpedia.org/resource/St._John's_College_(Brantford)				439.5				579.5	0.0	0.0	0.0	0.0	48.0	2092.0	Saint John's College	MD	medium	medium	IIB
+http://dbpedia.org/resource/St._John's_University_of_Tanzania	512.0	412.0	353.0	418.0	672.0	523.0	435.0	532.0	37.0	44.0	38.0	6.0	126.0	2379.0	St. John's University	MN	medium	medium	IIB
+http://dbpedia.org/resource/St._John_Fisher_College	513.0	427.0	376.0	432.0	635.0	512.0	451.0	524.0	29.0	40.0	36.0	1.0	106.0	2821.0	St. John Fisher College	NY	medium	medium	IIB
+http://dbpedia.org/resource/St._Lawrence_University	627.0	473.0	366.0	488.0	799.0	613.0	472.0	627.0	50.0	56.0	40.0	7.0	153.0	2829.0	St. Lawrence University	NY	medium	high	IIB
+http://dbpedia.org/resource/St._Mary's_University_College_(Twickenham)	652.0	474.0	383.0	502.0	744.0	560.0	452.0	585.0	58.0	57.0	49.0	5.0	169.0	3623.0	St. Mary's University	TX	high	medium	IIA
+http://dbpedia.org/resource/St._Norbert_College	546.0	445.0	353.0	415.0	712.0	585.0	457.0	541.0	15.0	45.0	42.0	7.0	109.0	3892.0	St. Norbert College	WI	medium	medium	IIB
+http://dbpedia.org/resource/St._Olaf_College	551.0	417.0	355.0	446.0	673.0	509.0	430.0	543.0	82.0	93.0	49.0	11.0	235.0	2382.0	St. Olaf College	MN	medium	medium	IIB
+http://dbpedia.org/resource/St._Thomas_Aquinas_College	510.0	408.0	374.0	419.0	617.0	526.0	454.0	515.0	18.0	16.0	26.0	3.0	63.0	2832.0	St. Thomas Aquinas College	NY	medium	medium	IIB
+http://dbpedia.org/resource/St._Thomas_University_(Florida)	438.0	482.0	351.0	403.0	520.0	570.0	421.0	480.0	23.0	22.0	37.0	4.0	90.0	1468.0	St. Thomas University	FL	medium	medium	IIA
+http://dbpedia.org/resource/St_Mary's_College,_Auckland	336.0	301.0	261.0	282.0	390.0	358.0	313.0	335.0	10.0	11.0	15.0	5.0	43.0	1943.0	Saint Mary College	KS	low	low	IIB
+http://dbpedia.org/resource/Stanford_University	952.0	658.0	519.0	824.0	1144.0	814.0	653.0	1000.0	533.0	139.0	145.0	0.0	834.0	1305.0	Stanford University	CA	high	high	I
+http://dbpedia.org/resource/State_University_of_New_York_at_Geneseo	541.0	411.0	348.0	405.0	704.0	536.0	448.0	525.0	48.0	78.0	79.0	23.0	243.0	2845.0	SUNY College at Geneseo	NY	medium	medium	IIA
+http://dbpedia.org/resource/State_University_of_New_York_at_Old_Westbury	592.0	480.0	374.0	466.0	758.0	616.0	485.0	599.0	36.0	42.0	40.0	8.0	127.0	7109.0	SUNY College at Old Westbury	NY	medium	high	IIB
+http://dbpedia.org/resource/State_University_of_New_York_at_Oneonta	539.0	428.0	362.0	440.0	705.0	557.0	467.0	571.0	93.0	78.0	81.0	1.0	267.0	2847.0	SUNY College at Oneonta	NY	medium	medium	IIA
+http://dbpedia.org/resource/State_University_of_New_York_at_Potsdam	531.0	413.0	337.0	424.0	691.0	539.0	436.0	552.0	78.0	63.0	52.0	9.0	219.0	2850.0	SUNY College at Potsdam	NY	medium	medium	IIA
+http://dbpedia.org/resource/Stephens_College				282.0				364.0	0.0	0.0	0.0	0.0	62.0	2512.0	Stephens College	MO	low	low	IIB
+http://dbpedia.org/resource/Stetson_University	622.0	437.0	370.0	477.0	794.0	561.0	467.0	605.0	61.0	52.0	65.0	2.0	185.0	1531.0	Stetson University	FL	medium	high	IIA
+http://dbpedia.org/resource/Stevens_Institute_of_Technology	647.0	494.0	415.0	544.0	807.0	634.0	525.0	685.0	66.0	37.0	30.0	4.0	137.0	2639.0	Stevens Institute of Technology	NJ	high	high	IIA
+http://dbpedia.org/resource/Stillman_College	321.0	288.0	251.0	272.0	388.0	354.0	312.0	335.0	13.0	18.0	18.0	10.0	59.0	1044.0	Stillman College	AL	low	low	IIB
+http://dbpedia.org/resource/Stonehill_College	513.0	428.0	354.0	423.0	657.0	541.0	458.0	539.0	24.0	56.0	36.0	0.0	116.0	2217.0	Stonehill College	MA	medium	medium	IIB
+http://dbpedia.org/resource/Stony_Brook_University	755.0	534.0	414.0	589.0	961.0	688.0	526.0	751.0	346.0	216.0	183.0	24.0	801.0	2838.0	SUNY at Stony Brook	NY	high	high	I
+http://dbpedia.org/resource/Suffolk_University	727.0	548.0	484.0	611.0	925.0	706.0	599.0	777.0	111.0	73.0	33.0	15.0	232.0	2218.0	Suffolk University	MA	high	high	IIA
+http://dbpedia.org/resource/Sul_Ross_State_University	440.0	368.0	310.0	354.0	562.0	474.0	410.0	462.0	34.0	15.0	24.0	8.0	95.0	3625.0	Sul Ross State University	TX	medium	medium	IIB
+http://dbpedia.org/resource/Susquehanna_University	534.0	420.0	359.0	422.0	661.0	519.0	443.0	521.0	25.0	26.0	33.0	5.0	89.0	3369.0	Susquehanna University	PA	medium	medium	IIB
+http://dbpedia.org/resource/Swarthmore_College	704.0	519.0	417.0	562.0	868.0	651.0	526.0	699.0	68.0	44.0	47.0	2.0	163.0	3370.0	Swarthmore College	PA	high	high	IIB
+http://dbpedia.org/resource/Sweet_Briar_College	539.0	433.0	372.0	468.0	666.0	524.0	445.0	572.0	28.0	26.0	11.0	0.0	65.0	3742.0	Sweet Briar College	VA	medium	medium	IIB
+http://dbpedia.org/resource/Syracuse_University	648.0	475.0	394.0	526.0	851.0	645.0	528.0	701.0	371.0	301.0	205.0	10.0	891.0	2882.0	Syracuse University	NY	high	high	I
+http://dbpedia.org/resource/Tabor_College_(Kansas)	304.0		222.0	257.0	385.0		282.0	326.0	8.0	5.0	8.0	3.0	24.0	1946.0	Tabor College	KS	low	low	IIB
+http://dbpedia.org/resource/Tarleton_State_University	446.0	399.0	347.0	354.0	570.0	516.0	455.0	462.0	42.0	48.0	48.0	62.0	204.0	3631.0	Tarleton State University	TX	medium	medium	IIA
+http://dbpedia.org/resource/Taylor_University	404.0	352.0	300.0	355.0	555.0	486.0	382.0	480.0	36.0	31.0	25.0	3.0	95.0	1838.0	Taylor University	IN	medium	medium	IIB
+http://dbpedia.org/resource/Temple_University	736.0	579.0	454.0	606.0	913.0	724.0	568.0	755.0	490.0	332.0	291.0	37.0	1150.0	3371.0	Temple University	PA	high	high	I
+http://dbpedia.org/resource/Tennessee_Technological_University	547.0	424.0	346.0	436.0	664.0	527.0	439.0	540.0	146.0	98.0	100.0	32.0	376.0	3523.0	Tennessee Technological Univ	TN	medium	medium	IIA
+http://dbpedia.org/resource/Texas_A&M_University	645.0	460.0	394.0	505.0	798.0	587.0	509.0	637.0	652.0	424.0	305.0	2.0	1546.0	10366.0	Texas A & M University	TX	high	high	I
+http://dbpedia.org/resource/Texas_Christian_University	654.0	477.0	423.0	511.0	811.0	599.0	518.0	632.0	107.0	109.0	99.0	9.0	336.0	3636.0	Texas Christian University	TX	high	high	I
+http://dbpedia.org/resource/Texas_Lutheran_University	458.0	370.0	313.0	365.0	564.0	456.0	386.0	449.0	20.0	13.0	20.0	8.0	61.0	3641.0	Texas Lutheran College	TX	medium	medium	IIB
+http://dbpedia.org/resource/Texas_Southern_University	551.0	455.0	366.0	423.0	684.0	573.0	469.0	535.0	83.0	82.0	104.0	50.0	331.0	3642.0	Texas Southern University	TX	medium	medium	I
+http://dbpedia.org/resource/Texas_Tech_University	610.0	429.0	363.0	468.0	762.0	550.0	472.0	595.0	270.0	216.0	220.0	14.0	742.0	3644.0	Texas Tech University	TX	medium	high	I
+http://dbpedia.org/resource/Texas_Wesleyan_University	456.0	536.0	298.0	439.0	570.0	656.0	370.0	544.0	42.0	30.0	15.0	9.0	96.0	3645.0	Texas Wesleyan University	TX	medium	medium	IIB
+http://dbpedia.org/resource/Texas_Woman's_University	499.0	401.0	342.0	396.0	623.0	507.0	438.0	501.0	93.0	107.0	101.0	40.0	353.0	3646.0	Texas Woman's University	TX	medium	medium	I
+http://dbpedia.org/resource/The_Catholic_University_of_America	611.0	449.0	385.0	482.0	718.0	533.0	459.0	570.0	123.0	141.0	104.0	6.0	374.0	1437.0	Catholic University of America	DC	medium	medium	I
+http://dbpedia.org/resource/The_College_of_New_Jersey	644.0	524.0	422.0	525.0	845.0	691.0	557.0	690.0	108.0	81.0	123.0	1.0	313.0	2642.0	Trenton State College	NJ	high	high	IIB
+http://dbpedia.org/resource/The_College_of_Saint_Rose	456.0	408.0	329.0	374.0	534.0	503.0	403.0	455.0	19.0	50.0	46.0	14.0	129.0	2705.0	College of Saint Rose	NY	medium	medium	IIA
+http://dbpedia.org/resource/The_College_of_St._Scholastica	461.0	374.0	327.0	345.0	568.0	466.0	421.0	436.0	14.0	31.0	50.0	18.0	119.0	2343.0	College of St. Scholastica	MN	low	low	IIB
+http://dbpedia.org/resource/The_Evergreen_State_College				430.0				541.0	0.0	0.0	0.0	0.0	154.0	8155.0	Evergreen State College	WA	medium	medium	IIB
+http://dbpedia.org/resource/Thiel_College	408.0	342.0	287.0	369.0	534.0	443.0	376.0	481.0	33.0	14.0	10.0	1.0	58.0	3376.0	Thiel College	PA	medium	medium	IIB
+http://dbpedia.org/resource/Thomas_College		338.0	297.0	318.0		404.0	341.0	374.0	2.0	7.0	8.0	0.0	17.0	2052.0	Thomas College	ME	low	low	IIB
+http://dbpedia.org/resource/Thomas_Jefferson_University		505.0	428.0	441.0		678.0	558.0	578.0	5.0	9.0	24.0	18.0	59.0	3278.0	Thomas Jefferson University	PA	medium	medium	IIA
+http://dbpedia.org/resource/Thomas_More_College_(Kentucky)	352.0	324.0	277.0	312.0	432.0	394.0	345.0	382.0	12.0	30.0	18.0	1.0	62.0	2001.0	Thomas More College	KY	low	low	IIB
+http://dbpedia.org/resource/Tiffin_University	485.0	379.0	334.0	379.0	593.0	470.0	410.0	466.0	6.0	7.0	14.0	0.0	27.0	3121.0	Tiffin University	OH	medium	medium	IIB
+http://dbpedia.org/resource/Tougaloo_College	300.0	267.0	244.0	262.0	370.0	327.0	289.0	318.0	17.0	22.0	18.0	9.0	66.0	2439.0	Tougaloo College	MS	low	low	IIB
+http://dbpedia.org/resource/Towson_University	531.0	433.0	388.0	439.0	692.0	565.0	505.0	573.0	141.0	136.0	169.0	25.0	471.0	2099.0	Towson State University	MD	medium	medium	IIA
+http://dbpedia.org/resource/Transylvania_University	447.0	393.0	318.0	384.0	627.0	526.0	424.0	521.0	18.0	25.0	18.0	2.0	63.0	1987.0	Transylvania University	KY	medium	medium	IIB
+http://dbpedia.org/resource/Trine_University	395.0	324.0	291.0	340.0	485.0	395.0	356.0	415.0	23.0	28.0	10.0	3.0	64.0	1839.0	Tri-State University	IN	low	low	IIB
+http://dbpedia.org/resource/Trinity_College_(Connecticut)	581.5	403.0	326.0	406.6666666666667	718.5	497.0	396.6666666666667	498.6666666666667	24.666666666666668	24.0	22.0	1.3333333333333333	74.66666666666667	1414.0	Trinity College	CT	high	low	IIB
+http://dbpedia.org/resource/Trinity_University_College	696.0	477.0	389.0	548.0	860.0	610.0	497.0	686.0	95.0	61.0	57.0	3.0	216.0	3647.0	Trinity University	TX	high	high	IIA
+http://dbpedia.org/resource/Troy_University	462.0	385.0	322.0	350.0	560.0	467.0	392.0	426.0	25.0	59.0	100.0	19.0	204.0	1047.0	Troy State University	AL	medium	low	IIA
+http://dbpedia.org/resource/Tufts_University	735.0	549.0	447.0	592.0	964.0	710.0	607.0	777.0	148.0	157.0	98.0	2.0	405.0	2219.0	Tufts University	MA	high	high	I
+http://dbpedia.org/resource/Tulane_University	713.0	514.0	418.0	564.0	876.0	646.0	514.0	699.0	172.0	166.0	115.0	3.0	456.0	2029.0	Tulane University	LA	high	high	I
+http://dbpedia.org/resource/Tusculum_College	353.0	327.0	290.0	314.0	426.0	396.0	340.0	373.0	6.0	7.0	14.0	0.0	27.0	3527.0	Tusculum College	TN	low	low	IIB
+http://dbpedia.org/resource/Tuskegee_University	410.0	352.0	306.0	327.0	487.0	415.0	362.0	387.0	57.0	65.0	85.0	45.0	254.0	1050.0	Tuskegee University	AL	low	low	IIA
+http://dbpedia.org/resource/Union_College	414.0	362.6666666666667	308.6666666666667	359.0	527.3333333333334	463.0	379.6666666666667	452.0	29.666666666666668	28.0	23.0	6.333333333333333	87.0	1988.0	Union College	KY	low	low	IIB
+http://dbpedia.org/resource/Union_University	396.0	361.0	318.0	332.0	496.0	454.0	396.0	414.0	18.0	22.0	52.0	20.0	112.0	3528.0	Union University	TN	low	low	IIB
+http://dbpedia.org/resource/United_States_Naval_Academy	595.0	455.0	377.0	492.0	721.0	556.0	466.0	600.0	125.0	100.0	67.0	7.0	299.0	2101.0	U. S. Naval Academy	MD	medium	high	IIB
+http://dbpedia.org/resource/Unity_College_Northampton	355.0	261.0	261.0	285.0	418.0	313.0	313.0	340.0	8.0	7.0	16.0	0.0	31.0	6858.0	Unity College	ME	low	low	IIB
+http://dbpedia.org/resource/University_at_Albany,_SUNY	732.0	526.0	407.0	576.0	934.0	679.0	524.0	739.0	260.0	217.0	125.0	0.0	638.0	2835.0	SUNY at Albany	NY	high	high	I
+http://dbpedia.org/resource/University_at_Buffalo,_The_State_University_of_New_York	762.0	548.0	423.0	601.0	970.0	704.0	534.0	767.0	400.0	338.0	218.0	9.0	982.0	9554.0	SUNY at Buffalo	NY	high	high	I
+http://dbpedia.org/resource/University_of_Alabama	605.0	447.0	382.0	463.0	746.0	563.0	483.0	580.0	267.0	206.0	206.0	76.0	762.0	1051.0	University of Alabama	AL	medium	medium	I
+http://dbpedia.org/resource/University_of_Alabama_at_Birmingham	633.0	445.0	366.0	461.0	786.0	569.0	475.0	587.0	106.0	163.0	107.0	19.0	406.0	1052.0	University of Alabama at Birmingham	AL	medium	medium	I
+http://dbpedia.org/resource/University_of_Alabama_in_Huntsville	636.0	443.0	375.0	451.0	771.0	540.0	455.0	548.0	72.0	87.0	98.0	7.0	282.0	1055.0	University of Alabama in Huntsville	AL	medium	medium	IIA
+http://dbpedia.org/resource/University_of_Alaska_Anchorage	612.0	507.0	414.0	498.0	825.0	681.0	557.0	670.0	115.0	124.0	101.0	21.0	392.0	11462.0	University of Alaska-Anchorage	AK	medium	high	IIA
+http://dbpedia.org/resource/University_of_Alaska_Fairbanks	686.0	560.0	432.0	508.0	914.0	753.0	572.0	677.0	74.0	125.0	118.0	40.0	404.0	1063.0	University of Alaska-Fairbanks	AK	high	high	I
+http://dbpedia.org/resource/University_of_Alaska_Southeast	533.0	494.0	329.0	415.0	716.0	663.0	442.0	559.0	9.0	26.0	20.0	9.0	70.0	1065.0	University of Alaska-Southeast	AK	medium	medium	IIA
+http://dbpedia.org/resource/University_of_Arizona	648.0	462.0	411.0	537.0	771.0	561.0	498.0	645.0	647.0	377.0	272.0	2.0	1349.0	1083.0	University of Arizona	AZ	high	high	I
+http://dbpedia.org/resource/University_of_Arkansas	563.0	436.0	379.0	452.0	686.0	531.0	461.0	550.0	314.0	198.0	225.0	54.0	806.0	1108.0	University of Arkansas-Fayetteville	AR	medium	medium	I
+http://dbpedia.org/resource/University_of_Arkansas_at_Little_Rock	536.0	416.0	372.0	415.0	651.0	506.0	450.0	504.0	128.0	117.0	72.0	63.0	398.0	1101.0	University of Arkansas at Little Rock	AR	medium	medium	IIA
+http://dbpedia.org/resource/University_of_Arkansas_at_Monticello	453.0	363.0	330.0	349.0	561.0	448.0	402.0	428.0	23.0	24.0	48.0	22.0	117.0	1085.0	University of Arkansas at Monticello	AR	low	low	IIB
+http://dbpedia.org/resource/University_of_Arkansas_at_Pine_Bluff	406.0	366.0	332.0	335.0	505.0	457.0	415.0	419.0	40.0	33.0	71.0	46.0	192.0	1086.0	University of Arkansas at Pine Bluff	AR	low	low	IIB
+http://dbpedia.org/resource/University_of_Baltimore	680.0	560.0	490.0	582.0	833.0	693.0	612.0	719.0	62.0	50.0	54.0	0.0	166.0	2102.0	University of Baltimore	MD	high	high	IIA
+http://dbpedia.org/resource/University_of_Bridgeport	505.0	437.0	360.0	434.0	644.0	551.0	463.0	553.0	32.0	29.0	26.0	1.0	90.0	1416.0	University of Bridgeport	CT	medium	medium	IIA
+http://dbpedia.org/resource/University_of_California,_Berkeley	764.0	513.0	433.0	650.0	939.0	631.0	533.0	799.0	834.0	229.0	209.0	0.0	1346.0	1312.0	University of California-Berkeley	CA	high	high	I
+http://dbpedia.org/resource/University_of_California,_Davis	683.0	478.0	404.0	561.0	840.0	588.0	496.0	689.0	535.0	190.0	234.0	0.0	1072.0	1313.0	University of California-Davis	CA	high	high	I
+http://dbpedia.org/resource/University_of_California,_Irvine	708.0	488.0	423.0	574.0	870.0	599.0	520.0	705.0	319.0	161.0	138.0	0.0	673.0	1314.0	University of California-Irvine	CA	high	high	I
+http://dbpedia.org/resource/University_of_California,_Los_Angeles	741.0	497.0	421.0	609.0	910.0	611.0	517.0	748.0	817.0	267.0	298.0	0.0	1499.0	1315.0	University of California-Los Angeles	CA	high	high	I
+http://dbpedia.org/resource/University_of_California,_Riverside	670.0	461.0	390.0	514.0	824.0	567.0	479.0	632.0	183.0	80.0	140.0	0.0	441.0	1316.0	University of California-Riverside	CA	high	high	I
+http://dbpedia.org/resource/University_of_California,_San_Diego	723.0	487.0	401.0	595.0	888.0	598.0	493.0	732.0	405.0	147.0	130.0	0.0	734.0	1317.0	University of California-San Diego	CA	high	high	I
+http://dbpedia.org/resource/University_of_California,_San_Francisco	624.0	449.0	380.0	520.0	767.0	552.0	467.0	639.0	154.0	83.0	74.0	0.0	314.0	1319.0	University of California-San Francisco	CA	high	high	I
+http://dbpedia.org/resource/University_of_California,_Santa_Barbara	712.0	473.0	401.0	578.0	875.0	581.0	493.0	711.0	371.0	125.0	145.0	0.0	694.0	1320.0	University of California-Santa Barbara	CA	high	high	I
+http://dbpedia.org/resource/University_of_California,_Santa_Cruz	677.0	464.0	391.0	537.0	832.0	570.0	481.0	660.0	186.0	93.0	92.0	0.0	413.0	1321.0	University of California-Santa Cruz	CA	high	high	I
+http://dbpedia.org/resource/University_of_Central_Arkansas	521.0	416.0	339.0	395.0	632.0	507.0	416.0	482.0	93.0	89.0	82.0	76.0	340.0	1092.0	University of Central Arkansas	AR	medium	medium	IIA
+http://dbpedia.org/resource/University_of_Central_Oklahoma	503.0	442.0	384.0	416.0	606.0	536.0	469.0	505.0	108.0	57.0	166.0	58.0	389.0	3152.0	University of Central Okla.	OK	medium	medium	IIA
+http://dbpedia.org/resource/University_of_Charleston	385.0	347.0	324.0	333.0	484.0	440.0	413.0	423.0	10.0	21.0	21.0	15.0	67.0	3818.0	University of Charleston	WV	low	low	IIB
+http://dbpedia.org/resource/University_of_Chicago	894.0	586.0	515.0	742.0	1104.0	724.0	636.0	916.0	467.0	138.0	161.0	36.0	802.0	1774.0	University of Chicago	IL	high	high	I
+http://dbpedia.org/resource/University_of_Colorado_Denver	596.0	453.0	408.0	467.0	726.0	561.0	508.0	576.0	106.0	108.0	119.0	35.0	368.0	6740.0	University of Colorado at Denver	CO	medium	medium	IIA
+http://dbpedia.org/resource/University_of_Colorado_at_Boulder	652.0	494.0	421.0	528.0	797.0	615.0	519.0	649.0	457.0	301.0	227.0	93.0	1081.0	1370.0	University of Colorado- Boulder	CO	high	high	I
+http://dbpedia.org/resource/University_of_Dallas	474.0	432.0	364.0	395.0	578.0	550.0	446.0	489.0	23.0	35.0	25.0	1.0	108.0	3651.0	University of Dallas	TX	medium	medium	IIA
+http://dbpedia.org/resource/University_of_Dayton	590.0	479.0	392.0	482.0	765.0	616.0	495.0	618.0	123.0	159.0	130.0	7.0	419.0	3127.0	University of Dayton	OH	medium	high	IIA
+http://dbpedia.org/resource/University_of_Delaware	723.0	531.0	422.0	556.0	922.0	693.0	554.0	721.0	341.0	319.0	217.0	65.0	953.0	1431.0	University of Delaware	DE	high	high	I
+http://dbpedia.org/resource/University_of_Denver	623.0	479.0	430.0	509.0	756.0	588.0	525.0	620.0	142.0	106.0	101.0	6.0	378.0	1371.0	University of Denver	CO	high	high	I
+http://dbpedia.org/resource/University_of_Dubuque	351.0	315.0	309.0	323.0	443.0	392.0	358.0	396.0	19.0	23.0	14.0	2.0	58.0	1891.0	University of Dubuque	IA	low	low	IIB
+http://dbpedia.org/resource/University_of_Evansville	500.0	415.0	351.0	414.0	602.0	505.0	415.0	496.0	57.0	43.0	58.0	4.0	170.0	1795.0	University of Evansville	IN	medium	medium	IIA
+http://dbpedia.org/resource/University_of_Findlay	417.0	370.0	301.0	330.0	526.0	470.0	369.0	413.0	18.0	29.0	51.0	7.0	115.0	3045.0	University of Findlay	OH	low	low	IIB
+http://dbpedia.org/resource/University_of_Florida	613.0	430.0	399.0	501.0	790.0	567.0	527.0	653.0	981.0	721.0	510.0	49.0	2261.0	1535.0	University of Florida	FL	high	high	I
+http://dbpedia.org/resource/University_of_Georgia	619.0	444.0	378.0	489.0	768.0	553.0	464.0	607.0	650.0	552.0	391.0	64.0	1658.0	1598.0	University of Georgia	GA	medium	high	I
+http://dbpedia.org/resource/University_of_Great_Falls	361.0	305.0	258.0	299.0	459.0	367.0	312.0	364.0	10.0	19.0	7.0	7.0	43.0	2527.0	College of Great Falls	MT	low	low	IIB
+http://dbpedia.org/resource/University_of_Hartford	529.0	445.0	380.0	439.0	660.0	566.0	492.0	558.0	76.0	131.0	111.0	3.0	329.0	1422.0	University of Hartford	CT	medium	medium	IIA
+http://dbpedia.org/resource/University_of_Hawaii%E2%80%93West_Oahu	513.0		396.0	449.0	654.0		512.0	576.0	8.0	4.0	8.0	0.0	20.0	21078.0	University of Hawaii-West Oahu	HI	medium	medium	IIB
+http://dbpedia.org/resource/University_of_Hawaii_at_Hilo	576.0	461.0	414.0	467.0	731.0	591.0	534.0	598.0	43.0	47.0	37.0	14.0	141.0	29020.0	University of Hawaii at Hilo	HI	medium	high	IIB
+http://dbpedia.org/resource/University_of_Houston	681.0	462.0	398.0	520.0	836.0	585.0	510.0	651.0	341.0	288.0	238.0	24.0	903.0	3652.0	University of Houston	TX	high	high	I
+http://dbpedia.org/resource/University_of_Houston%E2%80%93Downtown	503.0	404.0	336.0	365.0	628.0	507.0	429.0	463.0	20.0	53.0	44.0	1.0	153.0	12826.0	University of Houston-Downtown	TX	medium	medium	IIB
+http://dbpedia.org/resource/University_of_Houston%E2%80%93Victoria		389.0	319.0	355.0		498.0	411.0	456.0	5.0	11.0	11.0	2.0	29.0	13231.0	University of Houston-Victoria	TX	medium	medium	IIB
+http://dbpedia.org/resource/University_of_Idaho	514.0	408.0	373.0	438.0	640.0	514.0	472.0	550.0	217.0	165.0	155.0	9.0	546.0	1626.0	University of Idaho	ID	medium	medium	I
+http://dbpedia.org/resource/University_of_Illinois_School_of_Architecture	682.0	493.0	421.0	570.0	783.0	574.0	494.0	659.0	927.0	520.0	393.0	1.0	1868.0	1775.0	University of Illinois-Urbana	IL	high	high	I
+http://dbpedia.org/resource/University_of_Illinois_at_Chicago	656.0	476.0	411.0	513.0	755.0	555.0	483.0	596.0	401.0	369.0	296.0	20.0	1135.0	1776.0	University of Illinois-Chicago	IL	high	high	I
+http://dbpedia.org/resource/University_of_Illinois_at_Springfield	499.0	437.0	370.0	433.0	594.0	516.0	447.0	516.0	50.0	62.0	46.0	5.0	163.0	9333.0	Sangamon State University	IL	medium	medium	IIA
+http://dbpedia.org/resource/University_of_Indianapolis	487.0	408.0	358.0	382.0	620.0	515.0	433.0	469.0	16.0	38.0	52.0	19.0	125.0	1804.0	University of Indianapolis	IN	medium	medium	IIA
+http://dbpedia.org/resource/University_of_Iowa	706.0	509.0	432.0	579.0	872.0	643.0	549.0	723.0	486.0	308.0	260.0	10.0	1064.0	1892.0	University of Iowa	IA	high	high	I
+http://dbpedia.org/resource/University_of_Kansas	579.0	422.0	367.0	485.0	714.0	529.0	458.0	603.0	474.0	297.0	204.0	6.0	981.0	1948.0	University of Kansas	KS	medium	high	I
+http://dbpedia.org/resource/University_of_Kentucky	634.0	473.0	418.0	521.0	760.0	574.0	504.0	628.0	470.0	416.0	308.0	6.0	1200.0	1989.0	University of Kentucky	KY	high	high	I
+http://dbpedia.org/resource/University_of_La_Verne	482.0	392.0	326.0	401.0	602.0	478.0	396.0	494.0	41.0	28.0	41.0	0.0	110.0	1216.0	University of La Verne	CA	medium	medium	IIA
+http://dbpedia.org/resource/University_of_Louisiana_at_Lafayette	533.0	409.0	359.0	402.0	633.0	493.0	434.0	483.0	147.0	136.0	167.0	98.0	548.0	2031.0	University of Southwestern Louisiana	LA	medium	medium	I
+http://dbpedia.org/resource/University_of_Louisville	584.0	442.0	368.0	476.0	715.0	547.0	449.0	584.0	276.0	208.0	169.0	12.0	674.0	1999.0	University of Louisville	KY	medium	medium	I
+http://dbpedia.org/resource/University_of_Maine	574.0	436.0	366.0	449.0	716.0	552.0	463.0	566.0	122.0	197.0	102.0	19.0	452.0	2053.0	University of Maine at Orono	ME	medium	medium	I
+http://dbpedia.org/resource/University_of_Maine_at_Farmington	464.0	348.0	292.0	385.0	594.0	448.0	377.0	496.0	47.0	26.0	13.0	14.0	101.0	2040.0	University of Maine at Farmington	ME	medium	medium	IIB
+http://dbpedia.org/resource/University_of_Maine_at_Fort_Kent	436.0	347.0	320.0	356.0	555.0	442.0	415.0	456.0	9.0	10.0	12.0	2.0	33.0	2041.0	University of Maine at Fort Kent	ME	medium	medium	IIB
+http://dbpedia.org/resource/University_of_Maine_at_Machias	465.0	355.0	284.0	360.0	582.0	459.0	366.0	462.0	7.0	24.0	8.0	0.0	39.0	2055.0	University of Maine at Machias	ME	medium	medium	IIB
+http://dbpedia.org/resource/University_of_Maine_at_Presque_Isle	439.0	354.0	302.0	343.0	562.0	453.0	389.0	440.0	15.0	19.0	25.0	4.0	67.0	2033.0	University of Maine at Presque Isl	ME	low	low	IIB
+http://dbpedia.org/resource/University_of_Mary_Washington	475.0	397.0	325.0	401.0	602.0	507.0	421.0	513.0	59.0	43.0	48.0	0.0	157.0	3746.0	Mary Washington College	VA	medium	medium	IIB
+http://dbpedia.org/resource/University_of_Maryland,_College_Park	703.0	487.0	406.0	539.0	865.0	608.0	505.0	669.0	535.0	388.0	163.0	133.0	1285.0	2103.0	University of Maryland-College Park	MD	high	high	I
+http://dbpedia.org/resource/University_of_Massachusetts_Boston	656.0	543.0	445.0	549.0	813.0	679.0	563.0	686.0	154.0	186.0	100.0	1.0	473.0	2222.0	University of Massachusetts-Boston	MA	high	high	IIA
+http://dbpedia.org/resource/University_of_Memphis	558.0	425.0	376.0	443.0	674.0	522.0	464.0	542.0	264.0	194.0	193.0	71.0	722.0	3509.0	Memphis State University	TN	medium	medium	I
+http://dbpedia.org/resource/University_of_Miami	693.0	510.0	408.0	513.0	895.0	654.0	514.0	659.0	291.0	200.0	147.0	20.0	769.0	1536.0	University of Miami	FL	high	high	I
+http://dbpedia.org/resource/University_of_Michigan	777.0	577.0	460.0	605.0	955.0	731.0	595.0	760.0	850.0	419.0	472.0	9.0	1968.0	9092.0	University of Michigan-Ann Arbor	MI	high	high	I
+http://dbpedia.org/resource/University_of_Michigan%E2%80%93Dearborn	552.0	452.0	408.0	451.0	701.0	583.0	531.0	582.0	70.0	66.0	51.0	0.0	219.0	2326.0	University of Michigan-Dearborn	MI	medium	medium	IIA
+http://dbpedia.org/resource/University_of_Michigan%E2%80%93Flint	566.0	460.0	409.0	437.0	708.0	582.0	522.0	555.0	43.0	46.0	57.0	1.0	184.0	2327.0	University of Michigan-Flint	MI	medium	medium	IIA
+http://dbpedia.org/resource/University_of_Minnesota	662.0	468.0	418.0	557.0	842.0	613.0	552.0	719.0	785.0	468.0	271.0	12.0	1538.0	3969.0	University of Minnesota-Twin Cities	MN	high	high	I
+http://dbpedia.org/resource/University_of_Minnesota_Duluth	551.0	446.0	386.0	458.0	719.0	591.0	520.0	606.0	90.0	112.0	72.0	11.0	285.0	2388.0	University of Minnesota-Duluth	MN	medium	high	IIA
+http://dbpedia.org/resource/University_of_Minnesota_Morris	533.0	399.0	334.0	389.0	697.0	534.0	457.0	522.0	27.0	23.0	45.0	17.0	112.0	2389.0	University of Minnesota-Morris	MN	medium	medium	IIB
+http://dbpedia.org/resource/University_of_Mississippi	558.0	428.0	384.0	440.0	676.0	524.0	471.0	537.0	138.0	111.0	158.0	29.0	439.0	2440.0	University of Mississippi	MS	medium	medium	I
+http://dbpedia.org/resource/University_of_Missouri	603.0	456.0	407.0	485.0	729.0	560.0	499.0	592.0	336.0	256.0	244.0	63.0	899.0	2516.0	University of Missouri-Columbia	MO	medium	medium	I
+http://dbpedia.org/resource/University_of_Missouri%E2%80%93Kansas_City	580.0	445.0	381.0	473.0	702.0	545.0	467.0	577.0	151.0	167.0	107.0	9.0	434.0	2518.0	University of Missouri-Kansas City	MO	medium	medium	I
+http://dbpedia.org/resource/University_of_Missouri%E2%80%93St._Louis	576.0	460.0	412.0	476.0	699.0	561.0	503.0	579.0	86.0	103.0	110.0	5.0	304.0	2519.0	University of Missouri-St. Louis	MO	medium	medium	I
+http://dbpedia.org/resource/University_of_Mobile	354.0	321.0	277.0	291.0	436.0	401.0	346.0	363.0	17.0	19.0	31.0	19.0	86.0	1029.0	University of Mobile	AL	low	low	IIB
+http://dbpedia.org/resource/University_of_Montana	446.0	365.0	323.0	392.0	537.0	442.0	395.0	474.0	200.0	79.0	95.0	16.0	390.0	2536.0	University of Montana	MT	medium	medium	I
+http://dbpedia.org/resource/University_of_Montevallo	441.0	385.0	310.0	388.0	542.0	473.0	383.0	477.0	57.0	33.0	35.0	2.0	127.0	1004.0	University of Montevallo	AL	medium	medium	IIA
+http://dbpedia.org/resource/University_of_Mount_Union	476.0	394.0	325.0	399.0	609.0	508.0	412.0	509.0	25.0	21.0	17.0	7.0	70.0	3038.0	Mount Union College	OH	medium	medium	IIB
+http://dbpedia.org/resource/University_of_Nebraska%E2%80%93Lincoln	661.0	477.0	410.0	523.0	792.0	584.0	505.0	635.0	436.0	344.0	316.0	31.0	1127.0	2565.0	University of Nebraska-Lincoln	NE	high	high	I
+http://dbpedia.org/resource/University_of_Nebraska_at_Kearney	509.0	433.0	365.0	409.0	618.0	533.0	448.0	502.0	81.0	89.0	92.0	9.0	309.0	2551.0	University of Nebraska at Kearney	NE	medium	medium	IIA
+http://dbpedia.org/resource/University_of_Nebraska_at_Omaha	528.0	446.0	417.0	452.0	635.0	540.0	507.0	547.0	149.0	115.0	97.0	36.0	403.0	2554.0	University of Nebraska at Omaha	NE	medium	medium	IIA
+http://dbpedia.org/resource/University_of_Nevada,_Las_Vegas	596.0	476.0	392.0	452.0	699.0	564.0	468.0	537.0	152.0	192.0	214.0	0.0	642.0	2569.0	University of Nevada-Las Vegas	NV	medium	medium	IIA
+http://dbpedia.org/resource/University_of_Nevada,_Reno	647.0	480.0	390.0	508.0	741.0	558.0	458.0	589.0	145.0	133.0	95.0	5.0	403.0	2568.0	University of Nevada - Reno	NV	high	medium	I
+http://dbpedia.org/resource/University_of_New_England_(Australia)	450.0	380.0	323.0	354.0	545.0	468.0	396.0	434.0	11.0	22.0	39.0	4.0	76.0	2050.0	University of New England	ME	medium	low	IIA
+http://dbpedia.org/resource/University_of_New_Hampshire	577.0	439.5	365.5	470.5	728.5	566.5	473.5	602.0	113.5	142.5	71.0	2.5	329.5	2580.0	New Hampshire College	NH	medium	high	I
+http://dbpedia.org/resource/University_of_New_Haven	524.0	450.0	401.0	471.0	656.0	576.0	513.0	596.0	72.0	44.0	30.0	1.0	152.0	1397.0	University of New Haven	CT	medium	high	IIA
+http://dbpedia.org/resource/University_of_New_Orleans	512.0	378.0	352.0	404.0	609.0	453.0	423.0	483.0	199.0	128.0	116.0	67.0	510.0	2015.0	University of New Orleans	LA	medium	medium	IIA
+http://dbpedia.org/resource/University_of_North_Alabama	506.0	412.0	359.0	411.0	607.0	508.0	445.0	503.0	67.0	40.0	66.0	27.0	200.0	1016.0	University of North Alabama	AL	medium	medium	IIB
+http://dbpedia.org/resource/University_of_North_Carolina_at_Pembroke	538.0	403.0	341.0	413.0	655.0	495.0	421.0	505.0	49.0	32.0	31.0	2.0	143.0	2954.0	Pembroke State University	NC	medium	medium	IIA
+http://dbpedia.org/resource/University_of_North_Dakota	460.0	391.0	345.0	379.0	572.0	489.0	431.0	473.0	130.0	124.0	163.0	27.0	472.0	3005.0	University of North Dakota	ND	medium	medium	I
+http://dbpedia.org/resource/University_of_North_Florida	498.0	405.0	343.0	408.0	663.0	544.0	462.0	547.0	73.0	81.0	57.0	19.0	230.0	9841.0	University of North Florida	FL	medium	medium	IIB
+http://dbpedia.org/resource/University_of_North_Texas	551.0	443.0	382.0	448.0	674.0	550.0	479.0	555.0	249.0	203.0	234.0	5.0	751.0	3594.0	University of North Texas	TX	medium	medium	I
+http://dbpedia.org/resource/University_of_Northern_Colorado	480.0	390.0	333.0	385.0	565.0	463.0	399.0	458.0	151.0	111.0	129.0	35.0	467.0	1349.0	University of Northern Colorado	CO	medium	medium	I
+http://dbpedia.org/resource/University_of_Northern_Iowa	586.0	469.0	390.0	447.0	730.0	591.0	491.0	561.0	155.0	152.0	226.0	89.0	622.0	1890.0	University of Northern Iowa	IA	medium	medium	IIA
+http://dbpedia.org/resource/University_of_Notre_Dame	798.0	562.0	470.0	637.0	985.0	701.0	573.0	787.0	274.0	195.0	164.0	11.0	644.0	1840.0	University of Notre Dame	IN	high	high	I
+http://dbpedia.org/resource/University_of_Oklahoma	600.0	445.0	368.0	470.0	752.0	563.0	468.0	593.0	286.0	225.0	236.0	24.0	778.0	3184.0	University of Oklahoma	OK	medium	medium	I
+http://dbpedia.org/resource/University_of_Oregon	597.0	446.0	375.0	459.0	762.0	579.0	488.0	594.0	240.0	182.0	152.0	89.0	671.0	3223.0	University of Oregon	OR	medium	medium	I
+http://dbpedia.org/resource/University_of_Pennsylvania	881.0	622.0	532.0	744.0	1086.0	831.0	712.0	945.0	541.0	240.0	212.0	0.0	993.0	3378.0	University of Pennsylvania	PA	high	high	I
+http://dbpedia.org/resource/University_of_Pikeville_Kentucky_College_of_Osteopathic_Medicine	359.0	314.0	275.0	304.0	434.0	377.0	332.0	367.0	8.0	25.0	15.0	3.0	51.0	1980.0	Pikeville College	KY	low	low	IIB
+http://dbpedia.org/resource/University_of_Pittsburgh	736.0	516.0	421.0	547.0	910.0	653.0	537.0	688.0	427.0	402.0	373.0	63.0	1325.0	3379.0	University of Pittsburgh	PA	high	high	I
+http://dbpedia.org/resource/University_of_Portland	587.0	437.0	387.0	436.0	716.0	542.0	470.0	536.0	26.0	57.0	42.0	2.0	135.0	3224.0	University of Portland	OR	medium	medium	IIA
+http://dbpedia.org/resource/University_of_Puget_Sound	623.0	469.0	389.0	516.0	788.0	599.0	495.0	655.0	80.0	44.0	51.0	0.0	175.0	3797.0	University of Puget Sound	WA	high	high	IIB
+http://dbpedia.org/resource/University_of_Redlands	566.0	468.0	406.0	488.0	716.0	592.0	495.0	610.0	49.0	19.0	39.0	0.0	109.0	1322.0	University of Redlands	CA	medium	high	IIA
+http://dbpedia.org/resource/University_of_Rhode_Island	630.0	473.0	416.0	541.0	813.0	622.0	548.0	703.0	334.0	187.0	135.0	3.0	659.0	3414.0	University of Rhode Island	RI	high	high	I
+http://dbpedia.org/resource/University_of_Richmond	711.0	550.0	418.0	565.0	883.0	686.0	512.0	700.0	80.0	70.0	72.0	0.0	222.0	3744.0	University of Richmond	VA	high	high	IIA
+http://dbpedia.org/resource/University_of_Rochester	747.0	520.0	434.0	611.0	895.0	626.0	520.0	733.0	252.0	130.0	110.0	7.0	508.0	2894.0	University of Rochester	NY	high	high	I
+http://dbpedia.org/resource/University_of_San_Diego	719.0	533.0	452.0	575.0	904.0	678.0	569.0	725.0	105.0	72.0	76.0	12.0	265.0	10395.0	University of San Diego	CA	high	high	IIA
+http://dbpedia.org/resource/University_of_San_Francisco	617.0	486.0	405.0	514.0	811.0	644.0	538.0	680.0	129.0	59.0	80.0	19.0	287.0	1325.0	University of San Francisco	CA	high	high	IIA
+http://dbpedia.org/resource/University_of_Scranton	565.0	479.0	437.0	475.0	736.0	632.0	571.0	621.0	51.0	86.0	95.0	5.0	242.0	3384.0	University of Scranton	PA	medium	high	IIA
+http://dbpedia.org/resource/University_of_Sioux_Falls	376.0	308.0	289.0	311.0	463.0	388.0	364.0	391.0	7.0	12.0	15.0	2.0	36.0	3469.0	Sioux Falls College	SD	low	low	IIB
+http://dbpedia.org/resource/University_of_South_Alabama	542.0	426.0	370.0	418.0	645.0	514.0	450.0	504.0	119.0	103.0	142.0	64.0	434.0	1057.0	University of South Alabama	AL	medium	medium	IIA
+http://dbpedia.org/resource/University_of_South_Carolina	585.0	436.0	385.0	475.0	705.0	532.0	472.0	577.0	417.0	335.0	194.0	60.0	1034.0	3448.0	University of South Carolina	SC	medium	medium	I
+http://dbpedia.org/resource/University_of_South_Carolina_Aiken	461.0	392.0	317.0	374.0	563.0	481.0	392.0	457.0	30.0	39.0	36.0	12.0	117.0	3449.0	University of South Carolina-Aiken	SC	medium	medium	IIB
+http://dbpedia.org/resource/University_of_South_Dakota	480.0	364.0	340.0	362.0	570.0	438.0	410.0	436.0	88.0	75.0	134.0	55.0	352.0	10300.0	University of South Dakota	SD	medium	low	I
+http://dbpedia.org/resource/University_of_South_Florida	571.0	418.0	369.0	455.0	735.0	547.0	483.0	591.0	387.0	319.0	239.0	45.0	1038.0	1537.0	University of South Florida	FL	medium	medium	I
+http://dbpedia.org/resource/University_of_Southern_California	802.0	574.0	484.0	641.0	1016.0	751.0	636.0	825.0	485.0	354.0	286.0	27.0	1165.0	1328.0	University of Southern California	CA	high	high	I
+http://dbpedia.org/resource/University_of_Southern_Indiana	493.0	421.0	377.0	384.0	636.0	545.0	477.0	491.0	35.0	38.0	58.0	50.0	181.0	1808.0	University of Southern Indiana	IN	medium	medium	IIA
+http://dbpedia.org/resource/University_of_Southern_Mississippi	562.0	438.0	352.0	438.0	664.0	520.0	420.0	520.0	183.0	162.0	160.0	58.0	563.0	2441.0	University of Southern Mississippi	MS	medium	medium	I
+http://dbpedia.org/resource/University_of_St._Joseph's_College	594.0	484.0	427.0	487.0	764.0	628.0	539.0	623.0	39.0	50.0	63.0	2.0	154.0	3367.0	St. Joseph's University	PA	medium	high	IIA
+http://dbpedia.org/resource/University_of_St._Thomas_(Minnesota)	563.0	429.0	366.0	402.0	702.0	538.0	465.0	508.0	31.0	104.0	146.0	29.0	310.0	2345.0	University of St. Thomas	MN	medium	medium	IIA
+http://dbpedia.org/resource/University_of_Tampa	495.0	425.0	371.0	416.0	593.0	513.0	438.0	497.0	36.0	37.0	46.0	4.0	127.0	1538.0	University of Tampa	FL	medium	medium	IIB
+http://dbpedia.org/resource/University_of_Tennessee	600.0	454.0	402.0	501.0	756.0	570.0	500.0	630.0	535.0	325.0	202.0	65.0	1139.0	3530.0	University of Tennessee-Knoxville	TN	high	high	I
+http://dbpedia.org/resource/University_of_Tennessee_Health_Science_Center	605.0	461.0	403.0	486.0	757.0	576.0	502.0	607.0	53.0	60.0	40.0	11.0	164.0	6725.0	University of Tennessee- Memphis	TN	medium	high	I
+http://dbpedia.org/resource/University_of_Tennessee_at_Martin	473.0	409.0	337.0	413.0	615.0	509.0	426.0	527.0	103.0	57.0	48.0	17.0	225.0	3531.0	University of Tennessee-Martin	TN	medium	medium	IIA
+http://dbpedia.org/resource/University_of_Texas_at_Arlington	581.0	438.0	395.0	455.0	724.0	557.0	506.0	577.0	185.0	224.0	137.0	0.0	608.0	3656.0	University of Texas at Arlington	TX	medium	medium	I
+http://dbpedia.org/resource/University_of_Texas_at_Austin	732.0	476.0	432.0	577.0	888.0	599.0	548.0	713.0	997.0	439.0	480.0	30.0	2099.0	3658.0	University of Texas at Austin	TX	high	high	I
+http://dbpedia.org/resource/University_of_Texas_at_Dallas	661.0	505.0	451.0	557.0	810.0	634.0	571.0	692.0	89.0	58.0	59.0	1.0	207.0	9741.0	University of Texas at Dallas	TX	high	high	I
+http://dbpedia.org/resource/University_of_Texas_at_El_Paso	522.0	417.0	365.0	404.0	679.0	552.0	488.0	535.0	101.0	122.0	142.0	10.0	423.0	3661.0	University of Texas at El Paso	TX	medium	medium	IIA
+http://dbpedia.org/resource/University_of_Texas_at_San_Antonio	546.0	441.0	379.0	429.0	685.0	562.0	489.0	548.0	61.0	120.0	108.0	6.0	314.0	10115.0	University of Texas -San Antonio	TX	medium	medium	IIA
+http://dbpedia.org/resource/University_of_Texas_at_Tyler	522.0	421.0	359.0	409.0	666.0	548.0	496.0	538.0	39.0	37.0	24.0	0.0	133.0	11163.0	University of Texas at Tyler	TX	medium	medium	IIA
+http://dbpedia.org/resource/University_of_Toledo	608.0	457.0	379.0	486.0	750.0	572.0	481.0	607.0	217.0	152.0	167.0	20.0	556.0	3131.0	University of Toledo	OH	medium	high	I
+http://dbpedia.org/resource/University_of_Tulsa	686.0	500.0	404.0	513.0	835.0	608.0	493.0	625.0	84.0	108.0	73.0	20.0	287.0	3185.0	University of Tulsa	OK	high	high	IIA
+http://dbpedia.org/resource/University_of_Utah	615.0	432.0	383.0	498.0	792.0	574.0	514.0	652.0	388.0	231.0	216.0	25.0	860.0	3675.0	University of Utah	UT	medium	high	I
+http://dbpedia.org/resource/University_of_Vermont	606.0	450.0	370.0	458.0	770.0	586.0	486.0	592.0	175.0	174.0	115.0	0.0	555.0	3696.0	University of Vermont	VT	medium	medium	I
+http://dbpedia.org/resource/University_of_Virginia	777.0	517.0	430.0	610.0	953.0	653.0	545.0	757.0	445.0	277.0	201.0	18.0	973.0	6968.0	University of Virginia	VA	high	high	I
+http://dbpedia.org/resource/University_of_Washington	683.0	485.0	421.0	555.0	838.0	606.0	524.0	687.0	893.0	472.0	352.0	11.0	1906.0	3798.0	University of Washington	WA	high	high	I
+http://dbpedia.org/resource/University_of_West_Alabama	360.0	304.0	258.0	300.0	433.0	369.0	313.0	363.0	27.0	25.0	33.0	4.0	89.0	1024.0	Livingston University	AL	low	low	IIB
+http://dbpedia.org/resource/University_of_West_Florida	489.0	391.0	350.0	390.0	636.0	505.0	458.0	507.0	59.0	65.0	75.0	22.0	221.0	3955.0	University of West Florida	FL	medium	medium	IIA
+http://dbpedia.org/resource/University_of_West_Georgia	466.0	391.0	353.0	392.0	595.0	502.0	454.0	502.0	98.0	50.0	97.0	27.0	272.0	1601.0	West Georgia College	GA	medium	medium	IIA
+http://dbpedia.org/resource/University_of_Wisconsin%E2%80%93Eau_Claire	489.0	410.0	372.0	428.0	627.0	533.0	487.0	555.0	167.0	126.0	112.0	12.0	417.0	3917.0	University of Wisconsin-Eau Claire	WI	medium	medium	IIA
+http://dbpedia.org/resource/University_of_Wisconsin%E2%80%93Green_Bay	498.0	417.0	356.0	419.0	638.0	541.0	468.0	543.0	52.0	55.0	35.0	3.0	157.0	3899.0	University of Wisconsin-Green Bay	WI	medium	medium	IIA
+http://dbpedia.org/resource/University_of_Wisconsin%E2%80%93La_Crosse	511.0	424.0	384.0	430.0	653.0	549.0	502.0	556.0	128.0	103.0	90.0	8.0	369.0	3919.0	University of Wisconsin-La Crosse	WI	medium	medium	IIA
+http://dbpedia.org/resource/University_of_Wisconsin%E2%80%93Oshkosh	541.0	435.0	374.0	439.0	688.0	562.0	490.0	567.0	104.0	108.0	130.0	4.0	356.0	9630.0	University of Wisconsin-Oshkosh	WI	medium	medium	IIA
+http://dbpedia.org/resource/University_of_Wisconsin%E2%80%93Parkside	535.0	427.0	391.0	434.0	680.0	553.0	510.0	561.0	49.0	58.0	37.0	1.0	163.0	5015.0	University of Wisconsin-Parkside	WI	medium	medium	IIA
+http://dbpedia.org/resource/University_of_Wisconsin%E2%80%93Platteville	517.0	417.0	357.0	437.0	661.0	542.0	470.0	565.0	94.0	57.0	58.0	0.0	221.0	3921.0	University of Wisconsin-Platteville	WI	medium	medium	IIA
+http://dbpedia.org/resource/University_of_Wisconsin%E2%80%93River_Falls	485.0	399.0	340.0	420.0	622.0	519.0	449.0	545.0	112.0	57.0	57.0	2.0	238.0	3923.0	University of Wisconsin-River Falls	WI	medium	medium	IIA
+http://dbpedia.org/resource/University_of_Wisconsin%E2%80%93Stout	502.0	394.0	349.0	412.0	642.0	513.0	460.0	536.0	121.0	71.0	69.0	6.0	300.0	3915.0	University of Wisconsin-Stout	WI	medium	medium	IIA
+http://dbpedia.org/resource/University_of_Wisconsin%E2%80%93Superior	501.0	410.0	348.0	432.0	642.0	533.0	459.0	561.0	42.0	26.0	19.0	5.0	97.0	3925.0	University of Wisconsin-Superior	WI	medium	medium	IIA
+http://dbpedia.org/resource/University_of_Wisconsin%E2%80%93Whitewater	525.0	434.0	368.0	432.0	670.0	562.0	483.0	559.0	127.0	103.0	99.0	5.0	379.0	3926.0	University of Wisconsin-Whitewater	WI	medium	medium	IIA
+http://dbpedia.org/resource/University_of_Wisconsin-Madison_School_of_Music	666.0	498.0	439.0	573.0	831.0	628.0	566.0	721.0	918.0	287.0	360.0	30.0	1641.0	3895.0	University of Wisconsin-Madison	WI	high	high	I
+http://dbpedia.org/resource/University_of_Wisconsin-Milwaukee_Libraries	604.0	465.0	421.0	495.0	761.0	598.0	544.0	632.0	267.0	306.0	192.0	2.0	797.0	3896.0	University of Wisconsin-Milwaukee	WI	medium	high	I
+http://dbpedia.org/resource/University_of_Wyoming	539.0	410.0	374.0	445.0	658.0	507.0	464.0	549.0	241.0	154.0	164.0	2.0	591.0	3932.0	University of Wyoming	WY	medium	medium	I
+http://dbpedia.org/resource/University_of_the_Ozarks	309.0	280.0	274.0	285.0	428.0	383.0	376.0	391.0	14.0	9.0	15.0	2.0	40.0	1094.0	University of the Ozarks	AR	low	low	IIB
+http://dbpedia.org/resource/University_of_the_Pacific_(Peru)	542.0	420.0	372.0	459.0	666.0	528.0	468.0	570.0	172.0	92.0	100.0	10.0	377.0	1329.0	University of the Pacific	CA	medium	medium	IIA
+http://dbpedia.org/resource/Upper_Iowa_University			287.0	303.0			348.0	366.0	4.0	5.0	6.0	12.0	27.0	1893.0	Upper Iowa University	IA	low	low	IIB
+http://dbpedia.org/resource/Urbana_University	335.0	266.0	241.0	272.0	425.0	314.0	297.0	333.0	9.0	12.0	14.0	1.0	36.0	3133.0	Urbana University	OH	low	low	IIB
+http://dbpedia.org/resource/Ursinus_College	528.0	419.0	354.0	434.0	686.0	547.0	458.0	563.0	32.0	28.0	29.0	2.0	91.0	3385.0	Ursinus College	PA	medium	medium	IIB
+http://dbpedia.org/resource/Ursuline_College	413.0	350.0	297.0	306.0	476.0	410.0	361.0	363.0	8.0	10.0	20.0	24.0	62.0	3134.0	Ursuline College	OH	low	low	IIB
+http://dbpedia.org/resource/Utah_State_University	518.0	403.0	364.0	420.0	688.0	546.0	497.0	567.0	199.0	165.0	158.0	20.0	583.0	3677.0	Utah State University	UT	medium	medium	I
+http://dbpedia.org/resource/Valdosta_State_University	477.0	386.0	344.0	390.0	603.0	496.0	445.0	500.0	88.0	90.0	114.0	19.0	311.0	1599.0	Valdosta State University	GA	medium	medium	IIA
+http://dbpedia.org/resource/Valley_City_State_University	403.0	368.0	313.0	340.0	501.0	462.0	383.0	425.0	12.0	14.0	16.0	6.0	54.0	3008.0	Valley City State University	ND	low	low	IIB
+http://dbpedia.org/resource/Valparaiso_University	559.0	423.0	372.0	446.0	681.0	525.0	459.0	548.0	67.0	58.0	74.0	5.0	204.0	1842.0	Valparaiso University	IN	medium	medium	IIA
+http://dbpedia.org/resource/Vanderbilt_University	807.0	522.0	432.0	612.0	988.0	651.0	538.0	756.0	289.0	160.0	177.0	9.0	657.0	3535.0	Vanderbilt University	TN	high	high	I
+http://dbpedia.org/resource/Vassar_College	674.0	517.0	408.0	523.0	879.0	669.0	512.0	674.0	70.0	60.0	66.0	9.0	212.0	2895.0	Vassar College	NY	high	high	IIB
+http://dbpedia.org/resource/Villanova_University	726.0	535.0	438.0	536.0	912.0	698.0	586.0	698.0	133.0	143.0	206.0	21.0	503.0	3388.0	Villanova University	PA	high	high	IIA
+http://dbpedia.org/resource/Virginia_Intermont_College	332.0	318.0	279.0	307.0	392.0	373.0	333.0	363.0	7.0	15.0	12.0	0.0	34.0	3752.0	Virginia Intermont College	VA	low	low	IIB
+http://dbpedia.org/resource/Virginia_Military_Institute	532.0	446.0	364.0	467.0	668.0	573.0	465.0	590.0	52.0	14.0	24.0	2.0	94.0	3753.0	Virginia Military Institute	VA	medium	medium	IIB
+http://dbpedia.org/resource/Virginia_State_University	453.0	416.0	375.0	398.0	554.0	510.0	462.0	489.0	55.0	49.0	59.0	28.0	191.0	3764.0	Virginia State University	VA	medium	medium	IIA
+http://dbpedia.org/resource/Virginia_Union_University	401.0	351.0	264.0	283.0	459.0	404.0	302.0	324.0	8.0	15.0	37.0	8.0	78.0	3766.0	Virginia Union University	VA	low	low	IIB
+http://dbpedia.org/resource/Virginia_Wesleyan_College	527.0	432.0	356.0	436.0	643.0	534.0	447.0	538.0	28.0	11.0	24.0	9.0	72.0	3767.0	Virginia Wesleyan College	VA	medium	medium	IIB
+http://dbpedia.org/resource/Viterbo_University	448.0	366.0	316.0	344.0	553.0	441.0	395.0	423.0	10.0	23.0	28.0	10.0	71.0	3911.0	Viterbo College	WI	low	low	IIB
+http://dbpedia.org/resource/Voorhees_College			254.0	233.0			287.0	265.0	1.0	3.0	12.0	14.0	30.0	3455.0	Voorhees College	SC	low	low	IIB
+http://dbpedia.org/resource/Wabash_College	612.0	474.0	371.0	501.0	770.0	602.0	482.0	637.0	31.0	22.0	20.0	1.0	74.0	1844.0	Wabash College	IN	high	high	IIB
+http://dbpedia.org/resource/Wagner_College	457.0	366.0	326.0	368.0	587.0	477.0	438.0	483.0	20.0	17.0	31.0	4.0	72.0	2899.0	Wagner College	NY	medium	medium	IIB
+http://dbpedia.org/resource/Wake_Forest_University	685.0	526.0	433.0	557.0	837.0	641.0	508.0	674.0	135.0	86.0	74.0	18.0	323.0	2978.0	Wake Forest University	NC	high	high	IIA
+http://dbpedia.org/resource/Walla_Walla_University	333.0	314.0	300.0	312.0	403.0	382.0	367.0	379.0	45.0	20.0	36.0	13.0	117.0	3799.0	Walla Walla College	WA	low	low	IIB
+http://dbpedia.org/resource/Walsh_University	407.0	344.0	278.0	346.0	504.0	427.0	352.0	432.0	17.0	19.0	10.0	0.0	49.0	3135.0	Walsh University	OH	low	low	IIB
+http://dbpedia.org/resource/Warner_Pacific_College		279.0	216.0	269.0		340.0	262.0	328.0	4.0	14.0	8.0	0.0	26.0	3225.0	Warner Pacific College	OR	low	low	IIB
+http://dbpedia.org/resource/Warren_Wilson_College				283.0				352.0	0.0	0.0	0.0	0.0	42.0	2979.0	Warren Wilson College	NC	low	low	IIB
+http://dbpedia.org/resource/Wartburg_College	447.0	370.0	308.0	358.0	564.0	469.0	385.0	451.0	25.0	21.0	29.0	4.0	89.0	1896.0	Wartburg College	IA	medium	medium	IIB
+http://dbpedia.org/resource/Washburn_University	594.0	438.0	333.0	457.0	719.0	540.0	416.0	561.0	76.0	55.0	59.0	11.0	201.0	1949.0	Washburn University	KS	medium	medium	IIA
+http://dbpedia.org/resource/Washington_&_Jefferson_College	549.0	480.0	373.0	473.0	689.0	608.0	494.0	602.0	33.0	29.0	18.0	7.0	87.0	3389.0	Washington & Jefferson College	PA	medium	high	IIB
+http://dbpedia.org/resource/Washington_Adventist_University	308.0	297.0	293.0	296.0	344.0	329.0	325.0	329.0	17.0	9.0	11.0	5.0	42.0	2067.0	Columbia Union College	MD	low	low	IIB
+http://dbpedia.org/resource/Washington_College	496.0	419.0	348.0	443.0	637.0	532.0	421.0	562.0	33.0	12.0	15.0	0.0	60.0	2108.0	Washington College	MD	medium	medium	IIB
+http://dbpedia.org/resource/Washington_State_University	597.0	447.0	393.0	470.0	734.0	559.0	488.0	584.0	337.0	281.0	279.0	62.0	965.0	3800.0	Washington State University	WA	medium	medium	I
+http://dbpedia.org/resource/Washington_University_Libraries	782.0	534.0	451.0	601.0	952.0	652.0	540.0	730.0	264.0	136.0	175.0	18.0	620.0	2520.0	Washington University	MO	high	high	I
+http://dbpedia.org/resource/Washington_and_Lee_University	685.0	487.0	397.0	592.0	842.0	605.0	480.0	728.0	84.0	30.0	24.0	0.0	138.0	3768.0	Washington & Lee University	VA	high	high	IIB
+http://dbpedia.org/resource/Wayne_State_University	683.0	525.0	447.0	535.0	846.0	664.0	560.0	669.0	317.0	267.0	216.0	8.0	925.0	2329.0	Wayne State University	MI	high	high	I
+http://dbpedia.org/resource/Waynesburg_University	407.0	332.0	297.0	333.0	541.0	453.0	399.0	451.0	20.0	11.0	22.0	11.0	67.0	3391.0	Waynesburg College	PA	low	medium	IIB
+http://dbpedia.org/resource/Weber_State_University	483.0	388.0	341.0	389.0	633.0	522.0	458.0	518.0	160.0	97.0	124.0	61.0	459.0	3680.0	Weber State University	UT	medium	medium	IIB
+http://dbpedia.org/resource/Webster_University	505.0	435.0	325.0	395.0	623.0	542.0	414.0	495.0	28.0	29.0	55.0	0.0	115.0	2521.0	Webster University	MO	medium	medium	IIA
+http://dbpedia.org/resource/Wellesley_College	757.0	550.0	453.0	603.0	988.0	712.0	570.0	779.0	97.0	44.0	74.0	4.0	222.0	2224.0	Wellesley College	MA	high	high	IIB
+http://dbpedia.org/resource/Wells_College	464.0	373.0	318.0	396.0	568.0	454.0	389.0	484.0	21.0	10.0	14.0	0.0	46.0	2901.0	Wells College	NY	medium	medium	IIB
+http://dbpedia.org/resource/Wesley_College_(Victoria)	448.0	373.0	334.0	376.0	565.0	449.0	396.0	456.0	14.0	12.0	22.0	1.0	49.0	1433.0	Wesley College	DE	medium	medium	IIB
+http://dbpedia.org/resource/Wesleyan_University	734.0	504.0	423.0	597.0	936.0	641.0	539.0	761.0	128.0	57.0	66.0	0.0	254.0	1424.0	Wesleyan University	CT	high	high	IIA
+http://dbpedia.org/resource/West_Chester_University_of_Pennsylvania	667.0	540.0	431.0	533.0	821.0	680.0	554.0	671.0	136.0	163.0	176.0	8.0	483.0	3328.0	West Chester University of Penn.	PA	high	high	IIA
+http://dbpedia.org/resource/West_Liberty_University	417.0	327.0	235.0	337.0	513.0	404.0	294.0	417.0	42.0	62.0	18.0	7.0	130.0	3823.0	West Liberty State College	WV	low	low	IIB
+http://dbpedia.org/resource/West_Texas_A&M_University	467.0	358.0	326.0	340.0	583.0	457.0	419.0	435.0	65.0	35.0	58.0	58.0	228.0	3665.0	West Texas A&M University	TX	low	low	IIA
+http://dbpedia.org/resource/West_Virginia_University	535.0	431.0	361.0	439.0	642.0	521.0	438.0	529.0	335.0	237.0	272.0	22.0	895.0	3827.0	West Virginia University	WV	medium	medium	I
+http://dbpedia.org/resource/West_Virginia_University_Institute_of_Technology	408.0	340.0	297.0	349.0	502.0	419.0	369.0	431.0	54.0	43.0	29.0	11.0	137.0	3825.0	West Virginia Institute of Technology	WV	low	low	IIB
+http://dbpedia.org/resource/West_Virginia_Wesleyan_College	441.0	383.0	339.0	383.0	572.0	494.0	434.0	495.0	25.0	22.0	24.0	3.0	74.0	3830.0	West Virginia Wesleyan College	WV	medium	medium	IIB
+http://dbpedia.org/resource/Western_Carolina_University	515.0	439.0	364.0	414.0	627.0	537.0	448.0	506.0	71.0	106.0	93.0	1.0	319.0	2981.0	Western Carolina University	NC	medium	medium	IIA
+http://dbpedia.org/resource/Western_Illinois_University	506.0	427.0	350.0	421.0	587.0	500.0	414.0	493.0	241.0	171.0	123.0	62.0	606.0	1780.0	Western Illinois University	IL	medium	medium	IIA
+http://dbpedia.org/resource/Western_Kentucky_University	485.0	408.0	347.0	413.0	613.0	517.0	442.0	524.0	223.0	135.0	144.0	43.0	553.0	2002.0	Western Kentucky University	KY	medium	medium	IIA
+http://dbpedia.org/resource/Western_Michigan_University	603.0	489.0	396.0	502.0	755.0	620.0	505.0	633.0	285.0	233.0	189.0	24.0	731.0	2330.0	Western Michigan University	MI	high	high	I
+http://dbpedia.org/resource/Western_New_England_University	659.0	497.0	437.0	543.0	823.0	632.0	545.0	682.0	54.0	42.0	29.0	6.0	131.0	2226.0	Western New England College	MA	high	high	IIA
+http://dbpedia.org/resource/Western_Oregon_University	439.0	354.0	315.0	361.0	575.0	470.0	417.0	472.0	60.0	40.0	33.0	2.0	155.0	3209.0	Western Oregon State College	OR	medium	medium	IIA
+http://dbpedia.org/resource/Western_State_College_of_Colorado	452.0	381.0	324.0	402.0	546.0	460.0	406.0	490.0	52.0	25.0	26.0	0.0	103.0	1372.0	Western State College of Colo.	CO	medium	medium	IIB
+http://dbpedia.org/resource/Westfield_State_University	523.0	419.0	378.0	457.0	662.0	530.0	478.0	578.0	79.0	46.0	44.0	0.0	169.0	2189.0	Westfield State College	MA	medium	medium	IIA
+http://dbpedia.org/resource/Westminster_College_(Pennsylvania)	474.0	400.0	317.5	402.0	576.0	489.5	377.5	486.5	32.0	14.5	18.0	7.0	71.5	2523.0	Westminster College	MO	medium	medium	IIB
+http://dbpedia.org/resource/Westmont_College	489.0	408.0	339.0	415.0	616.0	524.0	429.0	526.0	30.0	19.0	22.0	3.0	74.0	1341.0	Westmont College	CA	medium	medium	IIB
+http://dbpedia.org/resource/Wheaton_College_(Massachusetts)	556.0	436.0	362.5	469.0	690.0	554.0	454.5	587.5	55.5	35.0	28.5	4.5	123.5	1781.0	Wheaton College	IL	medium	high	IIA
+http://dbpedia.org/resource/Wheeling_Jesuit_University	403.0	348.0	282.0	315.0	486.0	416.0	348.0	381.0	8.0	20.0	25.0	12.0	65.0	3831.0	Wheeling Jesuit College	WV	low	low	IIB
+http://dbpedia.org/resource/Wheelock_College	545.0	420.0	362.0	415.0	662.0	518.0	433.0	505.0	8.0	20.0	20.0	1.0	49.0	2228.0	Wheelock College	MA	medium	medium	IIA
+http://dbpedia.org/resource/Whitman_College	568.0	451.0	372.0	476.0	717.0	571.0	468.0	602.0	37.0	32.0	23.0	1.0	93.0	3803.0	Whitman College	WA	medium	high	IIB
+http://dbpedia.org/resource/Whittier_College	666.0	499.0	347.0	531.0	808.0	601.0	416.0	642.0	48.0	27.0	24.0	9.0	108.0	1342.0	Whittier College	CA	high	high	IIA
+http://dbpedia.org/resource/Whitworth_University	426.0	349.0	279.0	345.0	513.0	426.0	345.0	420.0	26.0	39.0	18.0	10.0	93.0	3804.0	Whitworth College	WA	low	low	IIB
+http://dbpedia.org/resource/Wichita_State_University	555.0	417.0	361.0	415.0	679.0	518.0	450.0	514.0	101.0	154.0	188.0	24.0	467.0	1950.0	Wichita State University	KS	medium	medium	IIA
+http://dbpedia.org/resource/Widener_University	670.0	556.0	439.0	529.0	870.0	714.0	567.0	683.0	60.0	136.0	88.0	18.0	309.0	3313.0	Widener University	PA	high	high	IIA
+http://dbpedia.org/resource/Wilkes_University	499.0	430.0	338.0	409.0	612.0	534.0	408.0	502.0	31.0	53.0	53.0	0.0	138.0	3394.0	Wilkes University	PA	medium	medium	IIA
+http://dbpedia.org/resource/Willamette_University	596.0	390.0	345.0	478.0	758.0	524.0	466.0	621.0	69.0	43.0	28.0	4.0	145.0	3227.0	Willamette University	OR	medium	high	IIB
+http://dbpedia.org/resource/William_Jewell_College	422.0	342.0	306.0	364.0	529.0	458.0	391.0	463.0	42.0	12.0	31.0	3.0	88.0	2524.0	William Jewell College	MO	medium	medium	IIB
+http://dbpedia.org/resource/William_Paterson_University	653.0	519.0	409.0	535.0	859.0	687.0	541.0	707.0	120.0	97.0	88.0	7.0	312.0	2625.0	William Paterson College	NJ	high	high	IIB
+http://dbpedia.org/resource/William_Penn_University	351.0	312.0	269.0	294.0	420.0	386.0	335.0	363.0	8.0	11.0	19.0	7.0	45.0	1900.0	William Penn College	IA	low	low	IIB
+http://dbpedia.org/resource/William_Woods_University	370.0	303.0	290.0	312.0	476.0	374.0	350.0	390.0	13.0	13.0	13.0	5.0	45.0	2525.0	William Woods University	MO	low	low	IIB
+http://dbpedia.org/resource/Williams_Baptist_College			264.0	266.0			327.0	331.0	4.0	4.0	12.0	4.0	24.0	1106.0	Williams Baptist College	AR	low	low	IIB
+http://dbpedia.org/resource/Williams_College	707.0	503.0	417.0	543.0	923.0	669.0	566.0	719.0	77.0	36.0	88.0	0.0	213.0	2229.0	Williams College	MA	high	high	IIB
+http://dbpedia.org/resource/Wilmington_College_(Ohio)	407.0	357.0	303.0	335.0	481.0	430.0	364.0	401.0	10.0	18.0	32.0	1.0	61.0	3142.0	Wilmington College	OH	low	low	IIB
+http://dbpedia.org/resource/Wilson_College_(Pennsylvania)	322.0	314.0	269.0	294.0	402.0	366.0	315.0	350.0	8.0	9.0	12.0	3.0	32.0	3396.0	Wilson College	PA	low	low	IIB
+http://dbpedia.org/resource/Wingate_University	380.0	308.0	301.0	320.0	469.0	385.0	366.0	394.0	23.0	25.0	24.0	7.0	79.0	2985.0	Wingate College	NC	low	low	IIB
+http://dbpedia.org/resource/Winona_State_University	515.0	420.0	358.0	430.0	652.0	537.0	454.0	547.0	118.0	73.0	85.0	17.0	293.0	2394.0	Winona State University	MN	medium	medium	IIB
+http://dbpedia.org/resource/Winthrop_University	464.0	378.0	327.0	378.0	578.0	474.0	413.0	474.0	73.0	78.0	70.0	19.0	242.0	3456.0	Winthrop University	SC	medium	medium	IIA
+http://dbpedia.org/resource/Wittenberg_University	546.0	413.0	341.0	438.0	704.0	543.0	436.0	567.0	49.0	55.0	32.0	6.0	142.0	3143.0	Wittenberg University	OH	medium	medium	IIB
+http://dbpedia.org/resource/Wofford_College	537.0	413.0	367.0	448.0	662.0	519.0	469.0	560.0	24.0	27.0	11.0	2.0	64.0	3457.0	Wofford College	SC	medium	medium	IIB
+http://dbpedia.org/resource/Woodbury_University		373.0	365.0	381.0		472.0	454.0	478.0	5.0	11.0	6.0	0.0	22.0	1343.0	Woodbury University	CA	medium	medium	IIA
+http://dbpedia.org/resource/Worcester_Polytechnic_Institute	659.0	527.0	451.0	546.0	842.0	680.0	557.0	693.0	75.0	70.0	58.0	4.0	212.0	2233.0	Worcester Polytechnic Institute	MA	high	high	IIA
+http://dbpedia.org/resource/Worcester_State_University	528.0	456.0	370.0	463.0	669.0	585.0	483.0	593.0	81.0	44.0	30.0	13.0	168.0	2190.0	Worcester State College	MA	medium	medium	IIA
+http://dbpedia.org/resource/Wright_State_University	642.0	468.0	385.0	465.0	781.0	580.0	485.0	576.0	126.0	176.0	132.0	45.0	493.0	9168.0	Wright State University	OH	medium	medium	IIA
+http://dbpedia.org/resource/Xavier_University	571.0	473.0	378.0	449.0	712.0	586.0	467.0	557.0	58.0	75.0	78.0	19.0	230.0	3144.0	Xavier University	OH	medium	medium	IIA
+http://dbpedia.org/resource/Yale_University	928.0	522.0	444.0	708.0	1127.0	643.0	548.0	863.0	404.0	118.0	191.0	6.0	767.0	1426.0	Yale University	CT	high	high	I
+http://dbpedia.org/resource/York_College_of_Pennsylvania	615.0	512.0	414.0	464.0	809.0	664.0	537.0	603.0	13.0	32.0	67.0	1.0	113.0	3399.0	York College of Pennsylvania	PA	medium	high	IIB
+http://dbpedia.org/resource/Youngstown_State_University	591.0	450.0	362.0	481.0	723.0	562.0	461.0	597.0	204.0	116.0	106.0	33.0	459.0	3145.0	Youngstown State University	OH	medium	high	IIA

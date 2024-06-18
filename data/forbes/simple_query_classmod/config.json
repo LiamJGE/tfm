@@ -1,0 +1,1 @@
+{"DATASET": "forbes", "QUERY_TYPE": "simple", "GRAPH_MOD": "class", "SCHEMA": "../data/statements.rdf", "URI_DF": "../data/forbes/complete_dataset.tsv", "LABEL": "label"}

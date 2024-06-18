@@ -1,0 +1,121 @@
+	uri	cylinders	displacement	horsepower	weight	accelaeration	mpg_label	car	label	label_num	corr_feat
+0	http://dbpedia.org/resource/AMC_Ambassador	8.0	351.3333333333333	171.66666666666666	3781.0	10.333333333333334	15.0	amc ambassador	low	15.0	high
+1	http://dbpedia.org/resource/AMC_Concord	5.5	218.25	97.5	3222.0	17.65	20.5	amc concord	medium	20.5	low
+2	http://dbpedia.org/resource/AMC_Gremlin	6.0	223.75	97.5	2746.25	14.75	19.5	amc gremlin	medium	19.5	
+3	http://dbpedia.org/resource/AMC_Hornet	6.0	230.6	99.4	2933.4	15.72	19.1	amc hornet	medium	19.1	high
+4	http://dbpedia.org/resource/AMC_Matador	7.142857142857143	280.57142857142856	127.14285714285714	3776.142857142858	15.12857142857143	15.357142857142858	amc matador	low	15.357142857142858	high
+5	http://dbpedia.org/resource/AMC_Pacer	6.0	245.0	92.5	3202.0	17.4	18.25	amc pacer	medium	18.25	low
+6	http://dbpedia.org/resource/AMC_Rebel	8.0	304.0	150.0	3433.0	12.0	16.0	amc rebel	low	16.0	medium
+7	http://dbpedia.org/resource/AMC_Spirit	4.0	121.0	80.0	2670.0	15.0	27.4	amc spirit	high	27.4	medium
+8	http://dbpedia.org/resource/Audi_100	4.4	117.6	89.2	2697.2	15.86	24.74	audi 100	high	24.74	low
+9	http://dbpedia.org/resource/BMW_3_Series_(E46)	4.0	121.0	110.0	2600.0	12.8	21.5	bmw 320i	medium	21.5	medium
+10	http://dbpedia.org/resource/BMW_New_Class	4.0	121.0	113.0	2234.0	12.5	26.0	bmw 2002	high	26.0	low
+11	http://dbpedia.org/resource/Buick_Century	6.666666666666667	262.3333333333333	126.66666666666669	3741.0	16.083333333333332	18.5	buick century	medium	18.5	
+12	http://dbpedia.org/resource/Buick_Estate	8.0	402.5	190.0	3723.0	12.45	15.45	buick estate wagon	low	15.45	
+13	http://dbpedia.org/resource/Buick_LeSabre	8.0	350.0	155.0	4502.0	13.5	13.0	buick lesabre	low	13.0	high
+14	http://dbpedia.org/resource/Buick_Regal	6.0	231.0	165.0	3445.0	13.4	17.7	buick regal	low	17.7	medium
+15	http://dbpedia.org/resource/Buick_Skylark	5.5	220.75	111.0	3105.75	15.2	22.625	buick skylark	medium	22.625	high
+16	http://dbpedia.org/resource/Cadillac_Eldorado	8.0	350.0	125.0	3900.0	17.4	23.0	cadillac eldorado	medium	23.0	low
+17	http://dbpedia.org/resource/Cadillac_Seville	8.0	350.0	180.0	4380.0	12.1	16.5	cadillac seville	low	16.5	high
+18	http://dbpedia.org/resource/Chevrolet_Bel_Air	8.0	350.0	145.0	4440.0	14.0	15.0	chevrolet bel air	low	15.0	high
+19	http://dbpedia.org/resource/Chevrolet_Camaro	4.0	151.0	90.0	2950.0	17.3	27.0	chevrolet camaro	high	27.0	low
+20	http://dbpedia.org/resource/Chevrolet_Caprice	8.0	336.6666666666667	141.66666666666666	4061.3333333333335	13.3	15.833333333333334	chevrolet caprice	low	15.833333333333334	
+21	http://dbpedia.org/resource/Chevrolet_Cavalier	4.0	112.0	88.0	2622.5	19.1	27.5	chevrolet cavalier	high	27.5	medium
+22	http://dbpedia.org/resource/Chevrolet_Chevelle	7.0	278.1666666666667	117.5	3804.0	15.0	16.25	chevrolet chevelle	low	16.25	low
+23	http://dbpedia.org/resource/Chevrolet_Chevette	4.0	94.75	63.25	2090.25	17.8	30.4	chevrolet chevette	high	30.4	low
+24	http://dbpedia.org/resource/Chevrolet_Chevy_II_/_Nova	6.0	250.0	102.5	3356.5	16.375	17.75	chevrolet nova	low	17.75	medium
+25	http://dbpedia.org/resource/Chevrolet_Citation	5.333333333333333	165.66666666666666	105.0	2666.0	13.466666666666669	26.766666666666666	chevrolet citation	high	26.766666666666666	medium
+26	http://dbpedia.org/resource/Chevrolet_Impala	8.0	388.5	175.0	4458.5	11.75	13.0	chevrolet impala	low	13.0	high
+27	http://dbpedia.org/resource/Chevrolet_Malibu	7.333333333333333	272.3333333333333	121.66666666666669	3582.6666666666665	15.4	17.566666666666666	chevrolet malibu	low	17.566666666666666	medium
+28	http://dbpedia.org/resource/Chevrolet_Monte_Carlo	8.0	351.25	152.5	3858.25	11.775	16.175	chevrolet monte carlo	low	16.175	high
+29	http://dbpedia.org/resource/Chevrolet_Monza	8.0	262.0	110.0	3221.0	13.5	20.0	chevrolet monza 2+2	medium	20.0	medium
+30	http://dbpedia.org/resource/Chevrolet_Vega	4.0	140.0	79.8	2404.6	18.1	23.2	chevrolet vega	medium	23.2	high
+31	http://dbpedia.org/resource/Chrysler_Cordoba	8.0	400.0	190.0	4325.0	12.2	15.5	chrysler cordoba	low	15.5	high
+32	http://dbpedia.org/resource/Chrysler_LeBaron	6.0	247.0	109.0	3330.0	14.7	20.7	chrysler lebaron	medium	20.7	medium
+33	http://dbpedia.org/resource/Chrysler_Newport	8.0	400.0	190.0	4422.0	12.5	13.0	chrysler newport	low	13.0	low
+34	http://dbpedia.org/resource/Datsun_510	4.0	111.66666666666669	93.66666666666669	2340.6666666666665	15.566666666666668	30.733333333333334	datsun 510	high	30.733333333333334	low
+35	http://dbpedia.org/resource/Dodge_Aspen	6.285714285714286	238.28571428571428	108.57142857142856	3573.1428571428573	17.114285714285714	18.685714285714287	dodge aspen	medium	18.685714285714287	low
+36	http://dbpedia.org/resource/Dodge_Challenger	8.0	383.0	170.0	3563.0	10.0	15.0	dodge challenger	low	15.0	medium
+37	http://dbpedia.org/resource/Dodge_Charger_(B-body)	4.0	135.0	84.0	2370.0	13.0	36.0	dodge charger	high	36.0	low
+38	http://dbpedia.org/resource/Dodge_Colt	4.0	102.6875	80.75	2166.875	15.6625	30.3875	dodge colt	high	30.3875	high
+39	http://dbpedia.org/resource/Dodge_Coronet	8.0	318.0	150.0	4141.333333333333	13.0	15.0	dodge coronet	low	15.0	medium
+40	http://dbpedia.org/resource/Dodge_D_Series	8.0	318.0	150.0	3755.0	14.0	13.0	dodge d100	low	13.0	high
+41	http://dbpedia.org/resource/Dodge_Dart	8.0	318.0	150.0	3399.0	11.0	15.0	dodge dart	low	15.0	medium
+42	http://dbpedia.org/resource/Dodge_Diplomat	8.0	318.0	140.0	3735.0	13.2	19.4	dodge diplomat	medium	19.4	high
+43	http://dbpedia.org/resource/Dodge_Monaco	8.0	350.5	162.5	4547.5	12.6	13.75	dodge monaco	low	13.75	medium
+44	http://dbpedia.org/resource/Dodge_Omni	4.0	105.0	68.2	2184.0	14.44	34.46	plymouth horizon	high	34.46	medium
+45	http://dbpedia.org/resource/Fiat_124	4.0	102.0	75.5	2155.5	14.25	28.0	fiat 124	high	28.0	medium
+46	http://dbpedia.org/resource/Fiat_128	4.0	79.0	62.0	1987.5	17.5	26.5	fiat 128	high	26.5	medium
+47	http://dbpedia.org/resource/Fiat_131	4.0	107.0	86.0	2464.0	15.5	28.0	fiat 131	high	28.0	medium
+48	http://dbpedia.org/resource/Ford_(crossing)	8.0	341.0	162.75	4376.25	13.875	12.5	ford ltd	low	12.5	low
+49	http://dbpedia.org/resource/Ford_Country_Squire	8.0	400.0	170.0	4746.0	12.0	13.0	ford country squire	low	13.0	
+50	http://dbpedia.org/resource/Ford_Escort_(Europe)	4.0	98.0	65.0	2212.5	18.45	32.15	ford escort	high	32.15	high
+51	http://dbpedia.org/resource/Ford_Fairmont	4.857142857142857	165.71428571428572	87.28571428571429	2910.0	16.842857142857145	22.657142857142855	ford fairmont	medium	22.657142857142855	high
+52	http://dbpedia.org/resource/Ford_Fiesta	4.0	98.0	66.0	1800.0	14.4	36.1	ford fiesta	high	36.1	low
+53	http://dbpedia.org/resource/Ford_Galaxie	8.0	377.0	168.0	4208.0	12.166666666666666	14.333333333333334	ford galaxie 500	low	14.333333333333334	low
+54	http://dbpedia.org/resource/Ford_Granada_(Europe)	6.0	233.0	94.0	3248.5	17.95	19.675	ford granada	medium	19.675	medium
+55	http://dbpedia.org/resource/Ford_Maverick_(Americas)	6.0	225.0	81.5	2944.5	17.4	19.5	ford maverick	medium	19.5	medium
+56	http://dbpedia.org/resource/Ford_Motor_Company	8.0	375.5	154.5	4480.0	13.4	13.75	ford	low	13.75	high
+57	http://dbpedia.org/resource/Ford_Mustang	4.666666666666667	176.66666666666666	87.66666666666667	2894.6666666666665	15.3	23.5	ford mustang	medium	23.5	
+58	http://dbpedia.org/resource/Ford_Mustang_(second_generation)	8.0	302.0	129.0	3169.0	12.0	13.0	ford mustang ii	low	13.0	low
+59	http://dbpedia.org/resource/Ford_Pinto	4.285714285714286	134.14285714285714	84.14285714285714	2510.0	16.085714285714285	22.214285714285715	ford pinto	medium	22.214285714285715	low
+60	http://dbpedia.org/resource/Ford_Ranger	4.0	120.0	79.0	2625.0	18.6	28.0	ford ranger	high	28.0	medium
+61	http://dbpedia.org/resource/Ford_Thunderbird	8.0	351.0	149.0	4335.0	14.5	16.0	ford thunderbird	low	16.0	medium
+62	http://dbpedia.org/resource/Ford_Torino	7.714285714285714	301.57142857142856	133.85714285714286	4011.571428571429	14.185714285714283	15.357142857142858	ford gran torino	low	15.357142857142858	high
+63	http://dbpedia.org/resource/Honda_Accord	4.0	102.5	70.75	2168.75	16.65	32.35	honda accord	high	32.35	high
+64	http://dbpedia.org/resource/Honda_Civic	4.0	93.375	65.5	1927.375	15.8625	34.475	honda civic	high	34.475	low
+65	http://dbpedia.org/resource/Honda_Prelude	4.0	107.0	75.0	2210.0	14.4	33.7	honda prelude	high	33.7	medium
+66	http://dbpedia.org/resource/Mazda_Capella	4.0	120.0	74.5	2588.5	17.9	31.450000000000003	mazda 626	high	31.450000000000003	medium
+67	http://dbpedia.org/resource/Mazda_Luce	3.0	80.0	110.0	2720.0	13.5	21.5	mazda rx-4	medium	21.5	low
+68	http://dbpedia.org/resource/Mazda_RX-3	3.0	70.0	90.0	2124.0	13.5	18.0	mazda rx3	medium	18.0	
+69	http://dbpedia.org/resource/Mazda_RX-7	3.0	70.0	100.0	2420.0	12.5	23.7	mazda rx-7	medium	23.7	low
+70	http://dbpedia.org/resource/Mercury_Capri	5.0	138.5	96.5	2346.0	14.0	22.0	mercury capri	medium	22.0	low
+71	http://dbpedia.org/resource/Mercury_Grand_Marquis	8.0	351.0	138.0	3955.0	13.2	16.5	mercury grand marquis	low	16.5	high
+72	http://dbpedia.org/resource/Mercury_Marquis	8.0	429.0	203.0	4792.5	11.25	11.5	mercury marquis	low	11.5	high
+73	http://dbpedia.org/resource/Mercury_Monarch	7.0	276.0	105.5	3501.0	16.9	17.6	mercury monarch	low	17.6	
+74	http://dbpedia.org/resource/Nissan_Bluebird	4.0	108.0	94.0	2379.0	16.5	22.0	datsun 610	medium	22.0	
+75	http://dbpedia.org/resource/Nissan_Sunny	4.0	80.25	66.5	1923.25	18.85	34.65	datsun 210	high	34.65	
+76	http://dbpedia.org/resource/Nissan_Violet	4.0	107.33333333333331	82.0	2236.0	16.833333333333332	30.666666666666668	datsun 710	high	30.666666666666668	medium
+77	http://dbpedia.org/resource/Oldsmobile_88	8.0	350.0	160.0	4456.0	13.5	12.0	oldsmobile delta 88 royale	low	12.0	high
+78	http://dbpedia.org/resource/Oldsmobile_Cutlass	8.0	290.0	101.66666666666669	3503.3333333333335	18.9	23.46666666666667	oldsmobile cutlass	medium	23.46666666666667	high
+79	http://dbpedia.org/resource/Oldsmobile_Cutlass_Ciera	6.0	262.0	85.0	3015.0	17.0	38.0	oldsmobile cutlass ciera	high	38.0	medium
+80	http://dbpedia.org/resource/Oldsmobile_Cutlass_Supreme	8.0	260.0	110.0	4060.0	19.0	17.0	oldsmobile cutlass supreme	low	17.0	
+81	http://dbpedia.org/resource/Oldsmobile_Starfire	4.0	151.0	85.0	2855.0	17.6	23.8	oldsmobile starfire	medium	23.8	high
+82	http://dbpedia.org/resource/Oldsmobile_Vista_Cruiser	8.0	350.0	180.0	4499.0	12.5	12.0	oldsmobile vista cruiser	low	12.0	high
+83	http://dbpedia.org/resource/Opel_Manta	4.0	106.5	76.5	2229.0	15.0	25.0	opel manta	high	25.0	medium
+84	http://dbpedia.org/resource/Peugeot_504	4.0	122.2	84.2	3013.6	20.14	23.04	peugeot 504	medium	23.04	low
+85	http://dbpedia.org/resource/Peugeot_505	4.0	141.0	80.0	3230.0	20.4	28.1	peugeot 505	high	28.1	medium
+86	http://dbpedia.org/resource/Plymouth_Barracuda	8.0	340.0	160.0	3609.0	8.0	14.0	plymouth 'cuda	low	14.0	high
+87	http://dbpedia.org/resource/Plymouth_Duster	6.0	198.0	95.0	2946.3333333333335	16.0	21.666666666666668	plymouth duster	medium	21.666666666666668	low
+88	http://dbpedia.org/resource/Plymouth_Fury	7.666666666666667	322.8333333333333	151.66666666666666	4177.166666666667	13.833333333333334	15.166666666666666	plymouth fury	low	15.166666666666666	medium
+89	http://dbpedia.org/resource/Plymouth_Reliant	4.0	140.25	86.0	2505.0	14.75	28.0	dodge aries	high	28.0	low
+90	http://dbpedia.org/resource/Plymouth_Satellite	7.0	271.5	127.5	3641.25	14.25	16.5	plymouth satellite	low	16.5	medium
+91	http://dbpedia.org/resource/Plymouth_Valiant	6.0	225.0	100.0	3206.0	15.966666666666669	19.666666666666668	plymouth valiant	medium	19.666666666666668	low
+92	http://dbpedia.org/resource/Pontiac_Catalina	8.0	413.75	186.25	4485.5	11.25	14.5	pontiac catalina	low	14.5	low
+93	http://dbpedia.org/resource/Pontiac_Firebird	6.0	250.0	100.0	3282.0	15.0	19.0	pontiac firebird	medium	19.0	low
+94	http://dbpedia.org/resource/Pontiac_Grand_Prix	8.0	400.0	205.0	4249.0	10.3	16.0	pontiac grand prix	low	16.0	medium
+95	http://dbpedia.org/resource/Pontiac_LeMans	6.0	231.0	115.0	3245.0	15.4	21.5	pontiac lemans	medium	21.5	low
+96	http://dbpedia.org/resource/Pontiac_Safari	8.0	400.0	175.0	5140.0	12.0	13.0	pontiac safari	low	13.0	medium
+97	http://dbpedia.org/resource/Pontiac_Sunbird	4.0	151.0	88.0	2740.0	16.0	24.5	pontiac sunbird	medium	24.5	low
+98	http://dbpedia.org/resource/Pontiac_Ventura	6.0	250.0	110.0	3645.0	16.2	18.5	pontiac ventura	medium	18.5	high
+99	http://dbpedia.org/resource/Renault_12	4.0	98.5	76.0	2195.5	16.65	26.5	renault 12	high	26.5	medium
+100	http://dbpedia.org/resource/Renault_5	4.0	79.0	58.0	1825.0	18.6	36.0	renault 5	high	36.0	high
+101	http://dbpedia.org/resource/Saab_99	4.0	116.75	108.75	2625.25	15.175	23.9	saab 99	medium	23.9	high
+102	http://dbpedia.org/resource/Subaru_Leone	4.0	97.0	67.0	2065.0	17.2	31.9	subaru dl	high	31.9	low
+103	http://dbpedia.org/resource/Toyota_Carina	4.0	97.0	88.0	2279.0	19.0	20.0	toyota carina	medium	20.0	high
+104	http://dbpedia.org/resource/Toyota_Celica	4.0	139.0	95.5	2590.0	14.35	26.55	toyota celica	high	26.55	low
+105	http://dbpedia.org/resource/Toyota_Corolla	4.0	94.3	72.3	2112.8	17.48	30.97	toyota corolla	high	30.97	low
+106	http://dbpedia.org/resource/Toyota_Corona	4.0	117.125	89.375	2375.75	14.8375	26.0375	toyota corona	high	26.0375	high
+107	http://dbpedia.org/resource/Toyota_Cressida	6.0	168.0	116.0	2900.0	12.6	25.4	toyota cressida	high	25.4	medium
+108	http://dbpedia.org/resource/Toyota_Mark_II	6.0	156.0	115.0	2868.5	14.5	19.5	toyota mark ii	medium	19.5	high
+109	http://dbpedia.org/resource/Toyota_Starlet	4.0	79.0	58.0	1755.0	16.9	39.1	toyota starlet	high	39.1	high
+110	http://dbpedia.org/resource/Toyota_Tercel	4.0	89.0	62.0	2050.0	17.3	37.7	toyota tercel	high	37.7	low
+111	http://dbpedia.org/resource/Triumph_TR7	4.0	122.0	88.0	2500.0	15.1	35.0	triumph tr7	high	35.0	medium
+112	http://dbpedia.org/resource/Volkswagen_Golf	4.0	92.33333333333331	72.33333333333333	2002.0	14.3	34.13333333333333	vw rabbit	high	34.13333333333333	low
+113	http://dbpedia.org/resource/Volkswagen_Jetta	4.0	105.0	74.0	2190.0	14.2	33.0	volkswagen jetta	high	33.0	high
+114	http://dbpedia.org/resource/Volkswagen_Passat	4.0	89.0	66.0	2177.75	17.45	31.225	volkswagen passat	high	31.225	medium
+115	http://dbpedia.org/resource/Volkswagen_Scirocco	4.0	89.0	71.0	1990.0	14.9	31.5	volkswagen scirocco	high	31.5	
+116	http://dbpedia.org/resource/Volkswagen_Type_3	4.0	97.0	54.0	2254.0	23.5	23.0	volkswagen type 3	medium	23.0	low
+117	http://dbpedia.org/resource/Volkswagen_Type_4	4.0	121.0	76.0	2511.0	18.0	22.0	volkswagen 411	medium	22.0	medium
+118	http://dbpedia.org/resource/Volvo_140_Series	4.0	121.0	112.0	2900.5	15.0	18.5	volvo 144	medium	18.5	low
+119	http://dbpedia.org/resource/Volvo_200_Series	5.0	146.5	113.5	3145.0	14.65	18.5	volvo 245	medium	18.5	low

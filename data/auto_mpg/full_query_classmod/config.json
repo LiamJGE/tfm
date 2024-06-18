@@ -1,0 +1,1 @@
+{"DATASET": "auto_mpg", "QUERY_TYPE": "full", "GRAPH_MOD": "class", "SCHEMA": "../data/statements.rdf", "URI_DF": "../data/auto_mpg/complete_dataset.tsv", "LABEL": "label"}
